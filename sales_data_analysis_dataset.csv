@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Product,Category,Region,City,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode,Customer_Segment,Salesperson
+ORD-01001,2024-03-06,Water Bottle,Accessories,East,Bhubaneswar,6,698.9,0.2,3354.72,3284.78,69.94,Net Banking,Small Business,Aarav
+ORD-01002,2025-07-18,Smartphone,Electronics,East,Guwahati,4,28593.11,0.1,102935.2,95175.25,7759.95,UPI,Consumer,Anaya
+ORD-01003,2025-04-22,Water Bottle,Accessories,East,Ranchi,6,269.19,0.0,1615.14,1263.22,351.92,Credit Card,Consumer,Anaya
+ORD-01004,2024-11-16,Backpack,Accessories,North,Jaipur,8,1564.31,0.1,11263.03,7534.38,3728.65,Credit Card,Small Business,Rohan
+ORD-01005,2024-11-12,Headphones,Electronics,East,Guwahati,2,2924.4,0.0,5848.8,3558.49,2290.31,UPI,Corporate,Vivaan
+ORD-01006,2025-09-18,Printer,Electronics,East,Kolkata,7,14742.89,0.15,87720.2,61169.93,26550.27,Net Banking,Corporate,Diya
+ORD-01007,2024-03-03,Headphones,Electronics,West,Vadodara,8,4660.54,0.0,37284.32,25515.62,11768.7,Debit Card,Small Business,Rohan
+ORD-01008,2025-05-24,Pen Set,Stationery,West,Pune,7,154.41,0.15,918.74,710.92,207.82,Cash,Consumer,Rohan
+ORD-01009,2024-05-27,Smartphone,Electronics,Central,Bhopal,7,14544.35,0.0,101810.45,78046.48,23763.97,UPI,Small Business,Rohan
+ORD-01010,2024-03-09,Backpack,Accessories,North,Lucknow,4,987.32,0.1,3554.35,3314.91,239.44,Net Banking,Corporate,Isha
+ORD-01011,2025-01-19,Laptop,Electronics,Central,Bhopal,2,46837.21,0.05,88990.7,55967.03,33023.67,Debit Card,Consumer,Rohan
+ORD-01012,2025-12-13,Laptop,Electronics,North,Dehradun,6,54358.53,0.05,309843.62,270507.97,39335.65,Net Banking,Consumer,Vivaan
+ORD-01013,2025-06-21,Backpack,Accessories,Central,Bhopal,4,1383.22,0.15,4702.95,3970.84,732.11,Credit Card,Corporate,Diya
+ORD-01014,2025-07-09,Notebook,Stationery,South,Bengaluru,3,70.0,0.0,210.0,130.29,79.71,Credit Card,Consumer,Vivaan
+ORD-01015,2025-06-07,Laptop,Electronics,East,Bhubaneswar,5,57781.91,0.05,274464.07,242286.04,32178.03,Cash,Corporate,Kabir
+ORD-01016,2025-07-27,Water Bottle,Accessories,Central,Bhopal,7,313.33,0.1,1973.98,1330.23,643.75,Debit Card,Small Business,Isha
+ORD-01017,2025-01-09,Printer,Electronics,North,Chandigarh,2,17497.18,0.0,34994.36,20670.49,14323.87,UPI,Consumer,Rohan
+ORD-01018,2024-04-03,Laptop,Electronics,North,Jaipur,5,53252.52,0.0,266262.6,162158.21,104104.39,Cash,Consumer,Meera
+ORD-01019,2025-09-05,Water Bottle,Accessories,West,Surat,8,463.77,0.05,3524.65,2153.49,1371.16,Credit Card,Consumer,Meera
+ORD-01020,2024-11-24,Water Bottle,Accessories,West,Ahmedabad,5,532.44,0.0,2662.2,1842.63,819.57,Debit Card,Small Business,Vivaan
+ORD-01021,2024-12-31,Notebook,Stationery,North,Jaipur,5,104.58,0.1,470.61,334.31,136.3,Credit Card,Consumer,Diya
+ORD-01022,2024-09-27,Backpack,Accessories,West,Pune,4,2194.27,0.0,8777.08,5198.82,3578.26,Credit Card,Small Business,Diya
+ORD-01023,2024-05-13,Laptop,Electronics,West,Ahmedabad,7,45982.66,0.1,289690.76,206911.98,82778.78,UPI,Corporate,Diya
+ORD-01024,2025-11-07,Notebook,Stationery,Central,Nagpur,1,158.74,0.1,142.87,98.79,44.08,Net Banking,Small Business,Vivaan
+ORD-01025,2025-07-24,Headphones,Electronics,Central,Bhopal,5,4239.52,0.2,16958.08,14287.17,2670.91,Debit Card,Small Business,Diya
+ORD-01026,2025-04-15,Office Chair,Furniture,East,Kolkata,5,5339.02,0.05,25360.35,17687.78,7672.57,Net Banking,Consumer,Aarav
+ORD-01027,2024-10-20,Printer,Electronics,West,Mumbai,6,14564.79,0.1,78649.87,67466.81,11183.06,UPI,Consumer,Aarav
+ORD-01028,2025-08-23,Water Bottle,Accessories,South,Chennai,2,283.48,0.1,510.26,354.33,155.93,Cash,Small Business,Rohan
+ORD-01029,2025-02-02,Headphones,Electronics,West,Ahmedabad,5,4132.44,0.0,20662.2,16804.54,3857.66,Net Banking,Small Business,Meera
+ORD-01030,2024-11-19,Notebook,Stationery,South,Bengaluru,3,42.33,0.1,114.29,83.39,30.9,Credit Card,Small Business,Isha
+ORD-01031,2024-11-24,Smartphone,Electronics,South,Bengaluru,2,38216.65,0.0,76433.3,56468.94,19964.36,Credit Card,Corporate,Rohan
+ORD-01032,2024-06-14,Office Chair,Furniture,South,Hyderabad,6,8318.97,0.1,44922.44,41712.4,3210.04,UPI,Consumer,Meera
+ORD-01033,2024-03-08,Backpack,Accessories,East,Kolkata,3,1556.72,0.0,4670.16,3788.95,881.21,Debit Card,Consumer,Diya
+ORD-01034,2025-02-08,Pen Set,Stationery,West,Mumbai,8,103.53,0.0,828.24,665.35,162.89,Net Banking,Consumer,Anaya
+ORD-01035,2025-10-10,Office Chair,Furniture,East,Bhubaneswar,6,6721.95,0.05,38315.11,31170.2,7144.91,Net Banking,Corporate,Rohan
+ORD-01036,2024-02-16,Printer,Electronics,South,Hyderabad,1,16799.67,0.15,14279.72,13229.83,1049.89,Debit Card,Consumer,Aarav
+ORD-01037,2025-09-18,Desk,Furniture,West,Surat,2,9591.45,0.1,17264.61,15552.89,1711.72,Net Banking,Consumer,Isha
+ORD-01038,2025-08-27,Office Chair,Furniture,South,Hyderabad,5,6977.69,0.1,31399.6,28720.14,2679.46,Debit Card,Consumer,Meera
+ORD-01039,2024-07-21,Office Chair,Furniture,North,Jaipur,7,4884.41,0.1,30771.78,22848.53,7923.25,UPI,,Isha
+ORD-01040,2025-04-06,Headphones,Electronics,West,Pune,7,5821.91,0.0,40753.37,25778.26,14975.11,Net Banking,Consumer,Diya
+ORD-01041,2024-04-30,Laptop,Electronics,West,Pune,2,59333.69,0.2,94933.9,88959.59,5974.31,UPI,Consumer,Anaya
+ORD-01042,2025-07-07,Smartphone,Electronics,West,Ahmedabad,3,34944.11,0.15,89107.48,85378.27,3729.21,UPI,Small Business,Anaya
+ORD-01043,2025-05-26,Office Chair,Furniture,West,Vadodara,4,6087.97,0.1,21916.69,14738.1,7178.59,UPI,Small Business,Isha
+ORD-01044,2024-09-15,Pen Set,Stationery,South,Hyderabad,2,125.98,0.0,251.96,201.95,50.01,Credit Card,Corporate,Rohan
+ORD-01045,2024-02-19,Printer,Electronics,North,Jaipur,7,15000.19,0.1,94501.2,66546.85,27954.35,Debit Card,Small Business,Meera
+ORD-01046,2025-12-09,Smartphone,Electronics,Central,Raipur,1,19936.19,0.15,16945.76,12493.37,4452.39,Cash,Consumer,Meera
+ORD-01047,2024-11-21,Smartphone,Electronics,East,Patna,2,38237.25,0.0,76474.5,54910.3,21564.2,Net Banking,Consumer,Kabir
+ORD-01048,2025-10-13,Headphones,Electronics,West,Ahmedabad,8,5861.54,0.1,42203.09,33508.88,8694.21,Credit Card,Consumer,Meera
+ORD-01049,2025-05-09,Office Chair,Furniture,North,Chandigarh,3,4568.14,0.2,10963.54,9666.11,1297.43,UPI,Small Business,Diya
+ORD-01050,2025-07-22,Smartphone,Electronics,South,Coimbatore,2,19595.54,0.0,39191.08,23942.92,15248.16,UPI,Consumer,Anaya
+ORD-01051,2025-07-08,Backpack,Accessories,North,Lucknow,8,1816.96,0.0,14535.68,12166.9,2368.78,Debit Card,Small Business,Vivaan
+ORD-01052,2024-05-22,Printer,Electronics,North,Dehradun,2,17008.32,0.0,34016.64,20172.81,13843.83,Net Banking,Corporate,Kabir
+ORD-01053,2024-09-22,Pen Set,Stationery,East,Ranchi,6,113.59,0.15,579.31,472.91,106.4,Cash,Corporate,Vivaan
+ORD-01054,2024-12-06,Laptop,Electronics,Central,Bhopal,3,44234.27,0.05,126067.67,81419.52,44648.15,Debit Card,Corporate,Diya
+ORD-01055,2024-12-29,Desk,Furniture,Central,Bhopal,6,14303.43,0.05,81529.55,64501.66,17027.89,Credit Card,Corporate,Aarav
+ORD-01056,2024-02-01,Desk,Furniture,Central,Nagpur,3,6892.68,0.1,18610.24,16541.65,2068.59,Debit Card,Consumer,Aarav
+ORD-01057,2025-02-02,Headphones,Electronics,East,Guwahati,3,3829.06,0.1,10338.46,7565.97,2772.49,Net Banking,Small Business,Isha
+ORD-01058,2024-04-22,Office Chair,Furniture,East,Patna,4,8275.46,0.1,29791.66,23579.2,6212.46,Cash,Consumer,Anaya
+ORD-01059,2025-06-26,Smartphone,Electronics,North,Lucknow,6,25201.5,0.0,151209.0,91307.28,59901.72,Debit Card,Corporate,Diya
+ORD-01060,2025-05-13,Pen Set,Stationery,South,Chennai,1,147.96,0.0,147.96,115.75,32.21,Net Banking,Consumer,Vivaan
+ORD-01061,2025-11-04,Backpack,Accessories,West,Surat,7,991.17,0.0,6938.19,5241.33,1696.86,Credit Card,Small Business,Isha
+ORD-01062,2025-06-27,Headphones,Electronics,South,Hyderabad,6,6231.66,0.1,33650.96,24166.17,9484.79,Credit Card,Consumer,Isha
+ORD-01063,2024-09-24,Printer,Electronics,North,Dehradun,4,5790.34,0.05,22003.29,18703.45,3299.84,,Corporate,Kabir
+ORD-01064,2025-12-07,Desk,Furniture,Central,Jabalpur,7,8849.91,0.05,58851.9,43820.15,15031.75,Debit Card,Consumer,Isha
+ORD-01065,2024-10-26,Water Bottle,Accessories,Central,Bhopal,8,787.19,0.2,5038.02,4872.38,165.64,Net Banking,Corporate,Diya
+ORD-01066,2024-08-25,Printer,Electronics,North,Lucknow,4,8502.83,0.1,30610.19,22285.01,8325.18,Credit Card,Corporate,Kabir
+ORD-01067,2025-10-23,Office Chair,Furniture,West,Pune,6,10814.84,0.0,64889.04,37762.3,27126.74,Net Banking,Consumer,Meera
+ORD-01068,2024-09-27,Printer,Electronics,East,Patna,2,15179.2,0.0,30358.4,20686.71,9671.69,Debit Card,Consumer,Anaya
+ORD-01069,2024-02-25,Backpack,Accessories,North,Delhi,4,2659.09,0.2,8509.09,6361.68,2147.41,Cash,Consumer,Rohan
+ORD-01070,2024-12-08,Printer,Electronics,West,Pune,8,13793.17,0.0,110345.36,87885.4,22459.96,Debit Card,Consumer,Diya
+ORD-01071,2025-08-03,Notebook,Stationery,South,Hyderabad,3,129.64,0.2,311.14,326.63,-15.49,Cash,Consumer,Aarav
+ORD-01072,2024-05-18,Laptop,Electronics,East,Kolkata,8,53459.75,0.05,406294.1,295286.85,111007.25,Credit Card,Corporate,Aarav
+ORD-01073,2024-12-03,Printer,Electronics,East,Patna,6,15765.38,0.05,89862.67,62771.61,27091.06,Net Banking,Corporate,Isha
+ORD-01074,2024-04-04,Water Bottle,Accessories,North,Jaipur,8,283.61,0.15,1928.55,1372.64,555.91,Credit Card,Consumer,Diya
+ORD-01075,2025-05-16,Headphones,Electronics,West,Ahmedabad,2,3287.0,0.1,5916.6,3872.47,2044.13,UPI,Corporate,Isha
+ORD-01076,2024-12-13,Water Bottle,Accessories,West,Ahmedabad,2,799.78,0.15,1359.63,1151.88,207.75,Debit Card,Consumer,Vivaan
+ORD-01077,2024-08-29,Desk,Furniture,East,Patna,5,14656.44,0.05,69618.09,56798.77,12819.32,Credit Card,Consumer,Kabir
+ORD-01078,2024-06-14,Office Chair,Furniture,West,Surat,2,9887.67,0.0,19775.34,11911.78,7863.56,Credit Card,Consumer,Diya
+ORD-01079,2025-02-16,Laptop,Electronics,North,Dehradun,6,46939.61,0.1,253473.89,196208.42,57265.47,Net Banking,Consumer,Diya
+ORD-01080,2025-05-03,Water Bottle,Accessories,Central,Jabalpur,7,318.46,0.0,2229.22,1673.21,556.01,Net Banking,Corporate,Kabir
+ORD-01081,2025-11-17,Laptop,Electronics,South,Hyderabad,4,67579.18,0.0,270316.72,160259.8,110056.92,Net Banking,Corporate,Kabir
+ORD-01082,2024-11-15,Desk,Furniture,West,Mumbai,4,14731.79,0.15,50088.09,42776.29,7311.8,UPI,Consumer,Meera
+ORD-01083,2024-04-27,Smartphone,Electronics,North,Chandigarh,4,32299.57,0.0,129198.28,74970.86,54227.42,Debit Card,Consumer,Rohan
+ORD-01084,2025-08-30,Water Bottle,Accessories,South,Kochi,2,820.99,0.05,1559.88,1155.6,404.28,Net Banking,Consumer,Anaya
+ORD-01085,2025-04-04,Office Chair,Furniture,South,Chennai,4,9275.98,0.0,37103.92,22476.84,14627.08,UPI,Consumer,Aarav
+ORD-01086,2025-05-26,Desk,Furniture,West,Ahmedabad,2,16113.81,0.0,32227.62,21714.88,10512.74,Credit Card,Consumer,Aarav
+ORD-01087,2024-03-11,Office Chair,Furniture,South,Chennai,4,11051.11,0.15,37573.77,26785.95,10787.82,Credit Card,Consumer,Aarav
+ORD-01088,2024-08-16,Smartphone,Electronics,South,Hyderabad,1,37571.47,0.1,33814.32,29799.82,4014.5,Cash,Small Business,Rohan
+ORD-01089,2025-07-14,Desk,Furniture,North,Delhi,1,17306.71,0.1,15576.04,13665.55,1910.49,Credit Card,Consumer,Vivaan
+ORD-01090,2025-08-30,Backpack,Accessories,North,Chandigarh,4,2738.86,0.05,10407.67,7486.47,2921.2,Cash,Consumer,Rohan
+ORD-01091,2024-11-13,Pen Set,Stationery,West,Mumbai,8,309.84,0.1,2230.85,1668.81,562.04,UPI,Consumer,Meera
+ORD-01092,2025-08-10,Desk,Furniture,South,Chennai,8,17092.52,0.05,129903.15,91015.38,38887.77,Credit Card,Corporate,Meera
+ORD-01093,2025-09-06,Office Chair,Furniture,South,Hyderabad,3,6226.08,0.0,18678.24,12671.96,6006.28,Debit Card,Consumer,Kabir
+ORD-01094,2024-10-09,Smartphone,Electronics,East,Guwahati,4,18436.17,0.1,66370.21,57258.34,9111.87,Debit Card,Small Business,Kabir
+ORD-01095,2025-10-17,Backpack,Accessories,South,Coimbatore,1,810.41,0.15,688.85,552.74,136.11,Cash,Small Business,Anaya
+ORD-01096,2024-07-29,Notebook,Stationery,West,Surat,1,133.66,0.1,120.29,78.44,41.85,Credit Card,Small Business,Isha
+ORD-01097,2024-06-23,Headphones,Electronics,North,Chandigarh,4,5283.9,0.0,21135.6,17087.68,4047.92,UPI,Consumer,Vivaan
+ORD-01098,2025-05-13,Notebook,Stationery,West,Surat,2,147.36,0.05,279.98,212.05,67.93,Credit Card,Small Business,Anaya
+ORD-01099,2025-04-09,Printer,Electronics,West,Vadodara,8,16476.84,0.05,125223.98,79917.63,45306.35,Debit Card,Small Business,Rohan
+ORD-01100,2024-04-12,Desk,Furniture,South,Kochi,8,12697.35,0.05,96499.86,68687.17,27812.69,UPI,Consumer,Meera
+ORD-01101,2025-08-30,Water Bottle,Accessories,East,Ranchi,1,398.73,0.15,338.92,233.75,105.17,Credit Card,Consumer,Rohan
+ORD-01102,2024-05-25,Desk,Furniture,South,Hyderabad,2,13522.47,0.05,25692.69,20036.67,5656.02,UPI,Consumer,Aarav
+ORD-01103,2025-08-10,Backpack,Accessories,West,Pune,4,1095.8,0.0,4383.2,2652.58,1730.62,UPI,Small Business,Diya
+ORD-01104,2024-01-06,Desk,Furniture,East,Bhubaneswar,8,5589.93,0.1,40247.5,36069.2,4178.3,Net Banking,Consumer,Isha
+ORD-01105,2025-08-04,Smartphone,Electronics,West,Pune,2,41806.29,0.2,66890.06,49373.55,17516.51,Debit Card,Corporate,Rohan
+ORD-01106,2025-07-28,Office Chair,Furniture,Central,Bhopal,1,11454.93,0.15,9736.69,6993.82,2742.87,Credit Card,Small Business,Aarav
+ORD-01107,2025-07-23,Backpack,Accessories,South,Bengaluru,1,1891.64,0.05,1797.06,1316.02,481.04,Net Banking,Consumer,Diya
+ORD-01108,2025-04-30,Backpack,Accessories,North,Lucknow,2,1300.7,0.2,2081.12,1572.58,508.54,Cash,Corporate,Vivaan
+ORD-01109,2024-12-10,Notebook,Stationery,Central,Jabalpur,5,171.79,0.0,858.95,675.91,183.04,Net Banking,Consumer,Meera
+ORD-01110,2025-05-29,Notebook,Stationery,Central,Bhopal,8,137.2,0.05,1042.72,766.85,275.87,Net Banking,Consumer,Meera
+ORD-01111,2024-07-21,Smartphone,Electronics,West,Mumbai,6,35396.1,0.05,201757.77,174568.89,27188.88,UPI,Corporate,Aarav
+ORD-01112,2025-07-23,Laptop,Electronics,West,Vadodara,2,77126.5,0.0,154253.0,110151.52,44101.48,Cash,Small Business,Anaya
+ORD-01113,2025-02-09,Laptop,Electronics,West,Mumbai,3,44279.83,0.0,132839.49,96684.32,36155.17,UPI,Small Business,Kabir
+ORD-01114,2024-12-01,Notebook,Stationery,South,Kochi,2,151.08,0.1,271.94,243.14,28.8,Cash,Consumer,Anaya
+ORD-01115,2025-01-04,Smartphone,Electronics,West,Ahmedabad,4,40370.81,0.05,153409.08,126021.69,27387.39,Debit Card,Consumer,Meera
+ORD-01116,2025-02-19,Smartphone,Electronics,North,Delhi,6,32185.6,0.05,183457.92,123486.08,59971.84,Cash,Consumer,Isha
+ORD-01117,2024-01-28,Printer,Electronics,West,Vadodara,7,11720.6,0.05,77941.99,58426.15,19515.84,UPI,Consumer,Kabir
+ORD-01118,2024-04-12,Backpack,Accessories,North,Chandigarh,4,1585.71,0.0,6342.84,4656.71,1686.13,Credit Card,Corporate,Diya
+ORD-01119,2024-06-28,Pen Set,Stationery,Central,Indore,1,319.03,0.05,303.08,190.04,113.04,Debit Card,Small Business,Isha
+ORD-01120,2024-03-24,Pen Set,Stationery,East,Guwahati,4,241.38,0.15,820.69,718.42,102.27,Credit Card,Corporate,Kabir
+ORD-01121,2024-11-16,Printer,Electronics,Central,Raipur,6,10813.52,0.15,55148.95,46162.8,8986.15,Credit Card,Corporate,Meera
+ORD-01122,2025-05-02,Desk,Furniture,West,Pune,6,6270.59,0.0,37623.54,27953.33,9670.21,UPI,Small Business,Isha
+ORD-01123,2025-04-22,Printer,Electronics,West,Mumbai,1,7430.29,0.0,7430.29,4872.38,2557.91,Net Banking,Consumer,Diya
+ORD-01124,2024-12-09,Water Bottle,Accessories,East,Kolkata,6,306.13,0.05,1744.94,1293.8,451.14,Net Banking,Consumer,Diya
+ORD-01125,2025-09-16,Headphones,Electronics,West,Mumbai,6,4818.66,0.0,28911.96,20385.59,8526.37,Debit Card,Corporate,Rohan
+ORD-01126,2025-02-16,Printer,Electronics,East,Patna,4,15756.96,0.0,63027.84,42468.84,20559.0,UPI,Consumer,Diya
+ORD-01127,2024-02-27,Office Chair,Furniture,West,Mumbai,8,6167.7,0.0,49341.6,30297.3,19044.3,Cash,Consumer,Isha
+ORD-01128,2025-07-12,Office Chair,Furniture,North,Dehradun,2,9986.82,0.15,16977.59,14170.54,2807.05,Cash,Small Business,Isha
+ORD-01129,2025-02-23,Pen Set,Stationery,South,Coimbatore,4,322.58,0.1,1161.29,903.02,258.27,Net Banking,Consumer,Isha
+ORD-01130,2025-04-08,Laptop,Electronics,North,Chandigarh,4,56665.05,0.1,203994.18,164002.78,39991.4,Cash,Consumer,Vivaan
+ORD-01131,2025-02-16,Printer,Electronics,East,Patna,1,17935.3,0.15,15245.0,14552.23,692.77,Net Banking,Consumer,Diya
+ORD-01132,2025-02-08,Desk,Furniture,West,Vadodara,5,17173.87,0.0,85869.35,62239.86,23629.49,Cash,Consumer,Kabir
+ORD-01133,2024-03-07,Headphones,Electronics,West,Ahmedabad,6,3096.41,0.15,15791.69,14066.6,1725.09,Net Banking,Consumer,Isha
+ORD-01134,2025-02-12,Smartphone,Electronics,East,Guwahati,3,39398.56,0.0,118195.68,89380.07,28815.61,Net Banking,Consumer,Vivaan
+ORD-01135,2025-08-03,Backpack,Accessories,Central,Bhopal,5,1602.91,0.05,7613.82,5175.71,2438.11,Credit Card,Corporate,Rohan
+ORD-01136,2024-08-09,Printer,Electronics,North,Lucknow,7,8163.44,0.0,57144.08,41629.66,15514.42,Credit Card,Consumer,Anaya
+ORD-01137,2025-03-16,Headphones,Electronics,South,Chennai,6,1307.54,0.05,7452.98,6074.1,1378.88,Net Banking,Consumer,Diya
+ORD-01138,2024-01-23,Smartphone,Electronics,West,Pune,4,26382.51,0.15,89700.53,78829.42,10871.11,Cash,Small Business,Isha
+ORD-01139,2024-09-10,Smartphone,Electronics,North,Chandigarh,2,19376.27,0.1,34877.29,30079.3,4797.99,Net Banking,Consumer,Meera
+ORD-01140,2024-11-14,Desk,Furniture,West,Ahmedabad,2,10761.68,0.0,21523.36,16938.36,4585.0,Credit Card,Small Business,Anaya
+ORD-01141,2025-12-18,Pen Set,Stationery,West,Mumbai,1,90.51,0.15,76.93,61.96,14.97,Credit Card,Consumer,Meera
+ORD-01142,2024-06-05,Water Bottle,Accessories,North,Jaipur,1,296.6,0.1,266.94,232.4,34.54,UPI,Small Business,Diya
+ORD-01143,2024-07-20,Pen Set,Stationery,Central,Jabalpur,1,65.16,0.15,55.39,42.97,12.42,Credit Card,Corporate,Rohan
+ORD-01144,2024-10-25,Printer,Electronics,West,Ahmedabad,7,17231.39,0.1,108557.76,83796.69,24761.07,UPI,Consumer,Anaya
+ORD-01145,2025-12-25,Backpack,Accessories,East,Ranchi,2,1304.5,0.0,2609.0,1674.89,934.11,Cash,Consumer,Isha
+ORD-01146,2025-09-14,Notebook,Stationery,South,Coimbatore,4,149.1,0.15,506.94,384.17,122.77,Cash,Corporate,Isha
+ORD-01147,2024-01-26,Headphones,Electronics,West,Pune,3,6275.57,0.1,16944.04,15412.37,1531.67,Cash,Small Business,Meera
+ORD-01148,2024-06-19,Office Chair,Furniture,South,Kochi,4,11886.34,0.0,47545.36,32674.0,14871.36,Cash,Consumer,Anaya
+ORD-01149,2025-08-22,Notebook,Stationery,North,Lucknow,5,163.11,0.0,815.55,636.33,179.22,Net Banking,Consumer,Diya
+ORD-01150,2024-02-12,Pen Set,Stationery,South,Coimbatore,7,57.34,0.0,401.38,307.1,94.28,Credit Card,Consumer,Rohan
+ORD-01151,2025-09-16,Desk,Furniture,North,Delhi,7,4917.05,0.05,32698.38,28421.38,4277.0,Net Banking,Consumer,Kabir
+ORD-01152,2024-07-24,Printer,Electronics,West,Pune,7,14825.85,0.15,88213.81,66019.26,22194.55,Debit Card,Corporate,Rohan
+ORD-01153,2025-10-31,Printer,Electronics,West,Mumbai,4,17481.44,0.1,62933.18,52111.87,10821.31,UPI,Corporate,Anaya
+ORD-01154,2024-08-02,Notebook,Stationery,North,Delhi,4,127.86,0.0,511.44,414.72,96.72,Net Banking,Consumer,Vivaan
+ORD-01155,2024-11-13,Backpack,Accessories,West,Pune,3,2596.07,0.15,6619.98,5189.77,1430.21,Net Banking,Consumer,Kabir
+ORD-01156,2025-04-28,Headphones,Electronics,West,Ahmedabad,1,1206.44,0.2,965.15,722.97,242.18,UPI,Small Business,Diya
+ORD-01157,2024-04-02,Printer,Electronics,East,Bhubaneswar,1,16527.19,0.1,14874.47,11829.38,3045.09,Cash,Corporate,Meera
+ORD-01158,2025-02-10,Desk,Furniture,North,Delhi,4,6791.14,0.1,24448.1,17596.74,6851.36,Debit Card,Consumer,Diya
+ORD-01159,2025-01-03,Printer,Electronics,North,Dehradun,8,16205.12,0.0,129640.96,100978.17,28662.79,Cash,Consumer,Vivaan
+ORD-01160,2025-07-26,Headphones,Electronics,South,Kochi,8,2481.61,0.1,17867.59,13010.72,4856.87,Credit Card,Corporate,Rohan
+ORD-01161,2025-12-28,Desk,Furniture,South,Kochi,8,13862.8,0.1,99812.16,84005.56,15806.6,UPI,Consumer,Vivaan
+ORD-01162,2025-04-29,Desk,Furniture,North,Chandigarh,1,7501.97,0.05,7126.87,5800.19,1326.68,Cash,Small Business,Diya
+ORD-01163,2024-10-25,Desk,Furniture,East,Bhubaneswar,8,11239.12,0.1,80921.66,73843.03,7078.63,Debit Card,Consumer,Anaya
+ORD-01164,2024-10-23,Notebook,Stationery,South,Coimbatore,6,45.42,0.05,258.89,192.18,66.71,Debit Card,Consumer,Anaya
+ORD-01165,2024-11-01,Notebook,Stationery,Central,Nagpur,5,61.23,0.0,306.15,185.14,121.01,Debit Card,Consumer,Isha
+ORD-01166,2025-08-17,Desk,Furniture,East,Bhubaneswar,6,4934.01,0.1,26643.65,18357.88,8285.77,UPI,Consumer,Anaya
+ORD-01167,2024-08-22,Desk,Furniture,North,Lucknow,4,10065.49,0.1,36235.76,25766.71,10469.05,Cash,Small Business,Anaya
+ORD-01168,2024-05-01,Notebook,Stationery,East,Bhubaneswar,7,179.83,0.0,1258.81,824.01,434.8,Credit Card,Consumer,Kabir
+ORD-01169,2024-09-01,Pen Set,Stationery,Central,Nagpur,1,208.03,0.1,187.23,167.17,20.06,Net Banking,Small Business,Kabir
+ORD-01170,2024-01-17,Headphones,Electronics,South,Kochi,7,2528.25,0.05,16812.86,14799.95,2012.91,Debit Card,Small Business,Anaya
+ORD-01171,2024-03-18,Notebook,Stationery,West,Surat,1,114.36,0.1,102.92,81.36,21.56,Credit Card,Corporate,Meera
+ORD-01172,2024-03-06,Desk,Furniture,East,Guwahati,3,8964.14,0.0,26892.42,16917.08,9975.34,Debit Card,Consumer,Vivaan
+ORD-01173,2025-07-17,Laptop,Electronics,East,Patna,8,42761.62,0.0,342092.96,214157.16,127935.8,Debit Card,Corporate,Anaya
+ORD-01174,2025-06-11,Headphones,Electronics,West,Ahmedabad,1,4115.85,0.0,4115.85,3295.5,820.35,UPI,Corporate,Diya
+ORD-01175,2025-05-23,Headphones,Electronics,North,Chandigarh,4,5375.69,0.15,18277.35,12533.19,5744.16,UPI,Consumer,Rohan
+ORD-01176,2024-12-03,Backpack,Accessories,South,Kochi,2,1125.86,0.1,2026.55,1730.34,296.21,UPI,Small Business,Rohan
+ORD-01177,2025-06-07,Water Bottle,Accessories,North,Chandigarh,8,438.96,0.0,3511.68,2078.74,1432.94,Debit Card,Consumer,Meera
+ORD-01178,2024-04-27,Printer,Electronics,West,Mumbai,4,13550.12,0.1,48780.43,42380.91,6399.52,Debit Card,Corporate,Vivaan
+ORD-01179,2025-10-19,Laptop,Electronics,North,Delhi,5,50840.38,0.0,254201.9,162214.74,91987.16,Cash,Consumer,Diya
+ORD-01180,2024-12-31,Desk,Furniture,West,Ahmedabad,7,16996.77,0.0,118977.39,97762.41,21214.98,Debit Card,Small Business,Aarav
+ORD-01181,2025-11-15,Notebook,Stationery,West,Vadodara,7,175.68,0.15,1045.3,1023.63,21.67,Cash,Corporate,Vivaan
+ORD-01182,2024-04-21,Laptop,Electronics,Central,Indore,5,64130.52,0.05,304619.97,233652.79,70967.18,Debit Card,Corporate,Diya
+ORD-01183,2024-12-29,Printer,Electronics,East,Kolkata,2,11405.86,0.05,21671.13,15082.56,6588.57,,Small Business,Diya
+ORD-01184,2025-05-23,Printer,Electronics,North,Dehradun,2,8244.74,0.05,15665.01,13604.94,2060.07,Debit Card,Consumer,Isha
+ORD-01185,2024-12-27,Backpack,Accessories,North,Dehradun,2,1207.57,0.1,2173.63,1982.67,190.96,Net Banking,Consumer,Aarav
+ORD-01186,2024-11-21,Pen Set,Stationery,Central,Nagpur,2,76.52,0.1,137.74,102.28,35.46,Credit Card,Consumer,Aarav
+ORD-01187,2024-05-01,Printer,Electronics,North,Lucknow,5,16071.24,0.05,76338.39,64213.47,12124.92,Credit Card,Consumer,Vivaan
+ORD-01188,2024-10-05,Backpack,Accessories,South,Bengaluru,1,2558.7,0.05,2430.76,1578.27,852.49,Credit Card,Corporate,Diya
+ORD-01189,2024-06-23,Smartphone,Electronics,North,Delhi,4,25232.32,0.05,95882.82,72233.86,23648.96,UPI,Consumer,Meera
+ORD-01190,2024-08-08,Laptop,Electronics,South,Chennai,3,65448.06,0.0,196344.18,114582.95,81761.23,Debit Card,Consumer,Diya
+ORD-01191,2025-05-14,Office Chair,Furniture,East,Patna,1,8008.75,0.1,7207.88,4690.53,2517.35,Credit Card,Consumer,Vivaan
+ORD-01192,2025-04-05,Office Chair,Furniture,North,Lucknow,1,10153.97,0.15,8630.87,5948.09,2682.78,Net Banking,Corporate,Rohan
+ORD-01193,2025-03-19,Backpack,Accessories,East,Patna,5,2651.24,0.2,10604.96,7834.55,2770.41,Cash,Consumer,Anaya
+ORD-01194,2024-09-21,Notebook,Stationery,West,Surat,3,178.21,0.0,534.63,372.99,161.64,UPI,Consumer,Vivaan
+ORD-01195,2025-12-01,Laptop,Electronics,Central,Nagpur,3,46713.17,0.0,140139.51,115728.37,24411.14,Debit Card,Consumer,Vivaan
+ORD-01196,2024-03-04,Notebook,Stationery,West,Pune,4,169.87,0.05,645.51,565.66,79.85,Net Banking,Consumer,Kabir
+ORD-01197,2024-09-07,Printer,Electronics,North,Dehradun,2,16193.44,0.05,30767.54,23253.39,7514.15,Credit Card,Small Business,Diya
+ORD-01198,2024-03-27,Smartphone,Electronics,North,Delhi,1,23755.13,0.0,23755.13,17978.1,5777.03,Debit Card,Corporate,Diya
+ORD-01199,2024-09-04,Office Chair,Furniture,North,Jaipur,4,9592.39,0.05,36451.08,25858.69,10592.39,Credit Card,Small Business,Aarav
+ORD-01200,2025-12-03,Notebook,Stationery,West,Ahmedabad,8,84.68,0.0,677.44,480.03,197.41,Debit Card,Consumer,Aarav
+ORD-01201,2024-09-24,Pen Set,Stationery,West,Surat,3,331.07,0.1,893.89,759.5,134.39,Net Banking,Corporate,Isha
+ORD-01202,2025-10-25,Backpack,Accessories,North,Chandigarh,2,1790.25,0.05,3401.47,2242.31,1159.16,Debit Card,,Rohan
+ORD-01203,2024-12-27,Laptop,Electronics,West,Vadodara,3,45896.98,0.0,137690.94,89666.49,48024.45,UPI,Consumer,Kabir
+ORD-01204,2025-05-25,Headphones,Electronics,West,Vadodara,4,2995.46,0.0,11981.84,7971.04,4010.8,Credit Card,Consumer,Aarav
+ORD-01205,2024-11-29,Headphones,Electronics,East,Patna,5,6092.6,0.05,28939.85,21880.79,7059.06,Net Banking,Consumer,Aarav
+ORD-01206,2024-07-13,Printer,Electronics,East,Ranchi,7,16693.81,0.05,111013.84,91076.65,19937.19,Cash,Consumer,Vivaan
+ORD-01207,2025-07-11,Laptop,Electronics,West,Vadodara,8,69723.27,0.0,557786.16,418685.28,139100.88,Net Banking,Consumer,Isha
+ORD-01208,2025-12-08,Printer,Electronics,East,Guwahati,5,16210.75,0.0,81053.75,52825.99,28227.76,Net Banking,Consumer,Meera
+ORD-01209,2024-07-11,Pen Set,Stationery,West,Pune,8,177.53,0.15,1207.2,923.57,283.63,Credit Card,Small Business,Anaya
+ORD-01210,2025-07-22,Desk,Furniture,North,Lucknow,5,10139.53,0.0,50697.65,36030.65,14667.0,UPI,Consumer,Diya
+ORD-01211,2024-07-09,Pen Set,Stationery,North,Chandigarh,4,127.02,0.2,406.46,398.35,8.11,Net Banking,Small Business,Rohan
+ORD-01212,2025-06-07,Water Bottle,Accessories,West,Vadodara,5,302.38,0.15,1285.12,1106.53,178.59,Credit Card,Small Business,Kabir
+ORD-01213,2025-07-29,Backpack,Accessories,South,Bengaluru,4,823.58,0.1,2964.89,2609.54,355.35,Cash,Consumer,Rohan
+ORD-01214,2024-11-24,Notebook,Stationery,West,Ahmedabad,6,52.21,0.15,266.27,254.56,11.71,Credit Card,Consumer,Diya
+ORD-01215,2025-06-21,Smartphone,Electronics,East,Bhubaneswar,4,16688.74,0.0,66754.96,56070.09,10684.87,Debit Card,Consumer,
+ORD-01216,2024-07-17,Water Bottle,Accessories,North,Lucknow,8,243.19,0.0,1945.52,1598.64,346.88,Cash,Consumer,Anaya
+ORD-01217,2024-02-27,Office Chair,Furniture,North,Jaipur,6,5115.38,0.15,26088.44,19822.92,6265.52,Debit Card,Corporate,Rohan
+ORD-01218,2024-03-11,Laptop,Electronics,West,Ahmedabad,6,54204.57,0.1,292704.68,196582.25,96122.43,Cash,Corporate,Anaya
+ORD-01219,2024-11-22,Desk,Furniture,West,Vadodara,7,9472.65,0.05,62993.12,43577.04,19416.08,Credit Card,Consumer,
+ORD-01220,2025-10-20,Office Chair,Furniture,West,Surat,4,5174.16,0.0,20696.64,15377.76,5318.88,Credit Card,Consumer,Meera
+ORD-01221,2024-04-03,Pen Set,Stationery,East,Bhubaneswar,1,226.26,0.2,181.01,161.94,19.07,Credit Card,Small Business,Anaya
+ORD-01222,2024-11-28,Printer,Electronics,West,Surat,4,14228.98,0.2,45532.74,39794.35,5738.39,UPI,Corporate,Aarav
+ORD-01223,2025-05-28,Laptop,Electronics,East,Kolkata,1,68043.53,0.15,57837.0,50592.17,7244.83,Debit Card,Corporate,Meera
+ORD-01224,2024-05-27,Printer,Electronics,Central,Nagpur,7,5955.38,0.1,37518.89,26522.94,10995.95,UPI,Corporate,Vivaan
+ORD-01225,2025-06-10,Desk,Furniture,West,Pune,8,14001.0,0.0,112008.0,67689.97,44318.03,Credit Card,Small Business,Isha
+ORD-01226,2024-08-11,Printer,Electronics,West,Mumbai,3,17650.88,0.1,47657.38,39118.01,8539.37,Credit Card,Consumer,Kabir
+ORD-01227,2025-08-13,Pen Set,Stationery,East,Kolkata,5,51.46,0.1,231.57,212.71,18.86,UPI,Corporate,Diya
+ORD-01228,2025-02-26,Desk,Furniture,North,Dehradun,4,8882.69,0.05,33754.22,24590.81,9163.41,Credit Card,Small Business,Rohan
+ORD-01229,2025-02-03,Pen Set,Stationery,West,Vadodara,4,104.21,0.05,396.0,272.92,123.08,Credit Card,Consumer,Aarav
+ORD-01230,2024-05-09,Printer,Electronics,North,Lucknow,8,5907.41,0.0,47259.28,32365.57,14893.71,Cash,Consumer,Aarav
+ORD-01231,2024-12-04,Office Chair,Furniture,West,Vadodara,1,8375.95,0.05,7957.15,6122.1,1835.05,UPI,Consumer,Kabir
+ORD-01232,2025-09-17,Water Bottle,Accessories,West,Surat,4,676.63,0.15,2300.54,1829.85,470.69,Debit Card,Consumer,Rohan
+ORD-01233,2024-01-15,Office Chair,Furniture,West,Ahmedabad,5,5948.51,0.1,26768.3,17764.14,9004.16,Cash,Small Business,
+ORD-01234,2025-07-07,Water Bottle,Accessories,West,Mumbai,1,220.53,0.15,187.45,141.36,46.09,Debit Card,Consumer,Rohan
+ORD-01235,2024-12-25,Headphones,Electronics,North,Lucknow,1,6437.82,0.0,6437.82,5124.4,1313.42,Debit Card,Consumer,Kabir
+ORD-01236,2025-06-09,Desk,Furniture,Central,Indore,6,13750.4,0.0,82502.4,56830.08,25672.32,UPI,Consumer,Kabir
+ORD-01237,2025-04-29,Headphones,Electronics,North,Chandigarh,6,2229.86,0.05,12710.2,8281.5,4428.7,Credit Card,Small Business,Diya
+ORD-01238,2024-11-11,Pen Set,Stationery,West,Pune,6,304.3,0.0,1825.8,1130.46,695.34,Debit Card,Consumer,Aarav
+ORD-01239,2024-08-13,Headphones,Electronics,Central,Raipur,3,5064.0,0.0,15192.0,11150.24,4041.76,UPI,Corporate,Vivaan
+ORD-01240,2025-04-02,Office Chair,Furniture,West,Mumbai,5,11925.58,0.0,59627.9,37521.91,22105.99,Debit Card,Corporate,Aarav
+ORD-01241,2024-04-12,Pen Set,Stationery,East,Bhubaneswar,6,317.76,0.15,1620.58,1228.38,392.2,Cash,Corporate,Isha
+ORD-01242,2025-03-02,Headphones,Electronics,North,Chandigarh,8,4686.81,0.2,29995.58,25811.1,4184.48,UPI,Consumer,Rohan
+ORD-01243,2024-03-10,Office Chair,Furniture,West,Ahmedabad,8,4072.68,0.15,27694.22,19946.34,7747.88,Debit Card,Consumer,Vivaan
+ORD-01244,2025-04-19,Printer,Electronics,West,Ahmedabad,8,14571.26,0.0,116570.08,88579.3,27990.78,Net Banking,Corporate,Isha
+ORD-01245,2025-04-03,Laptop,Electronics,East,Guwahati,8,53608.68,0.1,385982.5,355452.4,30530.1,Debit Card,Corporate,Diya
+ORD-01246,2024-03-02,Pen Set,Stationery,North,Lucknow,7,349.3,0.0,2445.1,1546.83,898.27,Cash,Consumer,Rohan
+ORD-01247,2025-07-06,Water Bottle,Accessories,West,Pune,4,599.74,0.1,2159.06,1801.4,357.66,Debit Card,Corporate,Diya
+ORD-01248,2024-10-30,Pen Set,Stationery,East,Ranchi,5,211.25,0.1,950.62,640.42,310.2,UPI,Consumer,Kabir
+ORD-01249,2025-07-28,Backpack,Accessories,South,Coimbatore,3,1943.78,0.0,5831.34,4495.06,1336.28,UPI,Small Business,Meera
+ORD-01250,2024-01-31,Notebook,Stationery,South,Chennai,3,99.71,0.15,254.26,229.75,24.51,Credit Card,Consumer,Rohan
+ORD-01251,2024-05-11,Office Chair,Furniture,West,Ahmedabad,4,6673.76,0.15,22690.78,18989.25,3701.53,UPI,Consumer,Anaya
+ORD-01252,2024-12-26,Smartphone,Electronics,North,Delhi,7,23500.28,0.1,148051.76,129743.24,18308.52,Debit Card,Corporate,Aarav
+ORD-01253,2024-05-17,Backpack,Accessories,North,Dehradun,2,2638.94,0.15,4486.2,3777.68,708.52,UPI,Corporate,Isha
+ORD-01254,2024-08-28,Headphones,Electronics,East,Ranchi,4,993.1,0.1,3575.16,3285.69,289.47,Debit Card,Consumer,Vivaan
+ORD-01255,2025-04-27,Water Bottle,Accessories,Central,Indore,6,563.34,0.1,3042.04,2366.96,675.08,Net Banking,Consumer,Vivaan
+ORD-01256,2024-04-15,Smartphone,Electronics,West,Surat,2,37099.22,0.0,74198.44,47408.47,26789.97,Net Banking,Consumer,Rohan
+ORD-01257,2025-05-09,Office Chair,Furniture,South,Bengaluru,7,8822.35,0.15,52492.98,38243.19,14249.79,Credit Card,Small Business,Aarav
+ORD-01258,2024-03-16,Backpack,Accessories,East,Patna,6,2002.31,0.1,10812.47,9124.87,1687.6,Debit Card,Small Business,Aarav
+ORD-01259,2024-05-07,Backpack,Accessories,East,Bhubaneswar,2,726.03,0.05,1379.46,1033.68,345.78,Credit Card,Consumer,Rohan
+ORD-01260,2025-03-04,Office Chair,Furniture,West,Ahmedabad,5,6689.86,0.2,26759.44,20904.51,5854.93,Cash,Consumer,Kabir
+ORD-01261,2025-08-02,Notebook,Stationery,North,Chandigarh,1,172.75,0.0,172.75,131.31,41.44,Cash,Consumer,Diya
+ORD-01262,2024-05-04,Headphones,Electronics,North,Dehradun,1,4320.72,0.1,3888.65,3344.89,543.76,Credit Card,Corporate,Rohan
+ORD-01263,2024-08-06,Office Chair,Furniture,West,Mumbai,6,9067.47,0.2,43523.86,31778.34,11745.52,UPI,Corporate,Isha
+ORD-01264,2025-11-06,Printer,Electronics,East,Patna,5,13248.95,0.1,59620.28,53216.48,6403.8,Net Banking,Small Business,Aarav
+ORD-01265,2025-12-23,Office Chair,Furniture,East,Kolkata,3,5154.34,0.0,15463.02,10758.66,4704.36,UPI,Consumer,Diya
+ORD-01266,2025-02-28,Smartphone,Electronics,North,Delhi,4,35029.83,0.15,119101.42,105042.9,14058.52,Net Banking,Consumer,Aarav
+ORD-01267,2024-11-22,Printer,Electronics,West,Vadodara,3,17281.31,0.2,41475.14,35612.26,5862.88,Debit Card,Corporate,Rohan
+ORD-01268,2024-09-10,Desk,Furniture,East,Bhubaneswar,1,6446.12,0.1,5801.51,4128.51,1673.0,Cash,Consumer,Isha
+ORD-01269,2025-03-23,Office Chair,Furniture,East,Guwahati,5,10069.61,0.0,50348.05,35671.97,14676.08,Debit Card,Consumer,Meera
+ORD-01270,2025-03-07,Water Bottle,Accessories,East,Guwahati,8,811.78,0.2,5195.39,4152.21,1043.18,Debit Card,Corporate,Anaya
+ORD-01271,2024-08-03,Smartphone,Electronics,South,Hyderabad,3,20656.59,0.0,61969.77,37270.56,24699.21,Credit Card,Consumer,Vivaan
+ORD-01272,2024-01-17,Water Bottle,Accessories,South,Kochi,5,488.59,0.05,2320.8,1549.84,770.96,Credit Card,Consumer,Vivaan
+ORD-01273,2024-04-20,Printer,Electronics,East,Ranchi,8,16286.58,0.0,130292.64,105435.47,24857.17,Debit Card,Corporate,Anaya
+ORD-01274,2025-11-30,Printer,Electronics,South,Bengaluru,7,17913.74,0.05,119126.37,99265.88,19860.49,Credit Card,Consumer,Isha
+ORD-01275,2024-11-01,Backpack,Accessories,North,Dehradun,4,922.48,0.0,3689.92,2946.7,743.22,Debit Card,Consumer,Anaya
+ORD-01276,2024-12-18,Office Chair,Furniture,West,Ahmedabad,4,10349.44,0.15,35188.1,24765.37,10422.73,Cash,Consumer,Rohan
+ORD-01277,2024-12-06,Office Chair,Furniture,North,Lucknow,3,7510.99,0.1,20279.67,16004.17,4275.5,Credit Card,Consumer,
+ORD-01278,2025-07-25,Water Bottle,Accessories,East,Kolkata,3,756.42,0.15,1928.87,1406.73,522.14,UPI,Consumer,Rohan
+ORD-01279,2024-02-17,Printer,Electronics,West,Surat,6,8689.06,0.05,49527.64,43096.77,6430.87,Cash,Consumer,Aarav
+ORD-01280,2024-03-01,Water Bottle,Accessories,Central,Nagpur,7,299.42,0.15,1781.55,1233.16,548.39,Net Banking,Small Business,Meera
+ORD-01281,2024-07-20,Water Bottle,Accessories,South,Kochi,1,764.85,0.1,688.37,536.76,151.61,,Small Business,Kabir
+ORD-01282,2024-12-21,Headphones,Electronics,West,Pune,6,6340.37,0.0,38042.22,24533.97,13508.25,Net Banking,Small Business,Diya
+ORD-01283,2025-05-04,Backpack,Accessories,South,Chennai,5,725.5,0.1,3264.75,2587.12,677.63,Net Banking,Small Business,Kabir
+ORD-01284,2024-12-24,Office Chair,Furniture,North,Chandigarh,2,9796.93,0.1,17634.47,12060.66,5573.81,UPI,Small Business,Meera
+ORD-01285,2024-11-18,Water Bottle,Accessories,North,Delhi,2,420.55,0.0,841.1,588.44,252.66,Debit Card,Consumer,Aarav
+ORD-01286,2025-11-15,Notebook,Stationery,East,Kolkata,5,48.5,0.15,206.12,151.68,54.44,Credit Card,Consumer,Vivaan
+ORD-01287,2024-04-27,Desk,Furniture,West,Surat,7,11209.85,0.0,78468.95,50108.49,28360.46,UPI,Corporate,Rohan
+ORD-01288,2025-02-21,Water Bottle,Accessories,West,Pune,8,754.21,0.15,5128.63,4595.2,533.43,Debit Card,Consumer,Isha
+ORD-01289,2025-01-30,Desk,Furniture,Central,Raipur,5,8762.82,0.0,43814.1,36175.08,7639.02,UPI,Consumer,Aarav
+ORD-01290,2024-12-11,Pen Set,Stationery,Central,Jabalpur,8,98.53,0.1,709.42,639.05,70.37,UPI,Corporate,Aarav
+ORD-01291,2025-08-12,Pen Set,Stationery,South,Chennai,5,127.92,0.0,639.6,390.42,249.18,Debit Card,Consumer,Aarav
+ORD-01292,2024-07-13,Pen Set,Stationery,North,Jaipur,2,257.57,0.1,463.63,371.0,92.63,Debit Card,Consumer,Anaya
+ORD-01293,2025-11-27,Notebook,Stationery,West,Vadodara,4,178.32,0.15,606.29,521.2,85.09,Cash,Corporate,Vivaan
+ORD-01294,2024-08-30,Office Chair,Furniture,South,Kochi,7,11984.94,0.05,79699.85,49996.06,29703.79,Debit Card,Consumer,Rohan
+ORD-01295,2025-02-01,Headphones,Electronics,North,Jaipur,5,1847.71,0.0,9238.55,5466.36,3772.19,Cash,Small Business,Diya
+ORD-01296,2025-01-15,Pen Set,Stationery,West,Pune,1,217.6,0.0,217.6,159.97,57.63,Credit Card,Small Business,Meera
+ORD-01297,2025-09-12,Printer,Electronics,South,Chennai,5,17448.26,0.2,69793.04,67364.19,2428.85,UPI,Consumer,Diya
+ORD-01298,2024-11-16,Headphones,Electronics,East,Bhubaneswar,6,2065.14,0.05,11771.3,8677.65,3093.65,Credit Card,Corporate,Vivaan
+ORD-01299,2024-07-26,Office Chair,Furniture,South,Kochi,4,6659.55,0.0,26638.2,20900.46,5737.74,Credit Card,Consumer,Rohan
+ORD-01300,2024-01-16,Desk,Furniture,West,Surat,2,12435.6,0.0,24871.2,14840.5,10030.7,UPI,Consumer,Vivaan
+ORD-01301,2024-09-22,Pen Set,Stationery,North,Jaipur,3,146.25,0.1,394.88,361.65,33.23,Net Banking,Corporate,Anaya
+ORD-01302,2025-08-26,Desk,Furniture,East,Kolkata,4,10094.77,0.05,38360.13,26755.49,11604.64,Debit Card,Consumer,Aarav
+ORD-01303,2024-01-08,Water Bottle,Accessories,North,Delhi,6,850.11,0.0,5100.66,3782.54,1318.12,Debit Card,Consumer,Aarav
+ORD-01304,2025-10-16,Laptop,Electronics,West,Vadodara,1,49804.59,0.0,49804.59,34083.26,15721.33,Credit Card,Consumer,Rohan
+ORD-01305,2025-01-31,Smartphone,Electronics,West,Ahmedabad,3,21872.25,0.05,62335.91,41842.1,20493.81,Debit Card,Consumer,Meera
+ORD-01306,2024-04-12,Backpack,Accessories,West,Surat,2,1007.75,0.2,1612.4,1492.66,119.74,Cash,Small Business,Rohan
+ORD-01307,2024-08-08,Printer,Electronics,Central,Indore,4,13288.39,0.05,50495.88,36135.25,14360.63,Credit Card,Small Business,Kabir
+ORD-01308,2025-02-08,Smartphone,Electronics,Central,Nagpur,4,31463.25,0.2,100682.4,74879.55,25802.85,Debit Card,Corporate,Anaya
+ORD-01309,2024-08-18,Pen Set,Stationery,West,Surat,5,252.05,0.05,1197.24,781.73,415.51,Debit Card,Consumer,Kabir
+ORD-01310,2024-03-20,Water Bottle,Accessories,West,Mumbai,6,899.56,0.0,5397.36,3356.47,2040.89,UPI,Consumer,Isha
+ORD-01311,2025-05-01,Smartphone,Electronics,South,Hyderabad,4,22955.54,0.1,82639.94,67444.9,15195.04,Debit Card,Consumer,Anaya
+ORD-01312,2025-05-05,Notebook,Stationery,Central,Jabalpur,6,103.41,0.0,620.46,373.72,246.74,Net Banking,Consumer,Diya
+ORD-01313,2024-03-27,Smartphone,Electronics,West,Vadodara,2,17059.35,0.0,34118.7,23499.33,10619.37,Net Banking,Consumer,Rohan
+ORD-01314,2024-07-24,Printer,Electronics,Central,Raipur,8,7419.72,0.1,53421.98,36710.77,16711.21,Debit Card,Consumer,Anaya
+ORD-01315,2024-06-27,Smartphone,Electronics,West,Mumbai,5,19438.41,0.15,82613.24,76518.15,6095.09,UPI,Small Business,Anaya
+ORD-01316,2025-04-26,Smartphone,Electronics,South,Bengaluru,3,28288.25,0.0,84864.75,55476.18,29388.57,UPI,Consumer,Rohan
+ORD-01317,2025-06-17,Headphones,Electronics,South,Hyderabad,3,6104.39,0.05,17397.51,14523.76,2873.75,UPI,Corporate,Isha
+ORD-01318,2025-06-14,Printer,Electronics,East,Ranchi,8,13170.07,0.0,105360.56,63835.07,41525.49,Cash,Consumer,Rohan
+ORD-01319,2025-11-16,Printer,Electronics,West,Mumbai,8,7504.23,0.1,54030.46,47164.08,6866.38,Debit Card,Small Business,Diya
+ORD-01320,2025-07-15,Office Chair,Furniture,South,Coimbatore,5,7519.54,0.1,33837.93,23860.35,9977.58,Net Banking,Consumer,Anaya
+ORD-01321,2024-08-22,Pen Set,Stationery,South,Coimbatore,4,273.7,0.0,1094.8,855.42,239.38,Credit Card,Corporate,Rohan
+ORD-01322,2024-03-19,Smartphone,Electronics,West,Surat,7,20788.08,0.15,123689.08,113232.11,10456.97,Debit Card,Consumer,Isha
+ORD-01323,2025-03-24,Water Bottle,Accessories,Central,Raipur,2,414.84,0.0,829.68,566.05,263.63,UPI,Corporate,Rohan
+ORD-01324,2025-10-30,Desk,Furniture,South,Bengaluru,3,6407.41,0.0,19222.23,15445.39,3776.84,UPI,Consumer,Rohan
+ORD-01325,2025-12-12,Desk,Furniture,West,Surat,3,7606.39,0.2,18255.34,17424.39,830.95,Credit Card,Corporate,Anaya
+ORD-01326,2024-06-17,Laptop,Electronics,West,Pune,6,55669.9,0.15,283916.49,260143.76,23772.73,Debit Card,Corporate,Meera
+ORD-01327,2024-06-21,Headphones,Electronics,North,Dehradun,3,6036.39,0.0,18109.17,14677.57,3431.6,Cash,Consumer,Vivaan
+ORD-01328,2024-01-28,Pen Set,Stationery,East,Ranchi,5,198.66,0.1,893.97,615.28,278.69,Net Banking,Consumer,Diya
+ORD-01329,2024-04-13,Headphones,Electronics,North,Chandigarh,2,5832.01,0.05,11080.82,8117.79,2963.03,Credit Card,Consumer,Isha
+ORD-01330,2025-02-09,Smartphone,Electronics,East,Kolkata,4,12487.71,0.2,39960.67,39565.99,394.68,Debit Card,Small Business,Isha
+ORD-01331,2025-02-03,Laptop,Electronics,North,Dehradun,1,63917.08,0.0,63917.08,40760.41,23156.67,Cash,Consumer,Diya
+ORD-01332,2024-09-27,Pen Set,Stationery,East,Guwahati,7,144.88,0.0,1014.16,707.82,306.34,Cash,Small Business,Rohan
+ORD-01333,2024-08-14,Office Chair,Furniture,Central,Jabalpur,2,11698.94,0.05,22227.99,13859.57,8368.42,Net Banking,Consumer,Kabir
+ORD-01334,2025-08-28,Office Chair,Furniture,West,Ahmedabad,2,11602.23,0.0,23204.46,19246.68,3957.78,Cash,Corporate,Vivaan
+ORD-01335,2024-12-01,Laptop,Electronics,North,Lucknow,6,48720.92,0.15,248476.69,192486.49,55990.2,Cash,Consumer,Meera
+ORD-01336,2025-08-13,Printer,Electronics,South,Bengaluru,4,13405.58,0.0,53622.32,40488.36,13133.96,Net Banking,Consumer,Kabir
+ORD-01337,2025-12-04,Pen Set,Stationery,North,Delhi,7,186.25,0.0,1303.75,821.6,482.15,Credit Card,Consumer,Kabir
+ORD-01338,2024-08-19,Smartphone,Electronics,South,Kochi,8,24803.87,0.15,168666.32,120162.31,48504.01,Cash,Corporate,Aarav
+ORD-01339,2024-05-27,Notebook,Stationery,Central,Raipur,5,147.65,0.05,701.34,486.41,214.93,UPI,Consumer,Meera
+ORD-01340,2025-11-26,Backpack,Accessories,West,Mumbai,7,2042.94,0.1,12870.52,10940.61,1929.91,UPI,Consumer,Vivaan
+ORD-01341,2025-04-08,Office Chair,Furniture,South,Bengaluru,3,4552.19,0.0,13656.57,9098.76,4557.81,Credit Card,Consumer,Vivaan
+ORD-01342,2024-07-31,Laptop,Electronics,Central,Nagpur,3,77360.31,0.2,185664.74,143209.84,42454.9,UPI,Corporate,Isha
+ORD-01343,2025-03-29,Laptop,Electronics,West,Surat,1,44758.99,0.1,40283.09,37441.51,2841.58,UPI,Corporate,Diya
+ORD-01344,2025-01-10,Printer,Electronics,Central,Nagpur,6,6002.27,0.15,30611.58,24302.58,6309.0,Cash,Consumer,Aarav
+ORD-01345,2025-10-23,Pen Set,Stationery,West,Vadodara,7,102.13,0.0,714.91,429.62,285.29,Debit Card,Corporate,Diya
+ORD-01346,2024-07-05,Water Bottle,Accessories,West,Pune,3,320.42,0.0,961.26,695.85,265.41,,Corporate,Isha
+ORD-01347,2025-12-24,Printer,Electronics,South,Chennai,5,7428.8,0.15,31572.4,28897.74,2674.66,UPI,Small Business,Vivaan
+ORD-01348,2025-11-14,Backpack,Accessories,South,Hyderabad,8,1575.08,0.0,12600.64,7513.36,5087.28,Credit Card,Consumer,Aarav
+ORD-01349,2024-05-11,Pen Set,Stationery,East,Patna,8,227.06,0.0,1816.48,1406.78,409.7,Cash,Consumer,Rohan
+ORD-01350,2024-04-30,Laptop,Electronics,North,Delhi,3,51872.84,0.15,132275.74,121005.98,11269.76,Credit Card,Consumer,Isha
+ORD-01351,2025-01-24,Printer,Electronics,South,Coimbatore,4,13601.17,0.05,51684.45,37769.42,13915.03,UPI,Consumer,Diya
+ORD-01352,2024-02-02,Notebook,Stationery,West,Pune,2,54.22,0.2,86.75,70.93,15.82,Credit Card,Consumer,Kabir
+ORD-01353,2024-08-06,Pen Set,Stationery,South,Coimbatore,6,139.98,0.0,839.88,608.59,231.29,Net Banking,Consumer,Kabir
+ORD-01354,2024-11-13,Water Bottle,Accessories,Central,Bhopal,4,879.38,0.1,3165.77,2287.93,877.84,Net Banking,Consumer,Meera
+ORD-01355,2025-12-08,Headphones,Electronics,West,Vadodara,7,4022.3,0.0,28156.1,16911.18,11244.92,Credit Card,Corporate,Kabir
+ORD-01356,2025-12-25,Laptop,Electronics,North,Dehradun,3,50210.86,0.0,150632.58,117265.5,33367.08,Credit Card,Consumer,Anaya
+ORD-01357,2024-04-20,Backpack,Accessories,South,Coimbatore,2,2190.85,0.1,3943.53,3475.35,468.18,Cash,Consumer,Meera
+ORD-01358,2025-10-12,Notebook,Stationery,North,Dehradun,1,131.37,0.0,131.37,85.61,45.76,UPI,Consumer,Aarav
+ORD-01359,2024-03-07,Water Bottle,Accessories,South,Kochi,2,244.92,0.05,465.35,329.03,136.32,Debit Card,Corporate,Isha
+ORD-01360,2025-06-30,Notebook,Stationery,North,Jaipur,4,175.11,0.1,630.4,496.76,133.64,Net Banking,Consumer,Meera
+ORD-01361,2025-09-09,Smartphone,Electronics,North,Dehradun,4,41982.27,0.1,151136.17,99466.84,51669.33,Credit Card,Consumer,Diya
+ORD-01362,2025-10-12,Laptop,Electronics,South,Chennai,1,75601.98,0.15,64261.68,54582.67,9679.01,Cash,Consumer,Rohan
+ORD-01363,2024-06-12,Desk,Furniture,East,Kolkata,7,5655.03,0.0,39585.21,23087.72,16497.49,UPI,Consumer,Vivaan
+ORD-01364,2025-10-14,Printer,Electronics,East,Bhubaneswar,5,16085.93,0.05,76408.17,64398.47,12009.7,Net Banking,Consumer,Rohan
+ORD-01365,2024-03-25,Laptop,Electronics,West,Vadodara,6,50736.27,0.05,289196.74,204371.05,84825.69,UPI,Consumer,Rohan
+ORD-01366,2025-01-13,Water Bottle,Accessories,North,Dehradun,5,424.9,0.15,1805.83,1319.26,486.57,UPI,Consumer,Aarav
+ORD-01367,2024-12-08,Desk,Furniture,East,Ranchi,2,14946.97,0.05,28399.24,17593.95,10805.29,Debit Card,Consumer,Anaya
+ORD-01368,2024-08-18,Laptop,Electronics,North,Jaipur,4,54827.43,0.1,197378.75,154604.22,42774.53,Debit Card,Corporate,Isha
+ORD-01369,2024-01-17,Water Bottle,Accessories,North,Jaipur,3,609.43,0.0,1828.29,1217.43,610.86,Debit Card,Corporate,Kabir
+ORD-01370,2025-07-17,Pen Set,Stationery,West,Mumbai,4,317.81,0.0,1271.24,1019.97,251.27,UPI,Consumer,Diya
+ORD-01371,2024-09-01,Printer,Electronics,West,Pune,6,11186.57,0.2,53695.54,43933.25,9762.29,Net Banking,Small Business,Meera
+ORD-01372,2025-04-28,Backpack,Accessories,South,Hyderabad,2,2139.02,0.05,4064.14,3531.85,532.29,Debit Card,Consumer,Meera
+ORD-01373,2024-10-26,Water Bottle,Accessories,South,Bengaluru,2,200.41,0.1,360.74,329.07,31.67,Net Banking,Consumer,Isha
+ORD-01374,2024-09-29,Smartphone,Electronics,South,Hyderabad,6,14064.82,0.15,71730.58,60430.08,11300.5,Debit Card,Small Business,Anaya
+ORD-01375,2025-10-08,Water Bottle,Accessories,South,Coimbatore,3,544.3,0.0,1632.9,1226.8,406.1,Credit Card,Consumer,Rohan
+ORD-01376,2024-03-09,Notebook,Stationery,West,Pune,3,68.65,0.1,185.36,161.58,23.78,Cash,Small Business,Aarav
+ORD-01377,2025-06-21,Headphones,Electronics,North,Dehradun,3,3094.89,0.0,9284.67,6661.31,2623.36,Cash,Consumer,Vivaan
+ORD-01378,2025-06-29,Water Bottle,Accessories,Central,Nagpur,7,585.02,0.1,3685.63,3423.53,262.1,Debit Card,Consumer,Diya
+ORD-01379,2024-10-04,Smartphone,Electronics,North,Chandigarh,4,12212.56,0.1,43965.22,31686.65,12278.57,Credit Card,Consumer,Aarav
+ORD-01380,2024-07-10,Laptop,Electronics,North,Delhi,8,54120.15,0.1,389665.08,336281.92,53383.16,Credit Card,Small Business,Kabir
+ORD-01381,2024-01-04,Laptop,Electronics,South,Kochi,6,43263.27,0.2,207663.7,203353.07,4310.63,UPI,Small Business,Diya
+ORD-01382,2025-11-14,Backpack,Accessories,West,Ahmedabad,7,1647.41,0.1,10378.68,6708.62,3670.06,Credit Card,Corporate,Kabir
+ORD-01383,2025-11-22,Laptop,Electronics,South,Kochi,4,53173.05,0.2,170153.76,147649.9,22503.86,Credit Card,Consumer,Vivaan
+ORD-01384,2024-06-24,Notebook,Stationery,North,Jaipur,5,97.69,0.15,415.18,398.75,16.43,UPI,Corporate,Anaya
+ORD-01385,2024-01-24,Headphones,Electronics,East,Bhubaneswar,1,4009.0,0.1,3608.1,3106.69,501.41,Net Banking,Corporate,Kabir
+ORD-01386,2024-03-30,Printer,Electronics,West,Surat,4,12853.36,0.0,51413.44,41261.87,10151.57,Debit Card,Consumer,Rohan
+ORD-01387,2024-02-19,Notebook,Stationery,East,Guwahati,6,91.85,0.15,468.43,378.96,89.47,Cash,Corporate,Meera
+ORD-01388,2025-08-29,Laptop,Electronics,South,Coimbatore,6,62415.94,0.05,355770.86,296070.07,59700.79,Cash,Consumer,Isha
+ORD-01389,2025-10-13,Notebook,Stationery,East,Guwahati,1,175.83,0.15,149.46,136.51,12.95,Net Banking,Corporate,Vivaan
+ORD-01390,2024-04-21,Smartphone,Electronics,South,Coimbatore,7,27625.71,0.15,164372.97,117673.75,46699.22,Debit Card,Consumer,Meera
+ORD-01391,2025-06-29,Backpack,Accessories,West,Pune,8,2459.0,0.05,18688.4,11658.96,7029.44,UPI,Consumer,Aarav
+ORD-01392,2024-05-10,Desk,Furniture,West,Surat,6,15236.87,0.0,91421.22,67100.07,24321.15,Net Banking,Consumer,Diya
+ORD-01393,2024-09-25,Office Chair,Furniture,South,Coimbatore,5,5414.61,0.0,27073.05,19017.4,8055.65,Net Banking,Consumer,Anaya
+ORD-01394,2025-03-13,Backpack,Accessories,West,Mumbai,7,2513.73,0.1,15836.5,11779.71,4056.79,UPI,Consumer,Rohan
+ORD-01395,2025-06-09,Laptop,Electronics,North,Lucknow,5,64416.89,0.05,305980.23,246355.32,59624.91,Net Banking,Consumer,Aarav
+ORD-01396,2025-09-30,Backpack,Accessories,West,Mumbai,8,2405.6,0.15,16358.08,13578.28,2779.8,Debit Card,Consumer,Vivaan
+ORD-01397,2024-02-02,Smartphone,Electronics,West,Surat,2,25371.98,0.0,50743.96,34537.58,16206.38,Credit Card,Small Business,Meera
+ORD-01398,2024-05-23,Headphones,Electronics,East,Kolkata,1,5164.71,0.1,4648.24,3534.94,1113.3,Debit Card,Small Business,Isha
+ORD-01399,2024-07-23,Water Bottle,Accessories,North,Dehradun,1,741.14,0.0,741.14,584.77,156.37,Debit Card,Consumer,Diya
+ORD-01400,2024-08-14,Water Bottle,Accessories,West,Mumbai,1,898.33,0.15,763.58,727.23,36.35,Credit Card,Consumer,Anaya
+ORD-01401,2025-12-29,Pen Set,Stationery,West,Mumbai,1,116.01,0.15,98.61,67.41,31.2,Debit Card,Consumer,Diya
+ORD-01402,2025-07-21,Headphones,Electronics,West,Mumbai,2,4539.47,0.0,9078.94,6717.57,2361.37,UPI,Corporate,Anaya
+ORD-01403,2024-08-21,Notebook,Stationery,North,Lucknow,3,81.48,0.2,195.55,181.29,14.26,UPI,Consumer,Isha
+ORD-01404,2025-12-10,Desk,Furniture,East,Bhubaneswar,6,12068.81,0.15,61550.93,54659.71,6891.22,Net Banking,Consumer,Isha
+ORD-01405,2024-12-30,Headphones,Electronics,Central,Indore,5,3169.4,0.1,14262.3,9445.94,4816.36,Debit Card,Small Business,Aarav
+ORD-01406,2024-12-31,Headphones,Electronics,East,Bhubaneswar,5,2376.46,0.0,11882.3,9412.17,2470.13,Cash,Consumer,Diya
+ORD-01407,2024-11-12,Pen Set,Stationery,North,Lucknow,2,124.12,0.15,211.0,163.17,47.83,Credit Card,Consumer,Anaya
+ORD-01408,2024-04-15,Office Chair,Furniture,West,Surat,3,4204.96,0.0,12614.88,8684.51,3930.37,Cash,Consumer,Anaya
+ORD-01409,2025-11-13,Headphones,Electronics,Central,Bhopal,4,4672.87,0.0,18691.48,12881.25,5810.23,Net Banking,Consumer,Kabir
+ORD-01410,2024-01-11,Smartphone,Electronics,North,Delhi,5,22797.98,0.1,102590.91,74894.35,27696.56,UPI,Corporate,Kabir
+ORD-01411,2024-05-07,Printer,Electronics,North,Dehradun,8,8977.03,0.0,71816.24,55430.85,16385.39,Debit Card,Consumer,Anaya
+ORD-01412,2024-06-16,Desk,Furniture,North,Delhi,2,5776.5,0.0,11553.0,9561.2,1991.8,Cash,Consumer,Rohan
+ORD-01413,2024-07-22,Pen Set,Stationery,South,Bengaluru,5,212.76,0.1,957.42,734.16,223.26,UPI,Consumer,Rohan
+ORD-01414,2024-04-06,Laptop,Electronics,West,Ahmedabad,4,73800.43,0.0,295201.72,215277.16,79924.56,Net Banking,Consumer,Isha
+ORD-01415,2024-01-14,Laptop,Electronics,North,Delhi,2,57805.26,0.1,104049.47,93133.0,10916.47,Cash,Corporate,Anaya
+ORD-01416,2025-05-09,Backpack,Accessories,East,Guwahati,7,2447.97,0.1,15422.21,13511.03,1911.18,Net Banking,Consumer,Anaya
+ORD-01417,2025-12-08,Smartphone,Electronics,South,Kochi,6,24940.79,0.15,127198.03,117894.94,9303.09,Net Banking,Small Business,Rohan
+ORD-01418,2024-03-29,Headphones,Electronics,East,Kolkata,7,6136.79,0.15,36513.9,31321.05,5192.85,Cash,Consumer,Rohan
+ORD-01419,2024-08-04,Printer,Electronics,West,Vadodara,4,15447.44,0.05,58700.27,39230.96,19469.31,Cash,Consumer,Aarav
+ORD-01420,2025-01-04,Water Bottle,Accessories,South,Bengaluru,1,696.25,0.0,696.25,562.47,133.78,Cash,Consumer,Kabir
+ORD-01421,2025-11-08,Water Bottle,Accessories,South,Bengaluru,7,720.94,0.05,4794.25,3378.14,1416.11,Debit Card,Consumer,Kabir
+ORD-01422,2025-05-21,Headphones,Electronics,Central,Bhopal,2,6432.61,0.0,12865.22,7757.49,5107.73,Credit Card,Consumer,Diya
+ORD-01423,2025-07-13,Desk,Furniture,South,Kochi,2,13437.67,0.1,24187.81,22155.14,2032.67,Credit Card,Small Business,Meera
+ORD-01424,2025-02-28,Pen Set,Stationery,East,Bhubaneswar,7,197.39,0.1,1243.56,829.52,414.04,Net Banking,Small Business,Vivaan
+ORD-01425,2024-10-31,Pen Set,Stationery,East,Kolkata,3,117.86,0.05,335.9,290.38,45.52,Net Banking,Small Business,Rohan
+ORD-01426,2024-05-25,Smartphone,Electronics,North,Lucknow,6,18646.75,0.0,111880.5,65568.2,46312.3,Net Banking,Corporate,Diya
+ORD-01427,2025-09-22,Smartphone,Electronics,South,Kochi,4,24458.44,0.0,97833.76,57139.9,40693.86,Cash,Consumer,Aarav
+ORD-01428,2025-08-10,Office Chair,Furniture,West,Mumbai,1,4838.3,0.1,4354.47,3598.21,756.26,Cash,Corporate,Anaya
+ORD-01429,2024-01-19,Backpack,Accessories,West,Pune,8,829.35,0.05,6303.06,4521.4,1781.66,Debit Card,Consumer,Aarav
+ORD-01430,2025-06-06,Headphones,Electronics,South,Coimbatore,7,5180.55,0.1,32637.47,26108.87,6528.6,Debit Card,Corporate,Aarav
+ORD-01431,2024-03-02,Office Chair,Furniture,West,Pune,2,11452.66,0.1,20614.79,16119.33,4495.46,Credit Card,Corporate,Vivaan
+ORD-01432,2025-06-23,Desk,Furniture,North,Jaipur,3,10438.02,0.1,28182.65,18487.35,9695.3,Cash,Consumer,Vivaan
+ORD-01433,2025-08-25,Office Chair,Furniture,South,Kochi,5,8669.1,0.2,34676.4,30869.34,3807.06,Cash,Corporate,Isha
+ORD-01434,2024-04-05,Printer,Electronics,West,Ahmedabad,3,10800.21,0.0,32400.63,21881.87,10518.76,Net Banking,Corporate,Meera
+ORD-01435,2024-11-12,Headphones,Electronics,East,Patna,2,4825.59,0.0,9651.18,6776.97,2874.21,Debit Card,Consumer,Anaya
+ORD-01436,2024-03-31,Pen Set,Stationery,North,Jaipur,8,147.24,0.1,1060.13,762.02,298.11,UPI,Consumer,Rohan
+ORD-01437,2025-02-18,Smartphone,Electronics,West,Mumbai,2,15596.37,0.2,24954.19,21435.68,3518.51,UPI,Consumer,Diya
+ORD-01438,2025-11-08,Backpack,Accessories,West,Vadodara,4,2206.7,0.15,7502.78,6755.6,747.18,Net Banking,Small Business,Meera
+ORD-01439,2024-02-29,Headphones,Electronics,Central,Indore,1,6094.9,0.0,6094.9,3760.79,2334.11,Net Banking,Corporate,Meera
+ORD-01440,2024-10-17,Notebook,Stationery,South,Coimbatore,8,124.91,0.0,999.28,683.52,315.76,Net Banking,Consumer,Diya
+ORD-01441,2025-12-11,Desk,Furniture,East,Kolkata,7,11659.66,0.05,77536.74,61524.06,16012.68,Cash,Small Business,Meera
+ORD-01442,2024-08-07,Water Bottle,Accessories,South,Kochi,7,548.14,0.05,3645.13,3088.82,556.31,Credit Card,Consumer,Meera
+ORD-01443,2024-04-06,Smartphone,Electronics,South,Chennai,8,31813.83,0.05,241785.11,162031.07,79754.04,Debit Card,Small Business,Diya
+ORD-01444,2024-12-22,Office Chair,Furniture,Central,Indore,2,8260.49,0.05,15694.93,13141.59,2553.34,UPI,Small Business,Diya
+ORD-01445,2025-01-06,Pen Set,Stationery,South,Hyderabad,2,60.81,0.05,115.54,78.87,36.67,Debit Card,Consumer,Kabir
+ORD-01446,2025-04-28,Pen Set,Stationery,North,Lucknow,1,71.91,0.0,71.91,45.28,26.63,Credit Card,Consumer,Rohan
+ORD-01447,2024-08-17,Headphones,Electronics,West,Vadodara,6,5791.75,0.0,34750.5,23999.04,10751.46,UPI,Small Business,Isha
+ORD-01448,2025-11-28,Backpack,Accessories,East,Kolkata,1,1946.01,0.2,1556.81,1607.79,-50.98,Cash,Consumer,Aarav
+ORD-01449,2025-01-15,Office Chair,Furniture,West,Mumbai,2,5827.71,0.0,11655.42,7033.97,4621.45,Cash,Consumer,Isha
+ORD-01450,2024-07-28,Smartphone,Electronics,North,Delhi,2,40615.5,0.0,81231.0,58136.27,23094.73,Cash,Consumer,Diya
+ORD-01451,2025-12-02,Pen Set,Stationery,West,Mumbai,6,198.05,0.1,1069.47,716.2,353.27,UPI,Consumer,Aarav
+ORD-01452,2025-11-06,Notebook,Stationery,West,Ahmedabad,3,45.42,0.0,136.26,95.57,40.69,UPI,Small Business,Anaya
+ORD-01453,2024-12-30,Water Bottle,Accessories,North,Dehradun,6,412.97,0.0,2477.82,1446.24,1031.58,UPI,Consumer,Vivaan
+ORD-01454,2024-01-19,Desk,Furniture,North,Delhi,2,14167.35,0.05,26917.97,22709.86,4208.11,Debit Card,Consumer,Diya
+ORD-01455,2025-03-11,Notebook,Stationery,North,Delhi,7,58.43,0.1,368.11,265.28,102.83,UPI,Consumer,Diya
+ORD-01456,2025-02-09,Backpack,Accessories,West,Pune,5,1851.35,0.0,9256.75,6458.63,2798.12,Net Banking,Corporate,Aarav
+ORD-01457,2024-04-18,Water Bottle,Accessories,West,Mumbai,4,829.71,0.1,2986.96,2742.0,244.96,Credit Card,Corporate,Isha
+ORD-01458,2025-04-07,Pen Set,Stationery,North,Lucknow,8,203.26,0.05,1544.78,1213.86,330.92,Credit Card,Consumer,Rohan
+ORD-01459,2025-09-05,Laptop,Electronics,North,Jaipur,7,55638.33,0.15,331048.06,270688.77,60359.29,Net Banking,Corporate,Isha
+ORD-01460,2024-03-18,Smartphone,Electronics,Central,Raipur,4,19793.95,0.0,79175.8,51378.77,27797.03,Credit Card,Corporate,Kabir
+ORD-01461,2025-06-12,Desk,Furniture,South,Coimbatore,2,10556.07,0.15,17945.32,16908.94,1036.38,Debit Card,Consumer,Kabir
+ORD-01462,2024-04-12,Backpack,Accessories,North,Chandigarh,7,2730.32,0.1,17201.02,11887.87,5313.15,Debit Card,Consumer,Rohan
+ORD-01463,2025-06-30,Smartphone,Electronics,North,Lucknow,6,39302.69,0.0,235816.14,160860.34,74955.8,Cash,Corporate,Rohan
+ORD-01464,2024-11-01,Desk,Furniture,West,Ahmedabad,1,9989.07,0.1,8990.16,7284.39,1705.77,UPI,Consumer,Diya
+ORD-01465,2024-01-05,Smartphone,Electronics,West,Mumbai,3,21289.56,0.05,60675.25,52374.75,8300.5,Cash,Consumer,Aarav
+ORD-01466,2025-12-06,Pen Set,Stationery,West,Surat,2,80.29,0.1,144.52,128.04,16.48,Debit Card,Consumer,Diya
+ORD-01467,2024-05-01,Headphones,Electronics,South,Chennai,2,4714.5,0.15,8014.65,6192.12,1822.53,Cash,Corporate,Meera
+ORD-01468,2025-03-11,Notebook,Stationery,North,Jaipur,8,48.85,0.1,351.72,300.62,51.1,Debit Card,Consumer,Anaya
+ORD-01469,2024-05-12,Office Chair,Furniture,East,Patna,8,7752.68,0.1,55819.3,40292.08,15527.22,Cash,Corporate,
+ORD-01470,2025-11-12,Water Bottle,Accessories,North,Chandigarh,4,864.75,0.1,3113.1,2803.97,309.13,Debit Card,Small Business,Meera
+ORD-01471,2025-06-22,Pen Set,Stationery,South,Bengaluru,7,289.53,0.15,1722.7,1560.76,161.94,Debit Card,Corporate,Aarav
+ORD-01472,2025-08-10,Desk,Furniture,South,Bengaluru,5,4774.97,0.05,22681.11,19160.82,3520.29,Cash,Corporate,Isha
+ORD-01473,2024-11-11,Pen Set,Stationery,South,Chennai,7,164.9,0.05,1096.58,746.09,350.49,UPI,Consumer,Aarav
+ORD-01474,2024-12-07,Pen Set,Stationery,North,Delhi,4,125.0,0.05,475.0,346.94,128.06,Debit Card,Corporate,Meera
+ORD-01475,2025-04-08,Laptop,Electronics,Central,Indore,1,58233.29,0.0,58233.29,41705.72,16527.57,UPI,Consumer,Rohan
+ORD-01476,2025-07-26,Water Bottle,Accessories,North,Delhi,6,359.19,0.0,2155.14,1476.44,678.7,Credit Card,Consumer,Rohan
+ORD-01477,2025-09-10,Water Bottle,Accessories,East,Guwahati,3,392.44,0.1,1059.59,852.9,206.69,Net Banking,Corporate,Rohan
+ORD-01478,2024-01-14,Backpack,Accessories,South,Kochi,8,2224.08,0.0,17792.64,13555.33,4237.31,Credit Card,Small Business,Meera
+ORD-01479,2025-04-29,Backpack,Accessories,West,Vadodara,8,846.18,0.05,6430.97,4068.44,2362.53,UPI,Corporate,Anaya
+ORD-01480,2024-03-20,Notebook,Stationery,East,Guwahati,3,110.28,0.0,330.84,267.98,62.86,Cash,Consumer,Diya
+ORD-01481,2024-07-29,Pen Set,Stationery,East,Patna,7,234.33,0.1,1476.28,1271.7,204.58,UPI,Consumer,Isha
+ORD-01482,2025-08-28,Laptop,Electronics,North,Lucknow,2,67173.75,0.05,127630.12,93617.64,34012.48,Credit Card,Corporate,Aarav
+ORD-01483,2024-07-01,Laptop,Electronics,South,Bengaluru,3,77132.21,0.1,208256.97,145143.46,63113.51,UPI,Consumer,Isha
+ORD-01484,2025-08-04,Office Chair,Furniture,West,Vadodara,2,10918.38,0.1,19653.08,13667.17,5985.91,Net Banking,Consumer,Rohan
+ORD-01485,2024-12-03,Printer,Electronics,West,Vadodara,4,15162.46,0.0,60649.84,37887.11,22762.73,Cash,Consumer,Vivaan
+ORD-01486,2024-06-18,Water Bottle,Accessories,South,Kochi,6,743.77,0.15,3793.23,3140.94,652.29,Debit Card,Corporate,Rohan
+ORD-01487,2024-08-31,Desk,Furniture,Central,Bhopal,3,7142.92,0.15,18214.45,14324.42,3890.03,UPI,Consumer,Diya
+ORD-01488,2025-01-22,Smartphone,Electronics,South,Bengaluru,7,14119.52,0.0,98836.64,69278.92,29557.72,Debit Card,Consumer,Anaya
+ORD-01489,2025-07-12,Notebook,Stationery,Central,Jabalpur,4,153.46,0.1,552.46,437.71,114.75,Credit Card,Consumer,Meera
+ORD-01490,2025-03-18,Water Bottle,Accessories,East,Kolkata,7,898.74,0.05,5976.62,4968.77,1007.85,Cash,Consumer,Vivaan
+ORD-01491,2025-11-12,Water Bottle,Accessories,North,Delhi,8,388.15,0.1,2794.68,1806.95,987.73,Net Banking,Consumer,Diya
+ORD-01492,2025-09-25,Pen Set,Stationery,West,Ahmedabad,8,96.88,0.15,658.78,493.13,165.65,Debit Card,Corporate,Anaya
+ORD-01493,2025-07-03,Smartphone,Electronics,West,Ahmedabad,2,29696.78,0.15,50484.53,40670.95,9813.58,UPI,Consumer,Diya
+ORD-01494,2025-03-16,Notebook,Stationery,South,Chennai,6,103.41,0.1,558.41,520.75,37.66,Credit Card,Consumer,Kabir
+ORD-01495,2024-07-30,Headphones,Electronics,South,Bengaluru,2,6157.9,0.1,11084.22,8809.4,2274.82,Credit Card,Corporate,Diya
+ORD-01496,2024-10-28,Headphones,Electronics,East,Patna,1,4332.16,0.15,3682.34,3400.07,282.27,UPI,Consumer,Vivaan
+ORD-01497,2024-03-27,Notebook,Stationery,South,Coimbatore,1,43.54,0.0,43.54,31.49,12.05,Cash,Consumer,Aarav
+ORD-01498,2024-09-30,Printer,Electronics,Central,Bhopal,8,6772.11,0.15,46050.35,32375.09,13675.26,Net Banking,Small Business,Meera
+ORD-01499,2025-11-07,Pen Set,Stationery,West,Ahmedabad,8,203.38,0.15,1382.98,997.59,385.39,UPI,Consumer,Isha
+ORD-01500,2024-11-06,Notebook,Stationery,West,Pune,6,172.7,0.1,932.58,837.32,95.26,Cash,Small Business,Rohan
+ORD-01501,2024-03-24,Notebook,Stationery,West,Ahmedabad,6,42.53,0.15,216.9,193.89,23.01,Cash,Small Business,Rohan
+ORD-01502,2025-04-20,Office Chair,Furniture,North,Lucknow,6,5563.62,0.05,31712.63,25085.08,6627.55,Net Banking,Corporate,Anaya
+ORD-01503,2025-12-03,Notebook,Stationery,North,Delhi,7,56.26,0.05,374.13,257.5,116.63,Debit Card,Consumer,Meera
+ORD-01504,2025-09-25,Notebook,Stationery,West,Vadodara,5,59.61,0.1,268.25,188.0,80.25,Cash,Consumer,Anaya
+ORD-01505,2024-07-19,Backpack,Accessories,North,Chandigarh,3,1690.37,0.15,4310.44,4148.03,162.41,Credit Card,Consumer,Rohan
+ORD-01506,2024-11-27,Smartphone,Electronics,East,Kolkata,5,18030.48,0.1,81137.16,64451.93,16685.23,Credit Card,Consumer,Isha
+ORD-01507,2025-01-22,Notebook,Stationery,West,Pune,4,57.77,0.1,207.97,181.97,26.0,Cash,Corporate,Rohan
+ORD-01508,2024-06-29,Laptop,Electronics,West,Surat,4,63439.6,0.15,215694.64,171961.3,43733.34,Credit Card,Consumer,Anaya
+ORD-01509,2024-07-15,Desk,Furniture,West,Mumbai,6,6533.81,0.0,39202.86,30639.41,8563.45,Cash,Consumer,Anaya
+ORD-01510,2024-06-21,Laptop,Electronics,West,Surat,5,52978.4,0.0,264892.0,195896.75,68995.25,Credit Card,Corporate,Diya
+ORD-01511,2025-12-27,Headphones,Electronics,West,Mumbai,5,2150.11,0.0,10750.55,7096.58,3653.97,,Small Business,Vivaan
+ORD-01512,2025-06-28,Water Bottle,Accessories,North,Lucknow,5,588.5,0.15,2501.12,1887.42,613.7,Credit Card,Consumer,Kabir
+ORD-01513,2025-09-05,Desk,Furniture,North,Delhi,2,16811.83,0.0,33623.66,23506.14,10117.52,Net Banking,Consumer,Meera
+ORD-01514,2025-08-19,Desk,Furniture,South,Kochi,1,15870.27,0.2,12696.22,11900.88,795.34,Net Banking,Consumer,Isha
+ORD-01515,2025-12-01,Headphones,Electronics,West,Mumbai,6,1056.17,0.15,5386.47,4368.98,1017.49,Debit Card,Consumer,Kabir
+ORD-01516,2024-03-17,Office Chair,Furniture,Central,Raipur,2,4786.12,0.0,9572.24,7190.83,2381.41,Net Banking,Consumer,Anaya
+ORD-01517,2025-10-05,Laptop,Electronics,West,Vadodara,1,43457.96,0.05,41285.06,32601.65,8683.41,Cash,Consumer,Anaya
+ORD-01518,2024-02-18,Headphones,Electronics,East,Bhubaneswar,8,3417.42,0.1,24605.42,21475.27,3130.15,Cash,Small Business,Diya
+ORD-01519,2024-12-13,Pen Set,Stationery,East,Patna,2,136.52,0.05,259.39,195.63,63.76,UPI,Small Business,Diya
+ORD-01520,2025-03-09,Backpack,Accessories,West,Ahmedabad,3,1450.96,0.05,4135.24,3083.65,1051.59,Credit Card,Corporate,Vivaan
+ORD-01521,2024-09-18,Desk,Furniture,North,Delhi,7,10715.34,0.0,75007.38,51255.79,23751.59,Cash,Consumer,Vivaan
+ORD-01522,2024-04-16,Smartphone,Electronics,East,Kolkata,3,29669.62,0.05,84558.42,71930.82,12627.6,Net Banking,Consumer,Aarav
+ORD-01523,2024-05-20,Headphones,Electronics,North,Jaipur,7,5150.17,0.0,36051.19,21704.31,14346.88,Credit Card,Consumer,Anaya
+ORD-01524,2025-08-25,Printer,Electronics,Central,Nagpur,6,12473.58,0.1,67357.33,56667.07,10690.26,Net Banking,Corporate,Diya
+ORD-01525,2024-08-20,Pen Set,Stationery,North,Lucknow,5,194.44,0.05,923.59,586.64,336.95,Cash,Corporate,Meera
+ORD-01526,2024-08-14,Water Bottle,Accessories,West,Ahmedabad,3,215.04,0.0,645.12,540.17,104.95,Cash,Consumer,Meera
+ORD-01527,2025-11-05,Notebook,Stationery,Central,Bhopal,2,140.23,0.0,280.46,167.81,112.65,Credit Card,Corporate,Diya
+ORD-01528,2024-04-15,Laptop,Electronics,South,Chennai,3,68859.75,0.1,185921.33,158708.2,27213.13,Credit Card,Corporate,Aarav
+ORD-01529,2025-10-30,Pen Set,Stationery,West,Vadodara,1,294.06,0.0,294.06,221.06,73.0,Credit Card,Corporate,Diya
+ORD-01530,2025-11-03,Laptop,Electronics,South,Coimbatore,5,52923.94,0.15,224926.74,164676.79,60249.95,Cash,Small Business,Kabir
+ORD-01531,2025-03-12,Water Bottle,Accessories,East,Kolkata,8,532.24,0.0,4257.92,3220.07,1037.85,UPI,Corporate,Anaya
+ORD-01532,2024-04-30,Water Bottle,Accessories,Central,Raipur,6,733.72,0.05,4182.2,3598.07,584.13,UPI,Small Business,Isha
+ORD-01533,2024-04-23,Water Bottle,Accessories,North,Jaipur,8,325.96,0.0,2607.68,2175.56,432.12,Cash,Consumer,Diya
+ORD-01534,2024-07-26,Smartphone,Electronics,North,Delhi,4,30692.56,0.15,104354.7,102698.95,1655.75,Credit Card,Corporate,Isha
+ORD-01535,2025-02-25,Printer,Electronics,Central,Bhopal,8,6829.76,0.2,43710.46,43965.95,-255.49,Credit Card,Consumer,Aarav
+ORD-01536,2024-04-22,Pen Set,Stationery,North,Dehradun,3,136.03,0.0,408.09,294.98,113.11,Debit Card,Consumer,Meera
+ORD-01537,2024-11-28,Headphones,Electronics,Central,Bhopal,7,5927.72,0.0,41494.04,30786.14,10707.9,Cash,Small Business,Vivaan
+ORD-01538,2024-03-25,Office Chair,Furniture,West,Ahmedabad,3,5819.94,0.05,16586.83,11606.42,4980.41,Debit Card,Corporate,Kabir
+ORD-01539,2025-01-29,Backpack,Accessories,North,Delhi,1,1069.28,0.0,1069.28,675.97,393.31,Cash,Consumer,Aarav
+ORD-01540,2024-01-16,Desk,Furniture,West,Mumbai,3,17929.85,0.15,45721.12,34205.84,11515.28,Cash,Consumer,Kabir
+ORD-01541,2025-06-01,Headphones,Electronics,East,Guwahati,4,1509.36,0.05,5735.57,4867.53,868.04,UPI,Small Business,Aarav
+ORD-01542,2024-02-10,Smartphone,Electronics,South,Hyderabad,2,32583.88,0.15,55392.6,45502.74,9889.86,UPI,Corporate,Aarav
+ORD-01543,2024-05-22,Smartphone,Electronics,East,Bhubaneswar,8,38246.92,0.0,305975.36,189996.8,115978.56,Credit Card,Consumer,Anaya
+ORD-01544,2024-05-07,Laptop,Electronics,North,Delhi,6,47122.19,0.0,282733.14,173716.95,109016.19,Cash,Small Business,Aarav
+ORD-01545,2025-08-29,Printer,Electronics,West,Vadodara,3,14714.4,0.2,35314.56,29595.65,5718.91,Cash,Consumer,Kabir
+ORD-01546,2024-02-08,Desk,Furniture,Central,Raipur,6,10866.92,0.0,65201.52,50141.54,15059.98,Cash,Consumer,Vivaan
+ORD-01547,2024-11-09,Office Chair,Furniture,North,Lucknow,2,7961.74,0.1,14331.13,13282.6,1048.53,Debit Card,Consumer,Vivaan
+ORD-01548,2025-03-07,Office Chair,Furniture,North,Jaipur,2,6023.98,0.0,12047.96,8328.18,3719.78,Debit Card,Consumer,Diya
+ORD-01549,2025-01-11,Desk,Furniture,West,Surat,3,16665.95,0.1,44998.07,31517.95,13480.12,Cash,Consumer,Meera
+ORD-01550,2025-05-11,Notebook,Stationery,South,Chennai,2,99.79,0.05,189.6,129.63,59.97,Net Banking,Consumer,Rohan
+ORD-01551,2025-08-09,Printer,Electronics,East,Patna,3,13064.71,0.05,37234.42,25957.47,11276.95,Credit Card,Small Business,Aarav
+ORD-01552,2024-10-14,Office Chair,Furniture,West,Vadodara,8,9840.53,0.1,70851.82,46673.96,24177.86,Credit Card,Corporate,Diya
+ORD-01553,2025-08-27,Notebook,Stationery,West,Mumbai,4,76.46,0.0,305.84,180.28,125.56,Cash,Consumer,Rohan
+ORD-01554,2024-08-20,Pen Set,Stationery,Central,Jabalpur,1,109.0,0.05,103.55,73.54,30.01,UPI,Small Business,Meera
+ORD-01555,2025-12-19,Headphones,Electronics,North,Chandigarh,6,1171.73,0.15,5975.82,4994.61,981.21,Net Banking,Consumer,Meera
+ORD-01556,2025-01-03,Backpack,Accessories,South,Bengaluru,4,1272.23,0.1,4580.03,3705.28,874.75,Cash,Corporate,Diya
+ORD-01557,2025-06-21,Laptop,Electronics,North,Lucknow,6,58076.92,0.0,348461.52,208902.54,139558.98,UPI,Consumer,Meera
+ORD-01558,2025-09-30,Laptop,Electronics,West,Surat,6,53110.15,0.2,254928.72,260740.63,-5811.91,Credit Card,Small Business,Rohan
+ORD-01559,2025-08-01,Backpack,Accessories,North,Dehradun,6,987.35,0.1,5331.69,4192.37,1139.32,Cash,Consumer,Vivaan
+ORD-01560,2025-09-13,Headphones,Electronics,Central,Nagpur,3,1834.29,0.0,5502.87,3877.3,1625.57,Cash,Corporate,Vivaan
+ORD-01561,2025-01-26,Notebook,Stationery,West,Pune,4,102.08,0.15,347.07,314.29,32.78,UPI,Consumer,Isha
+ORD-01562,2024-02-01,Notebook,Stationery,North,Chandigarh,5,110.04,0.1,495.18,391.74,103.44,Credit Card,Consumer,Anaya
+ORD-01563,2024-12-25,Laptop,Electronics,West,Ahmedabad,6,61460.59,0.1,331887.19,282393.05,49494.14,Debit Card,Consumer,Meera
+ORD-01564,2024-05-12,Pen Set,Stationery,East,Guwahati,4,170.65,0.0,682.6,469.38,213.22,Net Banking,Small Business,Vivaan
+ORD-01565,2025-10-11,Smartphone,Electronics,North,Chandigarh,1,34204.39,0.0,34204.39,27189.15,7015.24,Cash,Consumer,Meera
+ORD-01566,2024-06-21,Laptop,Electronics,West,Vadodara,2,73641.45,0.05,139918.75,95952.19,43966.56,Cash,Consumer,Meera
+ORD-01567,2024-06-15,Laptop,Electronics,West,Mumbai,1,46917.76,0.1,42225.98,29672.62,12553.36,Cash,Corporate,Aarav
+ORD-01568,2024-07-01,Water Bottle,Accessories,West,Vadodara,1,863.69,0.05,820.51,642.47,178.04,Cash,Consumer,Aarav
+ORD-01569,2025-04-14,Water Bottle,Accessories,Central,Nagpur,3,738.14,0.1,1992.98,1350.73,642.25,Credit Card,Consumer,Meera
+ORD-01570,2025-02-20,Headphones,Electronics,North,Dehradun,6,3270.49,0.0,19622.94,14931.65,4691.29,Credit Card,Consumer,Rohan
+ORD-01571,2025-11-23,Headphones,Electronics,West,Pune,5,3008.75,0.05,14291.56,9311.04,4980.52,Cash,Corporate,Vivaan
+ORD-01572,2024-10-30,Pen Set,Stationery,North,Lucknow,7,303.64,0.0,2125.48,1616.87,508.61,Net Banking,Small Business,Meera
+ORD-01573,2024-07-25,Office Chair,Furniture,North,Jaipur,4,5784.08,0.1,20822.69,16311.94,4510.75,Debit Card,Consumer,Anaya
+ORD-01574,2024-02-05,Notebook,Stationery,Central,Raipur,7,107.33,0.0,751.31,470.9,280.41,Net Banking,Corporate,Anaya
+ORD-01575,2024-01-06,Backpack,Accessories,Central,Nagpur,5,2133.23,0.0,10666.15,6520.75,4145.4,UPI,Consumer,Aarav
+ORD-01576,2024-09-29,Office Chair,Furniture,Central,Jabalpur,3,10426.67,0.1,28152.01,23574.5,4577.51,Debit Card,Consumer,Anaya
+ORD-01577,2025-11-06,Backpack,Accessories,West,Mumbai,6,2547.53,0.05,14520.92,10221.99,4298.93,Credit Card,Consumer,Isha
+ORD-01578,2025-01-17,Desk,Furniture,East,Patna,3,14729.17,0.1,39768.76,34676.87,5091.89,Credit Card,Corporate,Kabir
+ORD-01579,2025-10-14,Pen Set,Stationery,North,Delhi,8,239.5,0.0,1916.0,1538.87,377.13,Cash,Consumer,Diya
+ORD-01580,2024-03-15,Notebook,Stationery,Central,Jabalpur,5,151.1,0.1,679.95,592.01,87.94,Net Banking,Corporate,Isha
+ORD-01581,2024-03-09,Notebook,Stationery,East,Patna,5,177.19,0.0,885.95,568.37,317.58,Credit Card,Small Business,Rohan
+ORD-01582,2025-08-31,Headphones,Electronics,North,Lucknow,6,1704.87,0.0,10229.22,7226.47,3002.75,Debit Card,Consumer,Diya
+ORD-01583,2024-03-18,Office Chair,Furniture,North,Delhi,1,3764.82,0.1,3388.34,2797.0,591.34,Credit Card,Consumer,Diya
+ORD-01584,2024-02-07,Office Chair,Furniture,Central,Jabalpur,5,7001.79,0.05,33258.5,22201.02,11057.48,Cash,Small Business,Vivaan
+ORD-01585,2024-10-21,Smartphone,Electronics,West,Vadodara,6,16818.68,0.0,100912.08,67260.87,33651.21,Credit Card,Corporate,Rohan
+ORD-01586,2025-11-06,Smartphone,Electronics,Central,Bhopal,1,12206.34,0.15,10375.39,9313.2,1062.19,Debit Card,Corporate,Kabir
+ORD-01587,2025-05-18,Office Chair,Furniture,West,Mumbai,8,6502.1,0.1,46815.12,33120.07,13695.05,Debit Card,Corporate,Kabir
+ORD-01588,2024-03-13,Printer,Electronics,West,Vadodara,1,10994.84,0.1,9895.36,8237.36,1658.0,Net Banking,Consumer,Isha
+ORD-01589,2025-09-03,Headphones,Electronics,South,Chennai,1,4939.5,0.0,4939.5,3238.97,1700.53,Credit Card,Consumer,Vivaan
+ORD-01590,2025-09-07,Desk,Furniture,South,Coimbatore,4,16912.89,0.15,57503.83,54700.99,2802.84,Debit Card,Corporate,Isha
+ORD-01591,2025-08-07,Office Chair,Furniture,North,Lucknow,4,8532.02,0.0,34128.08,19860.45,14267.63,Credit Card,Small Business,Aarav
+ORD-01592,2025-10-20,Laptop,Electronics,South,Chennai,5,49134.16,0.15,208820.18,154631.32,54188.86,Debit Card,Corporate,Anaya
+ORD-01593,2024-06-24,Smartphone,Electronics,West,Mumbai,2,23938.52,0.0,47877.04,40202.92,7674.12,Credit Card,Consumer,Vivaan
+ORD-01594,2025-12-16,Water Bottle,Accessories,West,Surat,8,342.38,0.05,2602.09,1986.42,615.67,Cash,Small Business,Aarav
+ORD-01595,2024-08-22,Notebook,Stationery,South,Chennai,6,122.38,0.0,734.28,458.07,276.21,Debit Card,Consumer,Anaya
+ORD-01596,2025-08-08,Office Chair,Furniture,West,Mumbai,8,7860.11,0.1,56592.79,42315.49,14277.3,Credit Card,Consumer,Kabir
+ORD-01597,2025-02-26,Office Chair,Furniture,North,Jaipur,2,7798.74,0.2,12477.98,9952.19,2525.79,Debit Card,Consumer,Meera
+ORD-01598,2025-07-23,Smartphone,Electronics,North,Dehradun,6,17233.86,0.1,93062.84,71176.77,21886.07,Credit Card,Small Business,Aarav
+ORD-01599,2025-04-03,Laptop,Electronics,East,Bhubaneswar,8,75744.97,0.0,605959.76,416403.41,189556.35,Debit Card,Corporate,Vivaan
+ORD-01600,2025-04-14,Office Chair,Furniture,North,Delhi,8,8222.72,0.1,59203.58,49158.72,10044.86,Cash,Small Business,Vivaan
+ORD-01601,2025-03-25,Headphones,Electronics,North,Chandigarh,6,4302.1,0.15,21940.71,17995.0,3945.71,UPI,Consumer,Vivaan
+ORD-01602,2025-07-22,Headphones,Electronics,South,Kochi,7,1778.99,0.1,11207.64,9661.93,1545.71,Credit Card,Consumer,Anaya
+ORD-01603,2025-06-23,Laptop,Electronics,South,Coimbatore,7,43935.89,0.05,292173.67,228167.25,64006.42,Cash,Consumer,Aarav
+ORD-01604,2024-04-08,Desk,Furniture,South,Kochi,5,5065.13,0.05,24059.37,16096.8,7962.57,Cash,Small Business,Anaya
+ORD-01605,2025-08-26,Smartphone,Electronics,West,Mumbai,6,26332.57,0.15,134296.11,112178.24,22117.87,Credit Card,Consumer,Diya
+ORD-01606,2025-01-26,Laptop,Electronics,West,Mumbai,7,64373.3,0.1,405551.79,298725.89,106825.9,Cash,Consumer,Anaya
+ORD-01607,2024-08-23,Office Chair,Furniture,Central,Jabalpur,7,11101.46,0.0,77710.22,58375.35,19334.87,Debit Card,Consumer,Anaya
+ORD-01608,2025-01-10,Desk,Furniture,West,Ahmedabad,1,4550.29,0.0,4550.29,3336.63,1213.66,Credit Card,Consumer,Meera
+ORD-01609,2025-12-06,Backpack,Accessories,Central,Jabalpur,5,1571.73,0.1,7072.78,6056.72,1016.06,UPI,Consumer,Kabir
+ORD-01610,2025-09-18,Printer,Electronics,West,Vadodara,3,14455.41,0.1,39029.61,34592.14,4437.47,Net Banking,Consumer,Aarav
+ORD-01611,2025-08-31,Water Bottle,Accessories,West,Ahmedabad,5,543.03,0.05,2579.39,2039.22,540.17,UPI,Consumer,Rohan
+ORD-01612,2024-12-03,Laptop,Electronics,South,Chennai,1,73182.14,0.0,73182.14,52539.18,20642.96,Debit Card,Corporate,Anaya
+ORD-01613,2025-07-26,Printer,Electronics,South,Kochi,6,13936.59,0.15,71076.61,69679.95,1396.66,UPI,Consumer,Kabir
+ORD-01614,2024-10-08,Office Chair,Furniture,East,Patna,5,5687.09,0.0,28435.45,17751.11,10684.34,Credit Card,Consumer,Meera
+ORD-01615,2025-05-15,Pen Set,Stationery,West,Ahmedabad,3,71.89,0.0,215.67,150.39,65.28,Net Banking,Consumer,Diya
+ORD-01616,2025-04-11,Backpack,Accessories,Central,Bhopal,4,1642.34,0.05,6240.89,3874.91,2365.98,Credit Card,Consumer,Kabir
+ORD-01617,2024-07-01,Desk,Furniture,South,Bengaluru,7,5889.57,0.05,39165.64,28652.49,10513.15,UPI,Consumer,Aarav
+ORD-01618,2024-07-13,Laptop,Electronics,West,Ahmedabad,2,70808.94,0.15,120375.2,97085.51,23289.69,Credit Card,Corporate,Meera
+ORD-01619,2024-02-14,Notebook,Stationery,West,Surat,4,98.45,0.1,354.42,242.61,111.81,UPI,Consumer,Aarav
+ORD-01620,2024-04-12,Office Chair,Furniture,West,Vadodara,4,9051.04,0.05,34393.95,22894.74,11499.21,Debit Card,Small Business,Aarav
+ORD-01621,2024-11-12,Laptop,Electronics,West,Pune,4,70945.22,0.1,255402.79,229213.31,26189.48,Credit Card,Corporate,Kabir
+ORD-01622,2024-12-14,Desk,Furniture,North,Chandigarh,2,13285.79,0.1,23914.42,16481.41,7433.01,Net Banking,Consumer,Anaya
+ORD-01623,2024-04-30,Headphones,Electronics,North,Delhi,8,6026.65,0.05,45802.54,39951.79,5850.75,Net Banking,Small Business,Rohan
+ORD-01624,2024-10-31,Water Bottle,Accessories,Central,Nagpur,4,724.66,0.1,2608.78,2223.6,385.18,Cash,Corporate,Diya
+ORD-01625,2025-03-17,Printer,Electronics,North,Dehradun,8,10229.7,0.0,81837.6,49855.01,31982.59,Net Banking,Corporate,Rohan
+ORD-01626,2024-06-18,Notebook,Stationery,North,Chandigarh,5,83.15,0.05,394.96,334.38,60.58,Credit Card,Corporate,Isha
+ORD-01627,2024-09-03,Backpack,Accessories,Central,Nagpur,6,1250.81,0.0,7504.86,5433.86,2071.0,Credit Card,Corporate,Vivaan
+ORD-01628,2024-09-25,Printer,Electronics,North,Delhi,1,13402.87,0.2,10722.3,8800.09,1922.21,Net Banking,Consumer,Diya
+ORD-01629,2025-01-03,Office Chair,Furniture,West,Pune,8,8924.76,0.0,71398.08,48763.13,22634.95,Credit Card,Consumer,Aarav
+ORD-01630,2024-09-24,Backpack,Accessories,North,Lucknow,3,881.62,0.1,2380.37,2128.04,252.33,Credit Card,Consumer,
+ORD-01631,2025-06-21,Notebook,Stationery,South,Bengaluru,3,98.48,0.0,295.44,230.18,65.26,Net Banking,Corporate,Kabir
+ORD-01632,2024-08-27,Headphones,Electronics,West,Pune,3,5220.94,0.1,14096.54,11796.01,2300.53,Credit Card,Consumer,Vivaan
+ORD-01633,2024-11-12,Water Bottle,Accessories,West,Mumbai,5,599.35,0.0,2996.75,1792.2,1204.55,Net Banking,Corporate,Vivaan
+ORD-01634,2024-10-04,Printer,Electronics,South,Kochi,2,16915.2,0.1,30447.36,25407.19,5040.17,Cash,Small Business,Isha
+ORD-01635,2024-05-13,Headphones,Electronics,South,Coimbatore,3,2873.28,0.15,7326.86,6444.17,882.69,Debit Card,Consumer,Vivaan
+ORD-01636,2025-05-15,Smartphone,Electronics,Central,Nagpur,8,40554.97,0.05,308217.77,254314.0,53903.77,UPI,Consumer,Vivaan
+ORD-01637,2024-06-20,Notebook,Stationery,Central,Indore,7,121.61,0.1,766.14,644.64,121.5,UPI,Consumer,Isha
+ORD-01638,2024-08-04,Printer,Electronics,West,Pune,7,8238.96,0.1,51905.45,45197.39,6708.06,Net Banking,Consumer,Diya
+ORD-01639,2025-08-01,Laptop,Electronics,West,Surat,2,58399.11,0.15,99278.49,84805.81,14472.68,UPI,Consumer,Vivaan
+ORD-01640,2025-11-23,Backpack,Accessories,North,Delhi,4,1564.45,0.0,6257.8,4159.44,2098.36,Credit Card,Consumer,Isha
+ORD-01641,2025-05-04,Notebook,Stationery,West,Surat,5,56.25,0.1,253.12,216.46,36.66,Credit Card,Consumer,Diya
+ORD-01642,2025-10-30,Smartphone,Electronics,West,Pune,7,20029.46,0.1,126185.6,93393.02,32792.58,Debit Card,Corporate,Diya
+ORD-01643,2025-09-15,Headphones,Electronics,West,Pune,2,1642.19,0.05,3120.16,2233.53,886.63,Net Banking,Consumer,Vivaan
+ORD-01644,2024-12-17,Printer,Electronics,West,Vadodara,8,13574.87,0.2,86879.17,86066.99,812.18,Cash,Corporate,Anaya
+ORD-01645,2025-07-16,Laptop,Electronics,North,Jaipur,7,57369.55,0.1,361428.17,242510.46,118917.71,Cash,Small Business,Meera
+ORD-01646,2024-08-27,Headphones,Electronics,Central,Raipur,2,1536.24,0.15,2611.61,2436.05,175.56,UPI,Small Business,Isha
+ORD-01647,2024-12-02,Desk,Furniture,East,Patna,4,11754.88,0.05,44668.54,27342.84,17325.7,Credit Card,Corporate,Rohan
+ORD-01648,2025-01-25,Printer,Electronics,West,Vadodara,8,12129.99,0.0,97039.92,72580.66,24459.26,Debit Card,Consumer,Diya
+ORD-01649,2025-12-02,Pen Set,Stationery,West,Surat,1,271.98,0.0,271.98,215.01,56.97,UPI,Corporate,Meera
+ORD-01650,2025-09-11,Smartphone,Electronics,South,Kochi,1,30977.14,0.0,30977.14,25573.64,5403.5,Cash,Corporate,Diya
+ORD-01651,2024-12-23,Laptop,Electronics,West,Ahmedabad,1,62631.46,0.2,50105.17,36748.43,13356.74,Debit Card,Consumer,Meera
+ORD-01652,2025-04-21,Office Chair,Furniture,North,Delhi,8,11256.95,0.15,76547.26,55584.7,20962.56,Cash,Corporate,Meera
+ORD-01653,2024-05-27,Notebook,Stationery,South,Chennai,8,81.9,0.15,556.92,422.69,134.23,Credit Card,Small Business,Kabir
+ORD-01654,2025-08-10,Office Chair,Furniture,West,Pune,3,4955.24,0.05,14122.43,9057.78,5064.65,Debit Card,Small Business,Isha
+ORD-01655,2025-02-07,Notebook,Stationery,West,Mumbai,4,148.97,0.1,536.29,361.28,175.01,Debit Card,Consumer,Aarav
+ORD-01656,2025-01-23,Desk,Furniture,North,Jaipur,1,17745.01,0.0,17745.01,11181.36,6563.65,Debit Card,Corporate,Diya
+ORD-01657,2025-07-13,Pen Set,Stationery,West,Pune,2,252.06,0.0,504.12,412.35,91.77,Debit Card,Consumer,Diya
+ORD-01658,2025-04-07,Smartphone,Electronics,Central,Jabalpur,7,22294.13,0.15,132650.07,111565.22,21084.85,Net Banking,Small Business,Kabir
+ORD-01659,2024-02-22,Office Chair,Furniture,North,Lucknow,2,6639.82,0.0,13279.64,11023.06,2256.58,Cash,Consumer,Aarav
+ORD-01660,2024-07-29,Notebook,Stationery,South,Bengaluru,5,77.06,0.2,308.24,285.75,22.49,Cash,Consumer,Isha
+ORD-01661,2024-05-09,Water Bottle,Accessories,West,Mumbai,3,306.79,0.1,828.33,744.16,84.17,Credit Card,Consumer,Rohan
+ORD-01662,2025-06-20,Office Chair,Furniture,South,Chennai,2,11400.22,0.05,21660.42,13824.18,7836.24,Credit Card,Small Business,Diya
+ORD-01663,2024-01-26,Printer,Electronics,South,Chennai,7,7926.27,0.15,47161.31,34316.16,12845.15,UPI,Consumer,Isha
+ORD-01664,2024-05-27,Notebook,Stationery,Central,Jabalpur,3,53.58,0.2,128.59,121.51,7.08,Credit Card,Corporate,Vivaan
+ORD-01665,2025-03-12,Desk,Furniture,North,Lucknow,5,14178.94,0.1,63805.23,58640.76,5164.47,Credit Card,Corporate,Aarav
+ORD-01666,2025-05-22,Headphones,Electronics,North,Dehradun,5,3232.36,0.1,14545.62,11830.43,2715.19,Debit Card,Corporate,Aarav
+ORD-01667,2025-01-02,Headphones,Electronics,Central,Raipur,1,4074.47,0.05,3870.75,2926.41,944.34,Debit Card,Consumer,Kabir
+ORD-01668,2025-09-20,Water Bottle,Accessories,Central,Nagpur,5,580.72,0.0,2903.6,2135.5,768.1,Debit Card,Corporate,Meera
+ORD-01669,2025-11-01,Pen Set,Stationery,East,Kolkata,7,245.51,0.1,1546.71,1098.13,448.58,Credit Card,Consumer,Aarav
+ORD-01670,2024-04-06,Water Bottle,Accessories,South,Coimbatore,1,498.89,0.0,498.89,372.58,126.31,UPI,Consumer,Rohan
+ORD-01671,2025-11-26,Water Bottle,Accessories,East,Ranchi,5,222.46,0.0,1112.3,766.97,345.33,Cash,Consumer,Anaya
+ORD-01672,2025-03-24,Desk,Furniture,West,Vadodara,1,13527.38,0.0,13527.38,10347.98,3179.4,Debit Card,Corporate,Aarav
+ORD-01673,2025-04-09,Smartphone,Electronics,East,Patna,6,23266.79,0.1,125640.67,89227.59,36413.08,Cash,Corporate,Vivaan
+ORD-01674,2024-03-10,Laptop,Electronics,North,Jaipur,2,73801.72,0.05,140223.27,108282.06,31941.21,UPI,Consumer,Kabir
+ORD-01675,2025-03-29,Backpack,Accessories,Central,Bhopal,7,979.85,0.1,6173.06,4724.57,1448.49,Cash,Consumer,Kabir
+ORD-01676,2025-06-13,Notebook,Stationery,West,Ahmedabad,2,135.93,0.0,271.86,220.72,51.14,Credit Card,Small Business,Isha
+ORD-01677,2025-02-27,Backpack,Accessories,Central,Raipur,6,1853.2,0.05,10563.24,9061.99,1501.25,Credit Card,Consumer,Anaya
+ORD-01678,2024-03-02,Notebook,Stationery,East,Patna,3,160.8,0.05,458.28,301.53,156.75,Cash,Consumer,Rohan
+ORD-01679,2025-01-16,Water Bottle,Accessories,West,Ahmedabad,6,733.92,0.15,3742.99,3178.75,564.24,UPI,Consumer,Diya
+ORD-01680,2025-11-14,Notebook,Stationery,Central,Indore,6,77.21,0.0,463.26,377.18,86.08,Cash,Consumer,Vivaan
+ORD-01681,2025-06-12,Office Chair,Furniture,West,Vadodara,7,9948.11,0.05,66154.93,47894.95,18259.98,UPI,Small Business,Meera
+ORD-01682,2024-04-10,Water Bottle,Accessories,West,Surat,5,736.03,0.1,3312.13,3075.06,237.07,Net Banking,Consumer,Isha
+ORD-01683,2025-12-01,Desk,Furniture,East,Kolkata,2,5827.58,0.0,11655.16,9073.32,2581.84,Net Banking,Consumer,Kabir
+ORD-01684,2025-11-30,Laptop,Electronics,Central,Jabalpur,7,73736.28,0.1,464538.56,342653.69,121884.87,Debit Card,Consumer,
+ORD-01685,2024-05-03,Smartphone,Electronics,Central,Bhopal,2,38870.16,0.0,77740.32,64337.67,13402.65,Cash,Corporate,Anaya
+ORD-01686,2025-08-07,Pen Set,Stationery,Central,Indore,4,265.87,0.1,957.13,834.64,122.49,Credit Card,Corporate,Anaya
+ORD-01687,2024-10-23,Notebook,Stationery,West,Ahmedabad,8,175.45,0.2,1122.88,827.52,295.36,Net Banking,Consumer,Kabir
+ORD-01688,2025-03-09,Printer,Electronics,East,Kolkata,1,13118.61,0.0,13118.61,9291.05,3827.56,Debit Card,Consumer,Diya
+ORD-01689,2024-11-20,Pen Set,Stationery,Central,Indore,3,329.55,0.05,939.22,679.65,259.57,Cash,Consumer,Vivaan
+ORD-01690,2025-07-25,Pen Set,Stationery,North,Dehradun,6,290.4,0.15,1481.04,1120.59,360.45,Net Banking,Consumer,Rohan
+ORD-01691,2025-12-28,Office Chair,Furniture,East,Kolkata,6,9653.38,0.0,57920.28,48585.66,9334.62,Debit Card,Small Business,Diya
+ORD-01692,2025-08-03,Desk,Furniture,Central,Nagpur,2,14457.14,0.15,24577.14,22894.71,1682.43,Cash,Consumer,Vivaan
+ORD-01693,2025-11-10,Printer,Electronics,South,Coimbatore,3,6927.31,0.1,18703.74,15433.09,3270.65,UPI,Consumer,Rohan
+ORD-01694,2025-11-21,Backpack,Accessories,South,Hyderabad,4,1569.26,0.1,5649.34,4881.48,767.86,Cash,Consumer,Rohan
+ORD-01695,2024-03-06,Office Chair,Furniture,East,Ranchi,7,4031.69,0.1,25399.65,20138.47,5261.18,Net Banking,Consumer,Isha
+ORD-01696,2024-07-03,Pen Set,Stationery,East,Bhubaneswar,5,288.14,0.0,1440.7,911.24,529.46,Credit Card,Consumer,Kabir
+ORD-01697,2025-06-10,Notebook,Stationery,Central,Raipur,4,60.23,0.05,228.87,149.66,79.21,Cash,Corporate,Isha
+ORD-01698,2025-03-06,Headphones,Electronics,South,Hyderabad,7,4624.35,0.0,32370.45,21576.37,10794.08,Credit Card,Consumer,Isha
+ORD-01699,2024-02-06,Headphones,Electronics,Central,Indore,8,3498.16,0.0,27985.28,18974.53,9010.75,Debit Card,Consumer,Rohan
+ORD-01700,2024-03-10,Headphones,Electronics,South,Bengaluru,4,5868.43,0.15,19952.66,14954.24,4998.42,Cash,Corporate,Aarav
+ORD-01701,2025-01-14,Pen Set,Stationery,Central,Jabalpur,1,125.38,0.0,125.38,99.48,25.9,UPI,Corporate,Isha
+ORD-01702,2025-03-25,Notebook,Stationery,South,Coimbatore,3,122.24,0.0,366.72,274.29,92.43,Cash,Corporate,Isha
+ORD-01703,2024-05-02,Notebook,Stationery,East,Patna,4,53.6,0.0,214.4,159.87,54.53,Cash,Consumer,Rohan
+ORD-01704,2024-05-05,Smartphone,Electronics,West,Ahmedabad,2,26333.73,0.1,47400.71,32962.7,14438.01,UPI,Consumer,Isha
+ORD-01705,2024-04-04,Headphones,Electronics,West,Mumbai,4,6270.94,0.05,23829.57,14822.7,9006.87,Cash,Consumer,Meera
+ORD-01706,2025-02-16,Smartphone,Electronics,Central,Jabalpur,1,40994.29,0.1,36894.86,29295.03,7599.83,Debit Card,Consumer,Vivaan
+ORD-01707,2024-01-06,Pen Set,Stationery,West,Surat,2,208.75,0.0,417.5,332.6,84.9,Net Banking,Consumer,Isha
+ORD-01708,2025-02-21,Smartphone,Electronics,East,Guwahati,4,38441.66,0.1,138389.98,114112.91,24277.07,Debit Card,Consumer,Kabir
+ORD-01709,2024-12-13,Printer,Electronics,West,Vadodara,5,8907.11,0.0,44535.55,32715.48,11820.07,Debit Card,Corporate,Anaya
+ORD-01710,2024-12-06,Printer,Electronics,Central,Bhopal,3,11321.89,0.0,33965.67,26295.64,7670.03,Net Banking,Corporate,Kabir
+ORD-01711,2025-05-10,Desk,Furniture,East,Kolkata,6,16345.61,0.0,98073.66,82189.58,15884.08,Net Banking,Consumer,Vivaan
+ORD-01712,2025-01-16,Office Chair,Furniture,West,Ahmedabad,3,8197.62,0.0,24592.86,16781.69,7811.17,Cash,Small Business,Isha
+ORD-01713,2025-06-15,Headphones,Electronics,South,Kochi,7,5451.86,0.0,38163.02,24755.96,13407.06,UPI,Consumer,Rohan
+ORD-01714,2025-07-11,Pen Set,Stationery,North,Lucknow,6,154.11,0.05,878.43,646.4,232.03,Net Banking,Consumer,Aarav
+ORD-01715,2025-11-02,Headphones,Electronics,South,Kochi,1,4607.92,0.0,4607.92,2689.89,1918.03,UPI,Consumer,Anaya
+ORD-01716,2025-08-06,Desk,Furniture,North,Dehradun,6,7748.82,0.1,41843.63,30428.88,11414.75,Credit Card,Corporate,Rohan
+ORD-01717,2025-01-12,Headphones,Electronics,West,Mumbai,6,6473.83,0.2,31074.38,24761.07,6313.31,Debit Card,Corporate,Kabir
+ORD-01718,2024-12-25,Office Chair,Furniture,West,Ahmedabad,6,7757.38,0.05,44217.07,37008.39,7208.68,Cash,Corporate,Kabir
+ORD-01719,2024-06-21,Pen Set,Stationery,West,Mumbai,4,335.01,0.05,1273.04,814.93,458.11,Credit Card,Corporate,Isha
+ORD-01720,2025-03-13,Backpack,Accessories,Central,Jabalpur,5,1490.19,0.1,6705.86,5902.21,803.65,UPI,Small Business,Vivaan
+ORD-01721,2024-04-11,Notebook,Stationery,West,Pune,5,57.68,0.0,288.4,204.66,83.74,Debit Card,Corporate,Anaya
+ORD-01722,2025-11-10,Water Bottle,Accessories,East,Kolkata,7,727.25,0.1,4581.68,2966.05,1615.63,UPI,Consumer,Isha
+ORD-01723,2025-09-08,Printer,Electronics,West,Ahmedabad,4,14798.12,0.15,50313.61,49398.13,915.48,Net Banking,Small Business,Isha
+ORD-01724,2024-03-28,Smartphone,Electronics,Central,Indore,7,38132.58,0.0,266928.06,162923.78,104004.28,Debit Card,Consumer,Anaya
+ORD-01725,2025-07-27,Desk,Furniture,North,Jaipur,3,4778.56,0.2,11468.54,11582.24,-113.7,UPI,Small Business,Diya
+ORD-01726,2024-03-26,Headphones,Electronics,West,Vadodara,4,3383.92,0.0,13535.68,10593.1,2942.58,Net Banking,Consumer,Anaya
+ORD-01727,2025-06-10,Desk,Furniture,North,Jaipur,5,8093.18,0.05,38442.61,28013.75,10428.86,UPI,Consumer,Aarav
+ORD-01728,2024-03-05,Water Bottle,Accessories,West,Mumbai,1,207.52,0.0,207.52,151.14,56.38,Credit Card,Small Business,Vivaan
+ORD-01729,2024-12-22,Printer,Electronics,North,Lucknow,3,10517.73,0.0,31553.19,25438.39,6114.8,UPI,Consumer,Vivaan
+ORD-01730,2025-04-25,Headphones,Electronics,North,Chandigarh,2,6035.94,0.0,12071.88,7042.01,5029.87,UPI,Small Business,Diya
+ORD-01731,2025-06-16,Smartphone,Electronics,South,Hyderabad,6,14060.34,0.15,71707.73,53139.02,18568.71,Credit Card,Consumer,Aarav
+ORD-01732,2024-11-01,Notebook,Stationery,West,Vadodara,1,151.05,0.05,143.5,97.09,46.41,Net Banking,Corporate,Kabir
+ORD-01733,2025-11-03,Pen Set,Stationery,West,Ahmedabad,1,232.09,0.2,185.67,157.21,28.46,Cash,Consumer,Aarav
+ORD-01734,2025-07-19,Notebook,Stationery,South,Chennai,2,115.16,0.0,230.32,184.17,46.15,Credit Card,Consumer,Vivaan
+ORD-01735,2024-06-01,Water Bottle,Accessories,Central,Jabalpur,1,444.75,0.1,400.28,267.77,132.51,UPI,Consumer,Meera
+ORD-01736,2025-05-04,Headphones,Electronics,Central,Nagpur,4,5147.22,0.05,19559.44,12647.15,6912.29,Debit Card,Consumer,Vivaan
+ORD-01737,2025-06-17,Headphones,Electronics,North,Delhi,2,2747.71,0.0,5495.42,3641.48,1853.94,Cash,Consumer,Anaya
+ORD-01738,2024-08-31,Laptop,Electronics,South,Bengaluru,1,52349.87,0.1,47114.88,40232.45,6882.43,Credit Card,Consumer,Kabir
+ORD-01739,2025-06-22,Water Bottle,Accessories,Central,Bhopal,6,311.89,0.05,1777.77,1177.48,600.29,UPI,Consumer,Vivaan
+ORD-01740,2025-10-17,Laptop,Electronics,South,Chennai,5,65405.86,0.1,294326.37,217426.44,76899.93,Cash,Corporate,Anaya
+ORD-01741,2025-08-19,Printer,Electronics,East,Guwahati,2,9037.91,0.05,17172.03,10939.99,6232.04,Credit Card,Consumer,Rohan
+ORD-01742,2025-07-10,Laptop,Electronics,West,Mumbai,8,66816.13,0.1,481076.14,357432.37,123643.77,UPI,Small Business,Rohan
+ORD-01743,2025-04-08,Water Bottle,Accessories,South,Kochi,6,428.9,0.1,2316.06,2148.93,167.13,Debit Card,Consumer,Rohan
+ORD-01744,2024-07-16,Office Chair,Furniture,North,Lucknow,4,11920.31,0.1,42913.12,32107.97,10805.15,Net Banking,Consumer,Kabir
+ORD-01745,2025-08-03,Laptop,Electronics,South,Bengaluru,4,65780.44,0.0,263121.76,202416.65,60705.11,Net Banking,Corporate,Diya
+ORD-01746,2024-09-22,Headphones,Electronics,South,Kochi,5,5586.79,0.0,27933.95,17616.77,10317.18,Debit Card,Consumer,Meera
+ORD-01747,2025-01-23,Smartphone,Electronics,East,Bhubaneswar,5,25798.46,0.2,103193.84,91783.08,11410.76,UPI,Consumer,Kabir
+ORD-01748,2024-08-17,Notebook,Stationery,West,Mumbai,2,133.22,0.05,253.12,174.62,78.5,Net Banking,Small Business,Aarav
+ORD-01749,2024-08-16,Notebook,Stationery,East,Kolkata,3,121.81,0.0,365.43,226.71,138.72,Credit Card,Consumer,Kabir
+ORD-01750,2024-04-25,Pen Set,Stationery,West,Pune,4,183.4,0.0,733.6,533.26,200.34,UPI,Consumer,Diya
+ORD-01751,2025-12-02,Pen Set,Stationery,North,Delhi,2,185.67,0.05,352.77,303.04,49.73,Credit Card,Consumer,Anaya
+ORD-01752,2024-04-17,Water Bottle,Accessories,West,Pune,3,234.06,0.05,667.07,529.35,137.72,UPI,Corporate,Vivaan
+ORD-01753,2024-03-03,Backpack,Accessories,West,Surat,4,2362.55,0.0,9450.2,5705.12,3745.08,UPI,Small Business,Isha
+ORD-01754,2025-11-14,Backpack,Accessories,South,Chennai,4,2449.8,0.0,9799.2,6777.54,3021.66,Credit Card,Small Business,Kabir
+ORD-01755,2025-02-09,Notebook,Stationery,South,Coimbatore,7,104.92,0.0,734.44,594.95,139.49,UPI,Consumer,Isha
+ORD-01756,2024-11-15,Laptop,Electronics,East,Ranchi,4,72181.14,0.0,288724.56,227595.74,61128.82,Debit Card,Consumer,Aarav
+ORD-01757,2025-06-22,Water Bottle,Accessories,West,Pune,5,198.59,0.0,992.95,763.64,229.31,,Consumer,Isha
+ORD-01758,2024-10-06,Pen Set,Stationery,East,Bhubaneswar,1,280.93,0.0,280.93,191.39,89.54,Debit Card,Small Business,Aarav
+ORD-01759,2024-04-03,Smartphone,Electronics,South,Hyderabad,2,22035.17,0.15,37459.79,33807.19,3652.6,Net Banking,Small Business,Vivaan
+ORD-01760,2025-06-16,Backpack,Accessories,Central,Raipur,2,2371.63,0.15,4031.77,3545.76,486.01,Cash,Small Business,Kabir
+ORD-01761,2024-05-08,Water Bottle,Accessories,North,Jaipur,7,296.52,0.1,1868.08,1251.83,616.25,Debit Card,Corporate,Meera
+ORD-01762,2025-02-07,Water Bottle,Accessories,North,Delhi,6,292.88,0.15,1493.69,1454.2,39.49,Net Banking,Corporate,Diya
+ORD-01763,2025-11-23,Laptop,Electronics,South,Hyderabad,3,59594.66,0.1,160905.58,114427.87,46477.71,Cash,Consumer,Isha
+ORD-01764,2025-11-14,Water Bottle,Accessories,West,Surat,5,312.69,0.15,1328.93,1142.18,186.75,Credit Card,Consumer,Meera
+ORD-01765,2024-09-20,Desk,Furniture,Central,Nagpur,3,10838.11,0.1,29262.9,22062.67,7200.23,Debit Card,Consumer,Rohan
+ORD-01766,2025-07-23,Office Chair,Furniture,West,Pune,6,10920.76,0.15,55695.88,53009.94,2685.94,Credit Card,Consumer,Meera
+ORD-01767,2025-03-23,Water Bottle,Accessories,Central,Raipur,4,536.29,0.1,1930.64,1675.07,255.57,Cash,Small Business,Aarav
+ORD-01768,2024-12-15,Printer,Electronics,North,Lucknow,3,11748.52,0.0,35245.56,29081.77,6163.79,UPI,Consumer,Rohan
+ORD-01769,2024-04-12,Notebook,Stationery,South,Chennai,8,53.71,0.15,365.23,289.32,75.91,Debit Card,Consumer,Diya
+ORD-01770,2024-10-01,Headphones,Electronics,South,Bengaluru,6,5822.64,0.0,34935.84,29103.87,5831.97,Credit Card,Consumer,Isha
+ORD-01771,2025-04-20,Pen Set,Stationery,North,Jaipur,6,137.42,0.05,783.29,629.51,153.78,Net Banking,Small Business,Kabir
+ORD-01772,2025-12-21,Pen Set,Stationery,East,Ranchi,2,313.22,0.0,626.44,384.24,242.2,Net Banking,Consumer,Anaya
+ORD-01773,2024-01-04,Desk,Furniture,South,Bengaluru,8,6300.21,0.1,45361.51,39179.05,6182.46,Credit Card,Corporate,Meera
+ORD-01774,2025-06-07,Smartphone,Electronics,South,Hyderabad,7,16832.61,0.0,117828.27,68414.27,49414.0,UPI,Consumer,Rohan
+ORD-01775,2025-09-09,Smartphone,Electronics,Central,Raipur,1,31472.91,0.0,31472.91,18401.64,13071.27,Credit Card,Corporate,Rohan
+ORD-01776,2025-11-25,Desk,Furniture,Central,Nagpur,5,6626.02,0.05,31473.6,20963.13,10510.47,UPI,Corporate,Anaya
+ORD-01777,2024-11-05,Smartphone,Electronics,South,Chennai,6,35485.73,0.0,212914.38,124736.93,88177.45,Cash,Consumer,Diya
+ORD-01778,2024-03-27,Office Chair,Furniture,North,Dehradun,2,6994.8,0.05,13290.12,8510.76,4779.36,Debit Card,Corporate,Anaya
+ORD-01779,2024-07-16,Pen Set,Stationery,South,Chennai,7,306.3,0.1,1929.69,1519.47,410.22,Credit Card,Small Business,Isha
+ORD-01780,2025-09-12,Water Bottle,Accessories,East,Guwahati,2,290.25,0.1,522.45,407.42,115.03,UPI,Corporate,Isha
+ORD-01781,2025-10-02,Smartphone,Electronics,North,Jaipur,8,20206.48,0.1,145486.66,125142.76,20343.9,Debit Card,Consumer,Aarav
+ORD-01782,2025-04-10,Printer,Electronics,South,Bengaluru,6,8312.1,0.1,44885.34,38199.03,6686.31,Cash,Corporate,Kabir
+ORD-01783,2024-03-30,Desk,Furniture,West,Vadodara,7,17378.55,0.15,103402.37,83256.58,20145.79,Cash,Corporate,Vivaan
+ORD-01784,2024-03-30,Backpack,Accessories,South,Hyderabad,1,795.4,0.1,715.86,548.94,166.92,Debit Card,Consumer,Diya
+ORD-01785,2024-12-15,Pen Set,Stationery,North,Lucknow,8,270.48,0.2,1731.07,1754.9,-23.83,Net Banking,Consumer,Aarav
+ORD-01786,2025-03-05,Pen Set,Stationery,West,Mumbai,8,128.3,0.1,923.76,821.92,101.84,Debit Card,Small Business,Diya
+ORD-01787,2024-01-24,Laptop,Electronics,North,Delhi,3,55467.27,0.1,149761.63,136093.22,13668.41,Debit Card,Consumer,Kabir
+ORD-01788,2025-05-15,Notebook,Stationery,Central,Jabalpur,7,40.91,0.15,243.41,169.57,73.84,Cash,Corporate,Rohan
+ORD-01789,2025-02-01,Printer,Electronics,West,Surat,7,14901.34,0.0,104309.38,73231.0,31078.38,UPI,Corporate,Anaya
+ORD-01790,2024-01-09,Pen Set,Stationery,West,Mumbai,3,340.69,0.05,970.97,604.61,366.36,Net Banking,Consumer,Diya
+ORD-01791,2024-03-10,Smartphone,Electronics,North,Dehradun,3,27387.65,0.0,82162.95,53509.24,28653.71,UPI,Small Business,Kabir
+ORD-01792,2024-11-27,Printer,Electronics,West,Pune,4,7645.47,0.0,30581.88,22405.42,8176.46,UPI,Corporate,Rohan
+ORD-01793,2025-06-11,Headphones,Electronics,West,Vadodara,2,3752.55,0.0,7505.1,6003.36,1501.74,Net Banking,Consumer,Aarav
+ORD-01794,2025-08-25,Notebook,Stationery,East,Guwahati,3,160.21,0.0,480.63,383.72,96.91,Net Banking,Consumer,Aarav
+ORD-01795,2024-11-10,Smartphone,Electronics,Central,Bhopal,6,38263.15,0.0,229578.9,160166.22,69412.68,UPI,Consumer,Aarav
+ORD-01796,2024-08-03,Smartphone,Electronics,Central,Nagpur,4,32709.94,0.1,117755.78,92954.6,24801.18,Cash,Small Business,Rohan
+ORD-01797,2025-12-07,Headphones,Electronics,South,Kochi,8,4256.45,0.05,32349.02,25281.22,7067.8,Cash,Consumer,Anaya
+ORD-01798,2024-11-30,Printer,Electronics,Central,Indore,8,15759.2,0.1,113466.24,97685.14,15781.1,Credit Card,Consumer,Diya
+ORD-01799,2024-08-18,Printer,Electronics,West,Mumbai,1,16298.11,0.05,15483.2,10529.88,4953.32,Net Banking,Corporate,Meera
+ORD-01800,2024-11-18,Desk,Furniture,East,Guwahati,8,9212.62,0.0,73700.96,47870.21,25830.75,Debit Card,Consumer,Aarav
+ORD-01801,2024-01-09,Notebook,Stationery,West,Ahmedabad,8,58.18,0.1,418.9,282.73,136.17,Credit Card,Small Business,Aarav
+ORD-01802,2024-08-08,Headphones,Electronics,West,Mumbai,1,4876.67,0.0,4876.67,3474.48,1402.19,UPI,Small Business,Aarav
+ORD-01803,2025-01-11,Printer,Electronics,North,Delhi,2,8561.09,0.0,17122.18,13530.12,3592.06,Net Banking,Consumer,Diya
+ORD-01804,2025-11-01,Laptop,Electronics,North,Lucknow,1,74752.52,0.1,67277.27,54687.73,12589.54,Credit Card,Corporate,Diya
+ORD-01805,2025-06-22,Pen Set,Stationery,West,Surat,6,223.82,0.1,1208.63,870.69,337.94,Net Banking,Consumer,Anaya
+ORD-01806,2025-07-24,Printer,Electronics,East,Kolkata,4,5796.15,0.15,19706.91,14689.4,5017.51,Cash,Corporate,Kabir
+ORD-01807,2025-02-01,Laptop,Electronics,West,Ahmedabad,3,74999.03,0.0,224997.09,169146.35,55850.74,UPI,Small Business,Isha
+ORD-01808,2024-03-21,Pen Set,Stationery,South,Chennai,5,163.08,0.1,733.86,676.2,57.66,Debit Card,Consumer,Vivaan
+ORD-01809,2024-10-12,Desk,Furniture,Central,Bhopal,3,15969.4,0.0,47908.2,36700.73,11207.47,UPI,Small Business,Anaya
+ORD-01810,2025-12-28,Desk,Furniture,West,Vadodara,7,9461.36,0.0,66229.52,47195.43,19034.09,Debit Card,Corporate,Meera
+ORD-01811,2024-02-02,Laptop,Electronics,North,Delhi,8,43298.26,0.05,329066.78,260391.69,68675.09,Net Banking,Small Business,Meera
+ORD-01812,2025-10-03,Notebook,Stationery,East,Bhubaneswar,2,86.16,0.15,146.47,139.64,6.83,Credit Card,Consumer,Rohan
+ORD-01813,2025-05-14,Notebook,Stationery,West,Pune,2,153.63,0.05,291.9,200.53,91.37,Net Banking,Consumer,Meera
+ORD-01814,2024-07-26,Smartphone,Electronics,East,Bhubaneswar,5,19023.1,0.1,85603.95,79383.38,6220.57,UPI,Consumer,Aarav
+ORD-01815,2025-07-21,Water Bottle,Accessories,West,Pune,4,616.3,0.0,2465.2,1528.99,936.21,Debit Card,Small Business,Anaya
+ORD-01816,2025-09-02,Office Chair,Furniture,South,Bengaluru,6,10632.95,0.1,57417.93,50945.65,6472.28,Debit Card,Consumer,Isha
+ORD-01817,2024-02-01,Water Bottle,Accessories,North,Jaipur,4,273.1,0.05,1037.78,744.2,293.58,Debit Card,Consumer,Kabir
+ORD-01818,2024-03-18,Headphones,Electronics,East,Kolkata,5,5395.15,0.05,25626.96,21636.22,3990.74,Credit Card,Consumer,Vivaan
+ORD-01819,2025-04-30,Pen Set,Stationery,West,Vadodara,8,287.75,0.0,2302.0,1693.42,608.58,Debit Card,Consumer,Kabir
+ORD-01820,2025-12-30,Laptop,Electronics,West,Vadodara,1,45542.75,0.1,40988.47,32641.63,8346.84,Cash,Corporate,Meera
+ORD-01821,2024-01-18,Smartphone,Electronics,West,Ahmedabad,1,39299.31,0.05,37334.34,23626.19,13708.15,Cash,Corporate,Kabir
+ORD-01822,2025-04-30,Water Bottle,Accessories,North,Dehradun,2,211.66,0.1,380.99,345.67,35.32,Net Banking,Consumer,Isha
+ORD-01823,2024-04-09,Water Bottle,Accessories,East,Ranchi,3,770.22,0.05,2195.13,1549.56,645.57,Debit Card,Corporate,Anaya
+ORD-01824,2025-04-19,Desk,Furniture,Central,Indore,5,9699.82,0.05,46074.14,35038.87,11035.27,Credit Card,Corporate,Kabir
+ORD-01825,2025-03-31,Headphones,Electronics,North,Jaipur,5,1146.83,0.1,5160.73,4078.66,1082.07,Cash,Consumer,
+ORD-01826,2024-03-07,Printer,Electronics,East,Patna,7,10185.04,0.0,71295.28,54592.86,16702.42,Cash,Corporate,Rohan
+ORD-01827,2025-05-11,Smartphone,Electronics,East,Bhubaneswar,8,28671.36,0.0,229370.88,157322.16,72048.72,UPI,Corporate,Kabir
+ORD-01828,2025-10-16,Desk,Furniture,North,Delhi,8,14933.15,0.05,113491.94,98799.37,14692.57,Cash,Corporate,Meera
+ORD-01829,2025-09-22,Printer,Electronics,North,Delhi,1,6822.76,0.05,6481.62,4298.25,2183.37,Credit Card,Corporate,Rohan
+ORD-01830,2024-01-22,Smartphone,Electronics,West,Ahmedabad,8,31747.21,0.15,215881.03,179656.4,36224.63,,Corporate,Aarav
+ORD-01831,2024-06-28,Office Chair,Furniture,West,Pune,6,8769.75,0.1,47356.65,37275.97,10080.68,Net Banking,Corporate,Aarav
+ORD-01832,2024-06-24,Headphones,Electronics,Central,Bhopal,4,1725.26,0.0,6901.04,5144.07,1756.97,Credit Card,Small Business,Anaya
+ORD-01833,2024-11-26,Printer,Electronics,Central,Raipur,1,9740.64,0.1,8766.58,5851.59,2914.99,Cash,Consumer,Aarav
+ORD-01834,2024-04-14,Desk,Furniture,West,Mumbai,8,17940.57,0.05,136348.33,109710.11,26638.22,Debit Card,Consumer,Meera
+ORD-01835,2025-09-15,Laptop,Electronics,West,Mumbai,2,49740.78,0.0,99481.56,63323.14,36158.42,Credit Card,Small Business,Kabir
+ORD-01836,2025-07-21,Laptop,Electronics,North,Chandigarh,5,54762.46,0.05,260121.68,161902.26,98219.42,Debit Card,Corporate,Isha
+ORD-01837,2025-08-13,Notebook,Stationery,South,Kochi,3,85.77,0.0,257.31,182.69,74.62,Debit Card,Consumer,Anaya
+ORD-01838,2024-05-24,Office Chair,Furniture,South,Coimbatore,1,4034.58,0.1,3631.12,2757.32,873.8,UPI,Small Business,Vivaan
+ORD-01839,2024-01-11,Printer,Electronics,North,Dehradun,6,13107.67,0.1,70781.42,58340.38,12441.04,Credit Card,Consumer,Anaya
+ORD-01840,2025-10-26,Laptop,Electronics,West,Mumbai,2,46460.41,0.15,78982.7,54228.63,24754.07,Net Banking,Small Business,Rohan
+ORD-01841,2024-07-29,Desk,Furniture,South,Chennai,6,8781.79,0.05,50056.2,41754.61,8301.59,Cash,Corporate,Vivaan
+ORD-01842,2025-04-24,Water Bottle,Accessories,Central,Raipur,3,717.91,0.1,1938.36,1622.44,315.92,Debit Card,Corporate,Isha
+ORD-01843,2025-10-25,Water Bottle,Accessories,North,Dehradun,1,381.81,0.1,343.63,296.02,47.61,Cash,Corporate,Rohan
+ORD-01844,2024-01-27,Desk,Furniture,South,Hyderabad,3,6781.99,0.0,20345.97,16625.82,3720.15,UPI,Small Business,Kabir
+ORD-01845,2024-01-04,Printer,Electronics,East,Patna,8,14210.88,0.1,102318.34,86829.0,15489.34,Debit Card,Small Business,Anaya
+ORD-01846,2024-01-04,Notebook,Stationery,West,Vadodara,3,137.69,0.05,392.42,298.49,93.93,Credit Card,Consumer,Rohan
+ORD-01847,2024-04-24,Printer,Electronics,East,Ranchi,8,14441.38,0.15,98201.38,84892.45,13308.93,Cash,Small Business,Meera
+ORD-01848,2024-02-07,Smartphone,Electronics,South,Hyderabad,6,26316.61,0.0,157899.66,114162.99,43736.67,UPI,Small Business,Kabir
+ORD-01849,2025-08-21,Headphones,Electronics,West,Mumbai,7,3057.16,0.0,21400.12,15554.87,5845.25,Debit Card,Consumer,Vivaan
+ORD-01850,2025-03-18,Smartphone,Electronics,South,Coimbatore,5,35208.38,0.05,167239.8,113490.25,53749.55,Net Banking,Corporate,Anaya
+ORD-01851,2025-12-16,Water Bottle,Accessories,East,Kolkata,7,745.95,0.1,4699.49,4343.85,355.64,UPI,Small Business,Rohan
+ORD-01852,2025-08-08,Headphones,Electronics,East,Guwahati,3,4386.43,0.1,11843.36,7819.0,4024.36,UPI,Consumer,Aarav
+ORD-01853,2025-12-04,Backpack,Accessories,West,Ahmedabad,7,1789.13,0.1,11271.52,9993.59,1277.93,Net Banking,Corporate,Rohan
+ORD-01854,2024-06-23,Office Chair,Furniture,Central,Nagpur,6,9816.79,0.15,50065.63,43330.48,6735.15,UPI,Small Business,Rohan
+ORD-01855,2024-07-29,Printer,Electronics,East,Bhubaneswar,1,5516.12,0.05,5240.31,3304.92,1935.39,UPI,Small Business,Rohan
+ORD-01856,2025-09-12,Laptop,Electronics,East,Ranchi,2,76831.87,0.05,145980.55,90215.01,55765.54,Debit Card,Corporate,Aarav
+ORD-01857,2024-06-27,Notebook,Stationery,Central,Jabalpur,7,104.99,0.0,734.93,526.04,208.89,Credit Card,Corporate,Aarav
+ORD-01858,2024-02-11,Headphones,Electronics,South,Coimbatore,8,805.45,0.0,6443.6,4088.97,2354.63,Debit Card,Consumer,Aarav
+ORD-01859,2025-05-03,Notebook,Stationery,West,Surat,7,163.62,0.15,973.54,860.89,112.65,Cash,Consumer,Meera
+ORD-01860,2025-08-07,Laptop,Electronics,West,Ahmedabad,8,76644.43,0.05,582497.67,407567.98,174929.69,Debit Card,Consumer,Rohan
+ORD-01861,2025-12-07,Backpack,Accessories,West,Vadodara,5,1601.68,0.0,8008.4,5441.98,2566.42,Credit Card,Small Business,Anaya
+ORD-01862,2025-11-08,Smartphone,Electronics,South,Chennai,4,17116.1,0.0,68464.4,44575.07,23889.33,UPI,Consumer,Aarav
+ORD-01863,2024-03-28,Smartphone,Electronics,East,Guwahati,5,24810.46,0.1,111647.07,93410.0,18237.07,Net Banking,Consumer,Rohan
+ORD-01864,2025-07-17,Office Chair,Furniture,South,Chennai,7,7425.41,0.0,51977.87,43573.1,8404.77,Credit Card,Small Business,Aarav
+ORD-01865,2025-09-09,Printer,Electronics,East,Guwahati,4,8102.14,0.1,29167.7,25173.51,3994.19,Cash,Corporate,Diya
+ORD-01866,2025-05-24,Headphones,Electronics,West,Vadodara,3,3535.11,0.1,9544.8,8458.89,1085.91,Debit Card,Corporate,Vivaan
+ORD-01867,2025-08-21,Laptop,Electronics,North,Jaipur,3,50457.41,0.0,151372.23,101156.02,50216.21,Credit Card,,Vivaan
+ORD-01868,2025-09-03,Notebook,Stationery,West,Surat,3,41.49,0.1,112.02,90.58,21.44,UPI,Consumer,Kabir
+ORD-01869,2024-11-21,Backpack,Accessories,South,Coimbatore,6,1815.83,0.15,9260.73,8858.26,402.47,Cash,Consumer,Meera
+ORD-01870,2024-01-30,Pen Set,Stationery,West,Mumbai,6,169.75,0.0,1018.5,843.76,174.74,Debit Card,Consumer,Vivaan
+ORD-01871,2024-11-29,Backpack,Accessories,North,Dehradun,7,2487.64,0.0,17413.48,12139.64,5273.84,Debit Card,Corporate,Anaya
+ORD-01872,2024-05-27,Smartphone,Electronics,North,Delhi,3,32303.23,0.0,96909.69,62071.64,34838.05,Credit Card,Consumer,Isha
+ORD-01873,2024-03-24,Pen Set,Stationery,East,Bhubaneswar,2,78.46,0.15,133.38,120.55,12.83,Cash,Consumer,Kabir
+ORD-01874,2024-04-01,Printer,Electronics,East,Patna,5,12481.01,0.1,56164.55,52408.23,3756.32,Net Banking,Small Business,Rohan
+ORD-01875,2025-05-24,Smartphone,Electronics,Central,Raipur,7,17792.5,0.0,124547.5,91225.0,33322.5,Net Banking,Consumer,Diya
+ORD-01876,2025-01-03,Notebook,Stationery,East,Kolkata,8,95.53,0.1,687.82,482.36,205.46,Debit Card,Consumer,Rohan
+ORD-01877,2025-01-29,Smartphone,Electronics,South,Hyderabad,2,31484.54,0.05,59820.63,36615.89,23204.74,Cash,Consumer,Anaya
+ORD-01878,2025-06-27,Backpack,Accessories,Central,Nagpur,3,1243.59,0.05,3544.23,2833.09,711.14,Credit Card,Consumer,Kabir
+ORD-01879,2025-02-04,Laptop,Electronics,West,Pune,6,47866.46,0.1,258478.88,205899.7,52579.18,Credit Card,Consumer,Isha
+ORD-01880,2025-04-04,Notebook,Stationery,North,Jaipur,7,173.62,0.0,1215.34,984.2,231.14,Credit Card,,Isha
+ORD-01881,2024-03-03,Laptop,Electronics,North,Jaipur,8,77359.38,0.1,556987.54,423685.22,133302.32,UPI,Consumer,Aarav
+ORD-01882,2025-09-13,Laptop,Electronics,West,Mumbai,5,60513.42,0.1,272310.39,227310.52,44999.87,Net Banking,Small Business,Rohan
+ORD-01883,2024-11-23,Water Bottle,Accessories,South,Bengaluru,8,378.12,0.0,3024.96,1922.67,1102.29,Cash,Consumer,Diya
+ORD-01884,2024-04-23,Notebook,Stationery,West,Pune,6,50.24,0.0,301.44,199.86,101.58,Net Banking,Small Business,Diya
+ORD-01885,2025-08-16,Backpack,Accessories,West,Mumbai,7,1485.09,0.1,9356.07,8142.96,1213.11,UPI,Consumer,Rohan
+ORD-01886,2025-06-20,Pen Set,Stationery,North,Jaipur,7,220.71,0.0,1544.97,1178.71,366.26,Cash,Consumer,Vivaan
+ORD-01887,2024-02-08,Printer,Electronics,Central,Jabalpur,1,15334.45,0.1,13801.01,11026.25,2774.76,UPI,Consumer,Kabir
+ORD-01888,2024-05-20,Water Bottle,Accessories,South,Kochi,5,215.18,0.05,1022.11,878.03,144.08,Net Banking,,Isha
+ORD-01889,2024-01-12,Printer,Electronics,East,Guwahati,8,5780.07,0.1,41616.5,27475.82,14140.68,Debit Card,Consumer,Kabir
+ORD-01890,2024-07-16,Pen Set,Stationery,Central,Raipur,3,308.01,0.15,785.43,540.99,244.44,Net Banking,Corporate,Diya
+ORD-01891,2024-03-13,Headphones,Electronics,North,Lucknow,3,4289.3,0.1,11581.11,9867.76,1713.35,Cash,Consumer,Isha
+ORD-01892,2025-06-02,Smartphone,Electronics,West,Ahmedabad,8,39406.28,0.1,283725.22,192411.98,91313.24,Credit Card,Consumer,Rohan
+ORD-01893,2025-01-16,Smartphone,Electronics,West,Mumbai,2,16333.54,0.1,29400.37,27303.56,2096.81,Net Banking,Corporate,Aarav
+ORD-01894,2025-12-16,Laptop,Electronics,Central,Bhopal,6,58427.2,0.1,315506.88,283448.41,32058.47,Net Banking,Consumer,Meera
+ORD-01895,2025-07-01,Water Bottle,Accessories,West,Pune,7,271.02,0.05,1802.28,1291.14,511.14,Cash,Consumer,Aarav
+ORD-01896,2025-03-22,Desk,Furniture,South,Chennai,3,6828.91,0.15,17413.72,17053.49,360.23,UPI,Consumer,
+ORD-01897,2025-01-06,Headphones,Electronics,West,Ahmedabad,4,6102.38,0.1,21968.57,16374.15,5594.42,Credit Card,Small Business,Meera
+ORD-01898,2024-02-09,Desk,Furniture,West,Surat,4,7355.83,0.15,25009.82,19828.52,5181.3,Credit Card,Consumer,Isha
+ORD-01899,2024-02-21,Backpack,Accessories,South,Coimbatore,8,977.5,0.15,6647.0,5647.39,999.61,Debit Card,Consumer,Isha
+ORD-01900,2025-03-25,Water Bottle,Accessories,West,Mumbai,3,566.52,0.0,1699.56,1196.41,503.15,Debit Card,Consumer,Kabir
+ORD-01901,2024-01-04,Laptop,Electronics,West,Ahmedabad,5,62714.51,0.05,297893.92,213205.56,84688.36,Net Banking,Corporate,Kabir
+ORD-01902,2024-01-31,Smartphone,Electronics,West,Mumbai,6,26371.93,0.1,142408.42,128681.6,13726.82,Credit Card,Consumer,Vivaan
+ORD-01903,2024-06-08,Smartphone,Electronics,West,Ahmedabad,7,39414.93,0.15,234518.83,181417.18,53101.65,Cash,Small Business,Vivaan
+ORD-01904,2025-10-07,Notebook,Stationery,East,Patna,5,56.15,0.0,280.75,232.71,48.04,Debit Card,Consumer,Meera
+ORD-01905,2024-12-01,Notebook,Stationery,North,Jaipur,6,44.09,0.0,264.54,207.75,56.79,Net Banking,Consumer,Vivaan
+ORD-01906,2025-06-01,Smartphone,Electronics,West,Pune,2,19824.32,0.0,39648.64,25223.81,14424.83,Credit Card,Small Business,Isha
+ORD-01907,2024-10-27,Backpack,Accessories,North,Dehradun,6,2799.71,0.1,15118.43,12089.9,3028.53,Credit Card,Consumer,Diya
+ORD-01908,2024-05-06,Office Chair,Furniture,South,Chennai,5,3616.27,0.2,14465.08,13193.19,1271.89,Net Banking,Consumer,Rohan
+ORD-01909,2024-09-27,Water Bottle,Accessories,East,Ranchi,6,608.4,0.1,3285.36,2910.27,375.09,UPI,Consumer,Aarav
+ORD-01910,2024-03-07,Water Bottle,Accessories,North,Jaipur,1,256.05,0.0,256.05,167.33,88.72,Cash,Corporate,Meera
+ORD-01911,2025-07-16,Desk,Furniture,Central,Indore,5,12591.6,0.15,53514.3,50143.02,3371.28,UPI,Corporate,Isha
+ORD-01912,2024-05-13,Printer,Electronics,West,Vadodara,1,10926.86,0.0,10926.86,7353.95,3572.91,UPI,Small Business,Diya
+ORD-01913,2024-10-01,Office Chair,Furniture,East,Guwahati,7,4809.61,0.0,33667.27,25250.82,8416.45,Cash,Corporate,Kabir
+ORD-01914,2025-12-16,Office Chair,Furniture,North,Jaipur,4,5539.39,0.0,22157.56,15261.71,6895.85,UPI,Small Business,Rohan
+ORD-01915,2025-03-08,Headphones,Electronics,East,Bhubaneswar,5,1447.0,0.1,6511.5,5103.2,1408.3,Net Banking,Corporate,Isha
+ORD-01916,2024-11-30,Laptop,Electronics,Central,Nagpur,8,42125.35,0.0,337002.8,211250.37,125752.43,Net Banking,Corporate,Vivaan
+ORD-01917,2025-01-31,Office Chair,Furniture,East,Kolkata,3,7417.28,0.05,21139.25,15922.5,5216.75,Credit Card,Consumer,Meera
+ORD-01918,2025-07-26,Headphones,Electronics,North,Jaipur,8,3666.5,0.15,24932.2,21208.0,3724.2,UPI,Consumer,Vivaan
+ORD-01919,2024-07-04,Laptop,Electronics,West,Surat,7,47786.24,0.0,334503.68,276379.08,58124.6,UPI,Small Business,Kabir
+ORD-01920,2025-04-09,Printer,Electronics,West,Ahmedabad,8,14797.2,0.0,118377.6,84118.21,34259.39,Debit Card,Consumer,Isha
+ORD-01921,2025-09-29,Laptop,Electronics,East,Bhubaneswar,5,57976.46,0.05,275388.18,223570.85,51817.33,UPI,Small Business,Isha
+ORD-01922,2025-02-21,Water Bottle,Accessories,South,Bengaluru,5,614.29,0.05,2917.88,1828.85,1089.03,Cash,Corporate,Isha
+ORD-01923,2024-11-21,Printer,Electronics,Central,Nagpur,4,10033.31,0.0,40133.24,23894.61,16238.63,Cash,Consumer,Aarav
+ORD-01924,2024-04-15,Desk,Furniture,West,Mumbai,2,7607.85,0.1,13694.13,11876.38,1817.75,Cash,Consumer,Meera
+ORD-01925,2024-06-30,Pen Set,Stationery,West,Ahmedabad,2,63.66,0.0,127.32,105.68,21.64,Credit Card,Consumer,Kabir
+ORD-01926,2025-11-21,Water Bottle,Accessories,West,Mumbai,3,861.51,0.05,2455.3,1934.74,520.56,Credit Card,Corporate,Anaya
+ORD-01927,2025-01-30,Backpack,Accessories,South,Chennai,3,935.98,0.0,2807.94,2274.14,533.8,UPI,Corporate,Isha
+ORD-01928,2024-08-07,Headphones,Electronics,West,Surat,6,6041.33,0.0,36247.98,24054.35,12193.63,Cash,Small Business,Vivaan
+ORD-01929,2024-11-01,Water Bottle,Accessories,North,Dehradun,1,496.8,0.0,496.8,402.31,94.49,UPI,Consumer,Isha
+ORD-01930,2025-02-25,Pen Set,Stationery,Central,Nagpur,8,245.04,0.15,1666.27,1175.55,490.72,Credit Card,Consumer,Kabir
+ORD-01931,2025-01-27,Backpack,Accessories,Central,Jabalpur,6,738.08,0.05,4207.06,2866.2,1340.86,UPI,Small Business,Rohan
+ORD-01932,2025-05-25,Smartphone,Electronics,East,Bhubaneswar,5,23321.75,0.0,116608.75,97881.35,18727.4,Cash,Consumer,Rohan
+ORD-01933,2024-07-06,Laptop,Electronics,Central,Bhopal,8,71202.69,0.1,512659.37,461888.27,50771.1,Net Banking,Consumer,Rohan
+ORD-01934,2025-04-18,Printer,Electronics,North,Chandigarh,5,17976.91,0.2,71907.64,64112.94,7794.7,Debit Card,Small Business,Rohan
+ORD-01935,2024-11-19,Laptop,Electronics,East,Guwahati,2,53615.03,0.15,91145.55,83614.96,7530.59,UPI,Corporate,Aarav
+ORD-01936,2025-11-17,Pen Set,Stationery,North,Jaipur,4,292.68,0.0,1170.72,887.47,283.25,UPI,Small Business,Isha
+ORD-01937,2024-04-25,Notebook,Stationery,East,Patna,4,55.02,0.05,209.08,130.81,78.27,UPI,Small Business,Rohan
+ORD-01938,2024-04-18,Backpack,Accessories,West,Mumbai,7,1768.64,0.1,11142.43,10035.64,1106.79,Cash,Consumer,Rohan
+ORD-01939,2024-12-03,Printer,Electronics,North,Delhi,7,12657.77,0.05,84174.17,52102.9,32071.27,Net Banking,Small Business,Aarav
+ORD-01940,2025-01-06,Office Chair,Furniture,East,Ranchi,6,5658.01,0.0,33948.06,23088.08,10859.98,Net Banking,Corporate,Kabir
+ORD-01941,2025-05-19,Pen Set,Stationery,West,Vadodara,4,62.18,0.0,248.72,193.52,55.2,Debit Card,Corporate,Anaya
+ORD-01942,2024-10-21,Printer,Electronics,West,Pune,5,10783.86,0.2,43135.44,40442.61,2692.83,Cash,Consumer,Anaya
+ORD-01943,2025-10-29,Pen Set,Stationery,East,Bhubaneswar,4,239.75,0.05,911.05,803.55,107.5,Credit Card,Consumer,Vivaan
+ORD-01944,2024-12-12,Backpack,Accessories,North,Jaipur,4,1810.06,0.0,7240.24,6013.39,1226.85,Credit Card,Small Business,Anaya
+ORD-01945,2024-04-04,Office Chair,Furniture,South,Coimbatore,5,10731.24,0.0,53656.2,42761.04,10895.16,Debit Card,Consumer,Kabir
+ORD-01946,2024-03-28,Pen Set,Stationery,North,Chandigarh,3,59.52,0.05,169.63,122.52,47.11,Net Banking,Consumer,Diya
+ORD-01947,2025-12-11,Headphones,Electronics,North,Chandigarh,6,1434.9,0.1,7748.46,5351.7,2396.76,Net Banking,Consumer,Anaya
+ORD-01948,2024-04-07,Notebook,Stationery,South,Bengaluru,4,108.87,0.0,435.48,305.0,130.48,Debit Card,Corporate,Kabir
+ORD-01949,2025-11-22,Laptop,Electronics,East,Bhubaneswar,6,50487.76,0.0,302926.56,179264.11,123662.45,Debit Card,Consumer,Diya
+ORD-01950,2024-07-21,Water Bottle,Accessories,East,Bhubaneswar,4,321.21,0.15,1092.11,764.18,327.93,Debit Card,Small Business,Meera
+ORD-01951,2024-03-09,Backpack,Accessories,West,Mumbai,3,1960.06,0.0,5880.18,4411.8,1468.38,Credit Card,Consumer,Diya
+ORD-01952,2024-08-10,Office Chair,Furniture,West,Ahmedabad,7,6871.73,0.1,43291.9,33406.55,9885.35,Credit Card,Consumer,Aarav
+ORD-01953,2025-03-24,Notebook,Stationery,North,Chandigarh,5,167.07,0.1,751.81,611.08,140.73,Net Banking,Consumer,Vivaan
+ORD-01954,2024-11-08,Pen Set,Stationery,North,Chandigarh,7,307.05,0.0,2149.35,1751.15,398.2,Debit Card,Consumer,Vivaan
+ORD-01955,2025-07-27,Laptop,Electronics,West,Vadodara,5,54523.21,0.1,245354.45,183027.62,62326.83,UPI,Small Business,Isha
+ORD-01956,2025-03-22,Headphones,Electronics,North,Chandigarh,6,822.02,0.1,4438.91,3344.68,1094.23,Credit Card,Corporate,Anaya
+ORD-01957,2024-10-19,Desk,Furniture,West,Ahmedabad,7,17360.4,0.1,109370.52,83993.83,25376.69,UPI,Consumer,Meera
+ORD-01958,2025-04-08,Water Bottle,Accessories,West,Pune,6,729.59,0.0,4377.54,3113.65,1263.89,Net Banking,Consumer,Diya
+ORD-01959,2025-12-10,Water Bottle,Accessories,South,Coimbatore,8,569.23,0.0,4553.84,3485.28,1068.56,Net Banking,Consumer,Vivaan
+ORD-01960,2024-10-27,Smartphone,Electronics,North,Dehradun,6,34059.96,0.0,204359.76,165073.5,39286.26,UPI,Consumer,Meera
+ORD-01961,2024-04-22,Backpack,Accessories,East,Kolkata,8,1715.14,0.0,13721.12,10405.87,3315.25,Credit Card,Corporate,Isha
+ORD-01962,2024-10-25,Office Chair,Furniture,Central,Jabalpur,1,4630.02,0.1,4167.02,3529.77,637.25,Cash,Corporate,Kabir
+ORD-01963,2025-09-05,Notebook,Stationery,South,Chennai,3,176.06,0.05,501.77,395.36,106.41,Cash,Corporate,Anaya
+ORD-01964,2024-06-07,Office Chair,Furniture,West,Pune,8,5258.25,0.1,37859.4,26001.53,11857.87,Debit Card,Consumer,Vivaan
+ORD-01965,2025-11-23,Smartphone,Electronics,South,Coimbatore,3,32795.31,0.1,88547.34,65698.39,22848.95,UPI,Consumer,Kabir
+ORD-01966,2025-03-05,Printer,Electronics,East,Patna,3,16452.84,0.0,49358.52,29524.53,19833.99,Debit Card,Consumer,Rohan
+ORD-01967,2025-03-15,Laptop,Electronics,South,Chennai,8,49739.87,0.1,358127.06,287384.96,70742.1,Credit Card,Small Business,Diya
+ORD-01968,2024-08-19,Notebook,Stationery,North,Delhi,3,149.85,0.0,449.55,289.05,160.5,Cash,Corporate,Vivaan
+ORD-01969,2025-11-02,Printer,Electronics,West,Surat,6,11749.47,0.1,63447.14,49394.74,14052.4,UPI,Consumer,Anaya
+ORD-01970,2024-01-27,Smartphone,Electronics,South,Kochi,6,13002.85,0.0,78017.1,50550.45,27466.65,Net Banking,Consumer,Aarav
+ORD-01971,2024-08-06,Backpack,Accessories,South,Bengaluru,1,2738.08,0.15,2327.37,1782.7,544.67,Cash,Consumer,Aarav
+ORD-01972,2024-11-01,Office Chair,Furniture,East,Kolkata,1,6557.56,0.0,6557.56,4177.36,2380.2,Credit Card,Corporate,Isha
+ORD-01973,2024-12-14,Laptop,Electronics,Central,Nagpur,4,47388.81,0.05,180077.48,142266.77,37810.71,UPI,Corporate,Diya
+ORD-01974,2024-12-12,Laptop,Electronics,Central,Jabalpur,3,54923.01,0.1,148292.13,136056.88,12235.25,Credit Card,Small Business,Isha
+ORD-01975,2024-04-17,Office Chair,Furniture,South,Bengaluru,8,7826.71,0.05,59483.0,52347.37,7135.63,Net Banking,Consumer,Isha
+ORD-01976,2024-06-13,Desk,Furniture,Central,Jabalpur,8,17735.16,0.15,120599.09,84170.9,36428.19,Net Banking,Consumer,Anaya
+ORD-01977,2024-03-10,Notebook,Stationery,North,Lucknow,7,118.51,0.15,705.13,522.94,182.19,Net Banking,Consumer,Isha
+ORD-01978,2025-02-21,Desk,Furniture,West,Mumbai,6,8496.73,0.1,45882.34,30496.51,15385.83,Cash,Corporate,Diya
+ORD-01979,2024-09-13,Laptop,Electronics,West,Mumbai,7,49733.5,0.1,313321.05,217096.58,96224.47,Credit Card,Consumer,Aarav
+ORD-01980,2025-02-17,Pen Set,Stationery,South,Hyderabad,5,125.27,0.15,532.4,430.68,101.72,Net Banking,Small Business,Kabir
+ORD-01981,2025-03-06,Backpack,Accessories,South,Kochi,3,822.93,0.15,2098.47,1867.01,231.46,Net Banking,Consumer,Meera
+ORD-01982,2025-05-27,Headphones,Electronics,West,Mumbai,8,1608.9,0.0,12871.2,9778.09,3093.11,Net Banking,Consumer,Isha
+ORD-01983,2025-02-03,Smartphone,Electronics,South,Coimbatore,5,14618.56,0.0,73092.8,54499.27,18593.53,Net Banking,Consumer,Meera
+ORD-01984,2025-04-18,Notebook,Stationery,West,Mumbai,7,165.43,0.15,984.31,960.19,24.12,Debit Card,Consumer,Anaya
+ORD-01985,2025-03-04,Pen Set,Stationery,Central,Bhopal,4,341.85,0.1,1230.66,864.9,365.76,Net Banking,Small Business,Isha
+ORD-01986,2025-04-21,Backpack,Accessories,South,Hyderabad,7,1878.47,0.15,11176.9,7947.74,3229.16,Credit Card,Consumer,Vivaan
+ORD-01987,2025-03-26,Smartphone,Electronics,West,Mumbai,4,18967.38,0.2,60695.62,55037.54,5658.08,Debit Card,Small Business,Anaya
+ORD-01988,2024-08-18,Headphones,Electronics,West,Vadodara,7,4803.55,0.05,31943.61,26630.52,5313.09,Debit Card,Corporate,Vivaan
+ORD-01989,2024-06-28,Office Chair,Furniture,East,Guwahati,1,6572.09,0.0,6572.09,4223.52,2348.57,Cash,Corporate,Diya
+ORD-01990,2025-07-28,Printer,Electronics,North,Chandigarh,6,7941.09,0.0,47646.54,39371.58,8274.96,UPI,Consumer,Meera
+ORD-01991,2024-09-07,Printer,Electronics,North,Chandigarh,8,17526.45,0.1,126190.44,102873.01,23317.43,Cash,Consumer,Diya
+ORD-01992,2025-02-04,Notebook,Stationery,North,Chandigarh,1,160.58,0.05,152.55,113.68,38.87,Net Banking,Small Business,
+ORD-01993,2024-05-23,Notebook,Stationery,North,Delhi,5,101.38,0.15,430.86,321.59,109.27,Net Banking,Corporate,Diya
+ORD-01994,2024-11-10,Backpack,Accessories,South,Hyderabad,6,1525.78,0.1,8239.21,7473.03,766.18,Cash,Small Business,Isha
+ORD-01995,2025-01-21,Laptop,Electronics,South,Hyderabad,4,67546.59,0.15,229658.41,202110.8,27547.61,Credit Card,Consumer,Diya
+ORD-01996,2025-04-01,Notebook,Stationery,East,Bhubaneswar,8,57.71,0.0,461.68,317.34,144.34,Net Banking,Small Business,Diya
+ORD-01997,2025-01-19,Laptop,Electronics,South,Hyderabad,8,58168.54,0.2,372278.66,329028.56,43250.1,Credit Card,Consumer,Vivaan
+ORD-01998,2024-09-20,Headphones,Electronics,Central,Raipur,8,1999.81,0.1,14398.63,9599.03,4799.6,Cash,Consumer,Rohan
+ORD-01999,2025-12-03,Notebook,Stationery,Central,Jabalpur,2,102.09,0.0,204.18,136.43,67.75,UPI,Consumer,Aarav
+ORD-02000,2025-01-09,Headphones,Electronics,Central,Nagpur,1,5696.12,0.0,5696.12,4087.19,1608.93,Credit Card,Small Business,Meera
+ORD-02001,2025-08-13,Printer,Electronics,West,Ahmedabad,4,14571.49,0.1,52457.36,34201.8,18255.56,Cash,Consumer,Anaya
+ORD-02002,2025-06-21,Water Bottle,Accessories,South,Chennai,5,393.06,0.0,1965.3,1623.54,341.76,UPI,Consumer,Isha
+ORD-02003,2025-02-11,Printer,Electronics,South,Coimbatore,7,10464.24,0.1,65924.71,49650.9,16273.81,Credit Card,Corporate,Anaya
+ORD-02004,2025-10-09,Printer,Electronics,West,Vadodara,8,9952.16,0.05,75636.42,60637.61,14998.81,Credit Card,Consumer,Rohan
+ORD-02005,2024-04-03,Backpack,Accessories,Central,Raipur,1,2430.94,0.0,2430.94,1675.03,755.91,Net Banking,Corporate,Aarav
+ORD-02006,2025-11-03,Laptop,Electronics,East,Patna,3,52173.46,0.0,156520.38,102314.02,54206.36,Cash,Corporate,Kabir
+ORD-02007,2025-09-12,Pen Set,Stationery,West,Pune,8,297.91,0.0,2383.28,1700.07,683.21,Credit Card,Consumer,Isha
+ORD-02008,2025-01-02,Notebook,Stationery,Central,Bhopal,5,176.18,0.15,748.77,560.1,188.67,Cash,Consumer,Diya
+ORD-02009,2025-06-19,Pen Set,Stationery,South,Chennai,2,116.7,0.05,221.73,176.15,45.58,Credit Card,Corporate,Rohan
+ORD-02010,2025-01-14,Backpack,Accessories,West,Ahmedabad,4,2725.82,0.1,9812.95,8002.92,1810.03,UPI,Consumer,Rohan
+ORD-02011,2024-07-15,Backpack,Accessories,South,Coimbatore,2,1832.95,0.05,3482.61,2368.95,1113.66,Debit Card,Corporate,Anaya
+ORD-02012,2025-08-06,Notebook,Stationery,West,Pune,4,169.65,0.05,644.67,466.5,178.17,Debit Card,Small Business,Rohan
+ORD-02013,2024-06-28,Smartphone,Electronics,Central,Raipur,1,39737.78,0.15,33777.11,28411.66,5365.45,UPI,Corporate,Vivaan
+ORD-02014,2024-08-17,Headphones,Electronics,North,Dehradun,2,925.27,0.2,1480.43,1198.0,282.43,Cash,Consumer,Rohan
+ORD-02015,2025-01-14,Backpack,Accessories,North,Jaipur,6,2038.54,0.2,9784.99,8457.23,1327.76,Credit Card,Small Business,Vivaan
+ORD-02016,2025-09-03,Pen Set,Stationery,South,Chennai,2,68.88,0.15,117.1,100.46,16.64,UPI,Small Business,Meera
+ORD-02017,2024-10-07,Backpack,Accessories,East,Patna,3,2633.85,0.0,7901.55,4865.49,3036.06,Credit Card,Corporate,Diya
+ORD-02018,2024-12-26,Smartphone,Electronics,Central,Nagpur,6,18925.82,0.0,113554.92,93138.6,20416.32,Credit Card,Small Business,Rohan
+ORD-02019,2024-01-31,Laptop,Electronics,Central,Indore,3,66063.19,0.05,188280.09,117997.41,70282.68,Debit Card,Small Business,Diya
+ORD-02020,2024-03-25,Backpack,Accessories,North,Delhi,8,1052.23,0.0,8417.84,5042.36,3375.48,Debit Card,Consumer,Meera
+ORD-02021,2024-02-10,Notebook,Stationery,West,Mumbai,7,155.84,0.1,981.79,689.58,292.21,Cash,Corporate,Rohan
+ORD-02022,2024-02-22,Headphones,Electronics,East,Kolkata,5,2890.26,0.0,14451.3,11490.99,2960.31,Debit Card,Corporate,Anaya
+ORD-02023,2025-09-26,Notebook,Stationery,Central,Jabalpur,8,141.03,0.0,1128.24,797.39,330.85,UPI,Consumer,Kabir
+ORD-02024,2025-09-06,Backpack,Accessories,East,Guwahati,3,1480.09,0.05,4218.26,3438.36,779.9,Cash,Consumer,Anaya
+ORD-02025,2025-08-22,Notebook,Stationery,South,Hyderabad,4,108.11,0.0,432.44,269.67,162.77,Credit Card,Consumer,Meera
+ORD-02026,2024-02-10,Backpack,Accessories,North,Lucknow,2,2260.01,0.15,3842.02,3161.18,680.84,Cash,Corporate,Aarav
+ORD-02027,2024-02-26,Printer,Electronics,South,Hyderabad,1,5530.1,0.0,5530.1,4220.83,1309.27,Credit Card,Consumer,Anaya
+ORD-02028,2024-07-23,Headphones,Electronics,North,Lucknow,7,1480.77,0.1,9328.85,7810.42,1518.43,Cash,Small Business,Kabir
+ORD-02029,2025-02-16,Water Bottle,Accessories,North,Dehradun,3,401.98,0.0,1205.94,871.03,334.91,UPI,Small Business,Aarav
+ORD-02030,2024-08-31,Water Bottle,Accessories,North,Lucknow,4,206.31,0.05,783.98,492.24,291.74,Cash,Small Business,Anaya
+ORD-02031,2024-12-21,Printer,Electronics,South,Chennai,1,15516.97,0.05,14741.12,9773.53,4967.59,Debit Card,Corporate,Anaya
+ORD-02032,2024-05-06,Laptop,Electronics,South,Bengaluru,2,66657.71,0.15,113318.11,81119.29,32198.82,UPI,Corporate,Meera
+ORD-02033,2025-06-17,Desk,Furniture,South,Bengaluru,3,9289.71,0.15,23688.76,19864.31,3824.45,Cash,Corporate,Isha
+ORD-02034,2024-08-17,Smartphone,Electronics,West,Ahmedabad,1,39117.6,0.15,33249.96,30901.88,2348.08,Cash,Consumer,Diya
+ORD-02035,2024-02-18,Pen Set,Stationery,South,Kochi,7,318.66,0.0,2230.62,1393.39,837.23,UPI,Small Business,Meera
+ORD-02036,2025-06-26,Desk,Furniture,North,Jaipur,5,17748.86,0.0,88744.3,68937.17,19807.13,Debit Card,Consumer,Kabir
+ORD-02037,2025-10-21,Office Chair,Furniture,South,Hyderabad,3,6944.79,0.1,18750.93,15206.52,3544.41,Credit Card,Corporate,Diya
+ORD-02038,2024-01-11,Water Bottle,Accessories,North,Jaipur,4,537.62,0.1,1935.43,1307.84,627.59,Net Banking,Consumer,Kabir
+ORD-02039,2024-11-14,Office Chair,Furniture,Central,Bhopal,3,7149.74,0.1,19304.3,16171.85,3132.45,Debit Card,Consumer,Kabir
+ORD-02040,2025-08-26,Desk,Furniture,East,Bhubaneswar,1,11791.09,0.05,11201.54,9158.8,2042.74,Net Banking,Corporate,Anaya
+ORD-02041,2025-05-30,Desk,Furniture,West,Pune,6,15763.03,0.15,80391.45,75150.0,5241.45,Debit Card,Consumer,Kabir
+ORD-02042,2025-09-17,Printer,Electronics,Central,Raipur,6,14071.9,0.05,80209.83,62953.22,17256.61,Cash,Consumer,Kabir
+ORD-02043,2024-10-30,Headphones,Electronics,Central,Jabalpur,8,2703.31,0.0,21626.48,14118.54,7507.94,Net Banking,Small Business,Rohan
+ORD-02044,2024-09-28,Pen Set,Stationery,Central,Indore,3,215.44,0.1,581.69,414.19,167.5,Debit Card,Corporate,Anaya
+ORD-02045,2025-06-01,Smartphone,Electronics,West,Ahmedabad,4,31358.45,0.1,112890.42,98320.55,14569.87,Net Banking,Consumer,Meera
+ORD-02046,2024-04-22,Printer,Electronics,Central,Indore,2,15051.7,0.0,30103.4,19976.26,10127.14,Debit Card,Small Business,Meera
+ORD-02047,2024-06-23,Printer,Electronics,North,Delhi,5,6880.19,0.1,30960.85,28377.16,2583.69,Cash,Consumer,Anaya
+ORD-02048,2025-03-14,Smartphone,Electronics,Central,Nagpur,2,14368.19,0.2,22989.1,23336.29,-347.19,Debit Card,Corporate,Isha
+ORD-02049,2025-05-02,Laptop,Electronics,South,Coimbatore,5,72372.68,0.1,325677.06,257268.95,68408.11,Cash,Consumer,Aarav
+ORD-02050,2024-03-28,Notebook,Stationery,South,Kochi,3,99.98,0.15,254.95,206.45,48.5,,Consumer,Aarav
+ORD-02051,2025-01-06,Office Chair,Furniture,East,Patna,4,5882.64,0.15,20000.98,13765.29,6235.69,Debit Card,Consumer,Rohan
+ORD-02052,2024-09-23,Water Bottle,Accessories,South,Chennai,7,783.49,0.15,4661.77,3271.41,1390.36,Credit Card,Corporate,Vivaan
+ORD-02053,2025-01-01,Office Chair,Furniture,Central,Bhopal,8,11044.69,0.1,79521.77,63348.32,16173.45,Debit Card,Consumer,Diya
+ORD-02054,2025-11-30,Backpack,Accessories,South,Chennai,1,738.4,0.1,664.56,459.36,205.2,Net Banking,Corporate,Rohan
+ORD-02055,2024-02-25,Office Chair,Furniture,South,Chennai,5,11543.68,0.15,49060.64,37799.27,11261.37,Credit Card,Consumer,Vivaan
+ORD-02056,2025-12-27,Notebook,Stationery,Central,Nagpur,4,116.52,0.15,396.17,290.06,106.11,Net Banking,Consumer,Rohan
+ORD-02057,2024-11-24,Desk,Furniture,North,Lucknow,6,10108.02,0.0,60648.12,48326.85,12321.27,Net Banking,Small Business,Diya
+ORD-02058,2025-07-17,Pen Set,Stationery,East,Ranchi,3,242.62,0.0,727.86,459.42,268.44,Net Banking,Corporate,Anaya
+ORD-02059,2024-11-05,Pen Set,Stationery,West,Mumbai,2,83.66,0.0,167.32,104.99,62.33,Net Banking,Consumer,Kabir
+ORD-02060,2024-08-15,Office Chair,Furniture,Central,Jabalpur,3,7786.59,0.1,21023.79,16895.67,4128.12,Net Banking,Corporate,Isha
+ORD-02061,2025-07-16,Office Chair,Furniture,South,Kochi,3,9536.63,0.1,25748.9,17676.77,8072.13,Cash,Corporate,Vivaan
+ORD-02062,2025-05-16,Printer,Electronics,North,Dehradun,7,9308.9,0.0,65162.3,52484.66,12677.64,UPI,Consumer,Diya
+ORD-02063,2024-04-15,Desk,Furniture,Central,Bhopal,8,13873.17,0.1,99886.82,82490.42,17396.4,Debit Card,Small Business,Anaya
+ORD-02064,2025-05-29,Water Bottle,Accessories,North,Chandigarh,8,557.69,0.0,4461.52,2889.3,1572.22,Credit Card,Consumer,Rohan
+ORD-02065,2025-07-03,Desk,Furniture,North,Chandigarh,3,4525.31,0.15,11539.54,9151.54,2388.0,Debit Card,Consumer,Diya
+ORD-02066,2024-10-10,Desk,Furniture,North,Dehradun,6,11581.59,0.0,69489.54,56049.79,13439.75,Credit Card,Consumer,Meera
+ORD-02067,2025-11-06,Office Chair,Furniture,South,Kochi,7,7128.77,0.05,47406.32,35901.46,11504.86,Cash,Consumer,Diya
+ORD-02068,2025-04-12,Headphones,Electronics,Central,Nagpur,6,3187.92,0.0,19127.52,14800.0,4327.52,Cash,Consumer,Kabir
+ORD-02069,2024-08-31,Headphones,Electronics,East,Kolkata,6,1197.89,0.0,7187.34,5353.13,1834.21,Cash,Corporate,Meera
+ORD-02070,2024-01-08,Pen Set,Stationery,West,Vadodara,6,330.83,0.1,1786.48,1252.51,533.97,Cash,Consumer,Isha
+ORD-02071,2025-05-07,Water Bottle,Accessories,North,Delhi,5,476.02,0.15,2023.08,1695.23,327.85,Net Banking,Consumer,Meera
+ORD-02072,2024-06-01,Laptop,Electronics,South,Hyderabad,1,59234.94,0.0,59234.94,40399.39,18835.55,UPI,Consumer,Rohan
+ORD-02073,2025-07-06,Smartphone,Electronics,Central,Bhopal,2,21581.8,0.0,43163.6,29292.56,13871.04,UPI,Corporate,Diya
+ORD-02074,2025-01-18,Headphones,Electronics,North,Delhi,6,2637.24,0.15,13449.92,13208.06,241.86,Debit Card,Consumer,Aarav
+ORD-02075,2024-12-06,Office Chair,Furniture,West,Mumbai,6,8292.53,0.05,47267.42,32383.87,14883.55,Debit Card,Consumer,Anaya
+ORD-02076,2024-04-29,Backpack,Accessories,Central,Jabalpur,1,2078.76,0.05,1974.82,1577.97,396.85,Credit Card,Small Business,Rohan
+ORD-02077,2025-06-03,Laptop,Electronics,North,Delhi,5,48562.27,0.0,242811.35,186851.28,55960.07,Net Banking,Corporate,Diya
+ORD-02078,2024-05-01,Pen Set,Stationery,East,Ranchi,6,90.73,0.1,489.94,425.7,64.24,Credit Card,Consumer,Vivaan
+ORD-02079,2024-10-31,Printer,Electronics,East,Kolkata,7,5899.12,0.15,35099.76,29382.95,5716.81,Credit Card,Consumer,Diya
+ORD-02080,2025-09-02,Laptop,Electronics,West,Ahmedabad,7,59629.41,0.0,417405.87,281002.42,136403.45,Debit Card,Consumer,Diya
+ORD-02081,2025-11-02,Desk,Furniture,South,Chennai,4,9139.56,0.05,34730.33,25196.22,9534.11,Credit Card,Consumer,Rohan
+ORD-02082,2025-12-23,Laptop,Electronics,West,Ahmedabad,3,67876.87,0.0,203630.61,159771.6,43859.01,UPI,Consumer,Isha
+ORD-02083,2025-11-30,Pen Set,Stationery,West,Ahmedabad,5,209.4,0.0,1047.0,825.76,221.24,UPI,Consumer,Vivaan
+ORD-02084,2025-02-09,Printer,Electronics,East,Ranchi,5,17067.04,0.2,68268.16,57464.37,10803.79,UPI,Consumer,Diya
+ORD-02085,2024-05-26,Smartphone,Electronics,South,Chennai,5,26413.48,0.1,118860.66,86008.29,32852.37,Credit Card,Consumer,Vivaan
+ORD-02086,2025-09-04,Office Chair,Furniture,East,Ranchi,6,3572.29,0.1,19290.37,13379.84,5910.53,Cash,Corporate,Isha
+ORD-02087,2025-08-08,Printer,Electronics,South,Hyderabad,7,15234.3,0.05,101308.09,81888.99,19419.1,Net Banking,Consumer,Vivaan
+ORD-02088,2025-12-23,Printer,Electronics,East,Patna,2,8475.39,0.0,16950.78,10563.41,6387.37,UPI,Consumer,Meera
+ORD-02089,2025-04-20,Backpack,Accessories,West,Pune,7,2097.59,0.05,13948.97,10125.2,3823.77,Credit Card,Corporate,Anaya
+ORD-02090,2024-04-13,Backpack,Accessories,South,Kochi,1,916.1,0.2,732.88,693.12,39.76,Debit Card,Corporate,Vivaan
+ORD-02091,2025-01-02,Laptop,Electronics,North,Delhi,2,73189.07,0.0,146378.14,107580.62,38797.52,Cash,Consumer,Rohan
+ORD-02092,2024-11-23,Backpack,Accessories,West,Pune,6,1185.34,0.1,6400.84,5344.05,1056.79,Debit Card,Small Business,Kabir
+ORD-02093,2025-09-07,Water Bottle,Accessories,Central,Jabalpur,2,715.92,0.1,1288.66,1051.09,237.57,Credit Card,Consumer,Rohan
+ORD-02094,2024-10-13,Pen Set,Stationery,West,Mumbai,4,103.3,0.0,413.2,253.39,159.81,Net Banking,Corporate,Diya
+ORD-02095,2024-08-27,Headphones,Electronics,West,Pune,1,5983.97,0.15,5086.37,4751.18,335.19,Cash,Small Business,Kabir
+ORD-02096,2024-02-28,Notebook,Stationery,Central,Nagpur,8,80.42,0.15,546.86,505.71,41.15,Credit Card,Small Business,Vivaan
+ORD-02097,2025-09-01,Laptop,Electronics,North,Jaipur,7,68560.96,0.15,407937.71,387646.31,20291.4,Cash,Corporate,Rohan
+ORD-02098,2025-07-05,Backpack,Accessories,West,Surat,8,834.8,0.1,6010.56,4030.09,1980.47,Debit Card,Consumer,Rohan
+ORD-02099,2024-01-31,Office Chair,Furniture,South,Bengaluru,3,4980.58,0.1,13447.57,9361.78,4085.79,Cash,Consumer,Kabir
+ORD-02100,2024-11-12,Smartphone,Electronics,South,Chennai,7,29906.81,0.15,177945.52,153615.99,24329.53,Cash,Small Business,Vivaan
+ORD-02101,2024-12-16,Headphones,Electronics,West,Mumbai,3,4205.62,0.05,11986.02,7922.14,4063.88,UPI,Small Business,Aarav
+ORD-02102,2024-12-08,Backpack,Accessories,West,Mumbai,2,1149.24,0.05,2183.56,1843.01,340.55,Debit Card,,Rohan
+ORD-02103,2025-11-01,Notebook,Stationery,West,Pune,7,93.51,0.1,589.11,473.16,115.95,Debit Card,Small Business,Kabir
+ORD-02104,2024-04-19,Laptop,Electronics,East,Patna,1,52954.43,0.15,45011.27,40219.3,4791.97,Cash,Consumer,Diya
+ORD-02105,2024-08-11,Smartphone,Electronics,Central,Raipur,7,12740.26,0.05,84722.73,55272.22,29450.51,Cash,Consumer,Kabir
+ORD-02106,2024-05-12,Notebook,Stationery,East,Bhubaneswar,1,148.62,0.1,133.76,115.26,18.5,Credit Card,Consumer,Diya
+ORD-02107,2024-06-27,Notebook,Stationery,West,Ahmedabad,5,81.32,0.0,406.6,255.78,150.82,Credit Card,Small Business,Diya
+ORD-02108,2025-10-24,Printer,Electronics,North,Jaipur,8,8486.53,0.05,64497.63,53737.83,10759.8,Net Banking,Consumer,Meera
+ORD-02109,2025-11-17,Water Bottle,Accessories,South,Chennai,3,472.04,0.05,1345.31,918.53,426.78,Cash,Consumer,Anaya
+ORD-02110,2024-02-02,Headphones,Electronics,Central,Jabalpur,6,3138.59,0.1,16948.39,10956.55,5991.84,UPI,Consumer,Kabir
+ORD-02111,2025-04-06,Pen Set,Stationery,East,Bhubaneswar,6,164.0,0.05,934.8,726.91,207.89,Net Banking,Consumer,Aarav
+ORD-02112,2024-06-18,Smartphone,Electronics,Central,Raipur,7,40754.99,0.0,285284.93,166786.24,118498.69,Debit Card,Small Business,Meera
+ORD-02113,2024-05-20,Pen Set,Stationery,West,Ahmedabad,3,279.51,0.1,754.68,637.95,116.73,UPI,Consumer,Anaya
+ORD-02114,2024-08-01,Printer,Electronics,North,Chandigarh,2,9189.08,0.05,17459.25,12234.51,5224.74,UPI,Consumer,Anaya
+ORD-02115,2024-05-21,Printer,Electronics,South,Chennai,7,5530.49,0.1,34842.09,24907.44,9934.65,Cash,Consumer,Kabir
+ORD-02116,2024-12-23,Printer,Electronics,South,Kochi,3,7592.63,0.05,21639.0,15102.54,6536.46,Cash,Consumer,Anaya
+ORD-02117,2025-12-27,Desk,Furniture,North,Dehradun,8,5263.25,0.0,42106.0,25277.32,16828.68,Net Banking,Consumer,Diya
+ORD-02118,2025-03-04,Backpack,Accessories,East,Patna,6,1818.23,0.1,9818.44,8139.05,1679.39,Net Banking,Corporate,Vivaan
+ORD-02119,2025-06-11,Backpack,Accessories,North,Lucknow,8,766.98,0.05,5829.05,4965.94,863.11,Net Banking,Consumer,Vivaan
+ORD-02120,2024-12-26,Smartphone,Electronics,North,Delhi,4,40001.82,0.15,136006.19,112111.23,23894.96,UPI,Corporate,Anaya
+ORD-02121,2024-01-11,Printer,Electronics,West,Vadodara,1,5871.47,0.0,5871.47,4482.38,1389.09,Debit Card,Consumer,Vivaan
+ORD-02122,2024-03-02,Notebook,Stationery,South,Kochi,1,100.07,0.1,90.06,81.19,8.87,UPI,Small Business,Kabir
+ORD-02123,2024-07-15,Smartphone,Electronics,South,Coimbatore,1,33333.31,0.15,28333.31,21961.92,6371.39,Credit Card,Small Business,Rohan
+ORD-02124,2024-06-26,Backpack,Accessories,North,Dehradun,6,1800.42,0.1,9722.27,8588.17,1134.1,Net Banking,Consumer,Aarav
+ORD-02125,2025-09-05,Office Chair,Furniture,Central,Bhopal,4,11043.85,0.05,41966.63,28939.38,13027.25,Credit Card,Small Business,Kabir
+ORD-02126,2025-09-07,Notebook,Stationery,North,Jaipur,1,51.09,0.0,51.09,34.48,16.61,Cash,Consumer,Rohan
+ORD-02127,2025-09-15,Laptop,Electronics,West,Ahmedabad,1,77721.72,0.05,73835.63,46881.03,26954.6,Debit Card,Corporate,Aarav
+ORD-02128,2025-04-10,Backpack,Accessories,East,Patna,7,2649.29,0.1,16690.53,15553.34,1137.19,UPI,Small Business,Aarav
+ORD-02129,2025-02-10,Backpack,Accessories,Central,Jabalpur,4,2354.29,0.0,9417.16,6938.69,2478.47,Debit Card,Consumer,Kabir
+ORD-02130,2025-04-18,Notebook,Stationery,South,Bengaluru,3,66.35,0.0,199.05,149.81,49.24,UPI,Corporate,Isha
+ORD-02131,2024-10-23,Notebook,Stationery,East,Kolkata,4,39.42,0.0,157.68,110.59,47.09,Cash,Consumer,Vivaan
+ORD-02132,2025-05-04,Smartphone,Electronics,West,Vadodara,1,14792.31,0.0,14792.31,11733.15,3059.16,UPI,Consumer,Rohan
+ORD-02133,2025-08-02,Backpack,Accessories,South,Kochi,4,1167.51,0.0,4670.04,3437.09,1232.95,UPI,Consumer,
+ORD-02134,2025-07-10,Office Chair,Furniture,South,Chennai,8,6170.64,0.05,46896.86,34797.29,12099.57,Credit Card,Corporate,Isha
+ORD-02135,2025-03-24,Backpack,Accessories,West,Surat,5,2403.47,0.05,11416.48,10045.38,1371.1,Debit Card,Consumer,Isha
+ORD-02136,2024-02-12,Desk,Furniture,North,Delhi,4,15916.02,0.0,63664.08,46321.53,17342.55,Net Banking,Small Business,Rohan
+ORD-02137,2025-06-13,Pen Set,Stationery,Central,Raipur,7,154.62,0.15,919.99,897.48,22.51,Net Banking,Consumer,Kabir
+ORD-02138,2024-09-24,Pen Set,Stationery,North,Jaipur,6,78.09,0.1,421.69,322.9,98.79,UPI,Consumer,Rohan
+ORD-02139,2025-06-26,Desk,Furniture,North,Lucknow,7,8761.52,0.0,61330.64,42515.11,18815.53,Cash,Small Business,Isha
+ORD-02140,2025-01-28,Headphones,Electronics,South,Hyderabad,1,4893.17,0.0,4893.17,3412.47,1480.7,UPI,Consumer,Kabir
+ORD-02141,2025-10-05,Smartphone,Electronics,North,Jaipur,6,41170.55,0.05,234672.14,202003.5,32668.64,Debit Card,Consumer,Diya
+ORD-02142,2024-09-04,Smartphone,Electronics,West,Mumbai,4,21761.06,0.15,73987.6,65844.43,8143.17,Net Banking,Consumer,Rohan
+ORD-02143,2025-11-10,Headphones,Electronics,South,Chennai,4,1726.44,0.0,6905.76,4312.7,2593.06,UPI,Corporate,Meera
+ORD-02144,2025-09-08,Laptop,Electronics,West,Pune,8,77911.55,0.05,592127.78,441787.3,150340.48,Debit Card,Consumer,Vivaan
+ORD-02145,2024-08-29,Desk,Furniture,West,Pune,5,17781.59,0.1,80017.15,74337.0,5680.15,Debit Card,Corporate,Vivaan
+ORD-02146,2024-12-18,Pen Set,Stationery,East,Bhubaneswar,6,189.22,0.0,1135.32,812.03,323.29,Cash,Consumer,Kabir
+ORD-02147,2025-01-22,Headphones,Electronics,South,Bengaluru,3,2473.57,0.05,7049.67,4617.59,2432.08,Credit Card,Small Business,Isha
+ORD-02148,2025-07-15,Desk,Furniture,North,Delhi,1,15883.93,0.1,14295.54,10932.36,3363.18,Credit Card,Corporate,Diya
+ORD-02149,2025-05-18,Laptop,Electronics,North,Dehradun,6,45931.01,0.0,275586.06,213146.09,62439.97,UPI,Small Business,Anaya
+ORD-02150,2025-09-13,Backpack,Accessories,East,Ranchi,2,2753.19,0.0,5506.38,3671.33,1835.05,UPI,Consumer,Isha
+ORD-02151,2024-09-27,Backpack,Accessories,Central,Jabalpur,1,2341.52,0.05,2224.44,1398.21,826.23,Cash,Corporate,Vivaan
+ORD-02152,2025-01-03,Notebook,Stationery,Central,Raipur,1,79.24,0.05,75.28,60.04,15.24,UPI,Small Business,Vivaan
+ORD-02153,2024-11-10,Laptop,Electronics,North,Jaipur,5,51107.56,0.05,242760.91,187664.31,55096.6,UPI,Consumer,Anaya
+ORD-02154,2025-10-25,Office Chair,Furniture,South,Bengaluru,7,5554.29,0.0,38880.03,29676.36,9203.67,Net Banking,Small Business,Vivaan
+ORD-02155,2024-08-10,Smartphone,Electronics,South,Chennai,2,23758.51,0.05,45141.17,39726.79,5414.38,Net Banking,Consumer,Isha
+ORD-02156,2025-03-04,Printer,Electronics,Central,Bhopal,2,14430.67,0.05,27418.27,23139.63,4278.64,Debit Card,Small Business,Anaya
+ORD-02157,2024-03-28,Headphones,Electronics,East,Kolkata,8,4341.69,0.1,31260.17,20551.87,10708.3,Net Banking,Small Business,Diya
+ORD-02158,2025-09-12,Laptop,Electronics,North,Dehradun,8,76190.83,0.2,487621.31,429024.22,58597.09,UPI,Consumer,Diya
+ORD-02159,2024-10-07,Smartphone,Electronics,Central,Indore,1,24135.18,0.0,24135.18,16541.35,7593.83,Debit Card,Small Business,Vivaan
+ORD-02160,2024-09-05,Printer,Electronics,West,Mumbai,2,10403.86,0.0,20807.72,17121.65,3686.07,UPI,Consumer,Isha
+ORD-02161,2025-03-01,Headphones,Electronics,North,Lucknow,1,4048.91,0.0,4048.91,2838.3,1210.61,Credit Card,Small Business,Rohan
+ORD-02162,2024-12-30,Backpack,Accessories,North,Dehradun,6,1176.33,0.1,6352.18,4559.79,1792.39,Net Banking,Consumer,Rohan
+ORD-02163,2025-09-11,Headphones,Electronics,Central,Jabalpur,7,5226.98,0.0,36588.86,28264.67,8324.19,Credit Card,Consumer,Meera
+ORD-02164,2025-01-22,Smartphone,Electronics,South,Coimbatore,4,27904.19,0.05,106035.92,66462.92,39573.0,Debit Card,Corporate,Aarav
+ORD-02165,2025-01-12,Laptop,Electronics,West,Surat,8,64062.65,0.1,461251.08,407618.7,53632.38,Credit Card,Consumer,Vivaan
+ORD-02166,2024-03-17,Notebook,Stationery,South,Kochi,3,42.8,0.0,128.4,102.39,26.01,Credit Card,Corporate,Diya
+ORD-02167,2024-01-17,Laptop,Electronics,North,Chandigarh,3,67142.46,0.0,201427.38,157504.22,43923.16,Net Banking,Consumer,Isha
+ORD-02168,2024-10-17,Office Chair,Furniture,East,Patna,6,6140.0,0.2,29472.0,27580.79,1891.21,Debit Card,Consumer,Rohan
+ORD-02169,2025-12-29,Printer,Electronics,North,Jaipur,1,11909.55,0.1,10718.59,7720.58,2998.01,Cash,Corporate,Meera
+ORD-02170,2025-10-31,Water Bottle,Accessories,East,Kolkata,7,819.73,0.0,5738.11,4368.25,1369.86,UPI,Corporate,Anaya
+ORD-02171,2025-04-04,Water Bottle,Accessories,Central,Bhopal,1,421.6,0.0,421.6,295.45,126.15,UPI,Consumer,Anaya
+ORD-02172,2025-04-05,Desk,Furniture,Central,Indore,4,11447.46,0.15,38921.36,36293.81,2627.55,Credit Card,Consumer,Diya
+ORD-02173,2024-10-12,Office Chair,Furniture,Central,Raipur,3,5295.0,0.1,14296.5,11978.56,2317.94,Debit Card,Corporate,Vivaan
+ORD-02174,2024-05-09,Water Bottle,Accessories,East,Guwahati,6,658.63,0.1,3556.6,2831.62,724.98,Cash,Corporate,
+ORD-02175,2024-01-07,Office Chair,Furniture,North,Lucknow,6,9466.39,0.1,51118.51,37997.21,13121.3,UPI,Consumer,Aarav
+ORD-02176,2024-09-04,Headphones,Electronics,Central,Nagpur,7,3997.98,0.05,26586.57,21593.18,4993.39,Cash,Small Business,Rohan
+ORD-02177,2024-08-19,Laptop,Electronics,West,Ahmedabad,3,49318.05,0.1,133158.74,115873.25,17285.49,Debit Card,Consumer,Diya
+ORD-02178,2024-05-19,Desk,Furniture,South,Chennai,7,11200.65,0.0,78404.55,57416.26,20988.29,Cash,Corporate,Meera
+ORD-02179,2024-07-08,Smartphone,Electronics,West,Pune,5,27532.41,0.0,137662.05,99997.55,37664.5,Cash,Small Business,Rohan
+ORD-02180,2024-01-19,Printer,Electronics,North,Chandigarh,6,9032.58,0.05,51485.71,38853.55,12632.16,Credit Card,Consumer,Diya
+ORD-02181,2025-03-19,Headphones,Electronics,West,Vadodara,5,4604.01,0.05,21869.05,14174.68,7694.37,Net Banking,Consumer,Aarav
+ORD-02182,2025-11-08,Smartphone,Electronics,South,Chennai,8,38317.18,0.0,306537.44,199607.65,106929.79,UPI,Small Business,Diya
+ORD-02183,2025-05-19,Headphones,Electronics,West,Mumbai,7,3970.26,0.0,27791.82,20963.23,6828.59,Cash,Consumer,Diya
+ORD-02184,2024-11-23,Laptop,Electronics,West,Vadodara,3,77100.59,0.05,219736.68,179543.09,40193.59,Cash,Corporate,Kabir
+ORD-02185,2024-11-02,Backpack,Accessories,North,Dehradun,8,2040.66,0.1,14692.75,10539.0,4153.75,Net Banking,Corporate,Aarav
+ORD-02186,2024-08-12,Notebook,Stationery,Central,Raipur,8,92.52,0.15,629.14,599.57,29.57,Debit Card,Consumer,Rohan
+ORD-02187,2024-04-13,Smartphone,Electronics,West,Ahmedabad,5,41308.57,0.0,206542.85,156894.53,49648.32,UPI,Corporate,Rohan
+ORD-02188,2025-03-12,Pen Set,Stationery,West,Vadodara,5,237.66,0.1,1069.47,746.73,322.74,Debit Card,Consumer,Isha
+ORD-02189,2025-02-17,Smartphone,Electronics,North,Chandigarh,2,36221.67,0.0,72443.34,59590.1,12853.24,Credit Card,Small Business,Meera
+ORD-02190,2024-01-06,Office Chair,Furniture,North,Dehradun,2,11288.79,0.1,20319.82,13281.57,7038.25,Net Banking,Consumer,Rohan
+ORD-02191,2024-10-30,Backpack,Accessories,South,Hyderabad,1,2413.31,0.0,2413.31,1739.48,673.83,UPI,Corporate,Meera
+ORD-02192,2024-07-21,Backpack,Accessories,North,Delhi,8,1445.2,0.15,9827.36,7414.63,2412.73,Credit Card,Consumer,Isha
+ORD-02193,2024-05-04,Smartphone,Electronics,Central,Jabalpur,3,27718.06,0.1,74838.76,54175.76,20663.0,Debit Card,Corporate,Anaya
+ORD-02194,2025-05-28,Pen Set,Stationery,South,Hyderabad,2,325.76,0.0,651.52,484.46,167.06,UPI,Consumer,Aarav
+ORD-02195,2025-01-18,Laptop,Electronics,North,Delhi,3,60775.59,0.1,164094.09,137748.77,26345.32,Cash,Consumer,Rohan
+ORD-02196,2025-04-07,Laptop,Electronics,South,Coimbatore,6,62041.33,0.0,372247.98,294373.31,77874.67,Credit Card,Corporate,Aarav
+ORD-02197,2025-06-04,Pen Set,Stationery,South,Bengaluru,4,265.43,0.0,1061.72,769.03,292.69,Debit Card,Consumer,Diya
+ORD-02198,2025-12-17,Pen Set,Stationery,West,Surat,1,263.94,0.0,263.94,168.49,95.45,Debit Card,Small Business,Vivaan
+ORD-02199,2025-08-09,Office Chair,Furniture,North,Dehradun,2,10073.45,0.0,20146.9,15479.7,4667.2,Debit Card,Consumer,Aarav
+ORD-02200,2025-03-28,Backpack,Accessories,South,Coimbatore,4,1717.93,0.0,6871.72,4603.63,2268.09,Cash,Consumer,Isha
